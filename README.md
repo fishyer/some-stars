@@ -1,6 +1,6 @@
 <div align="center">
 
-# Some Stars
+# My Stars
 
 ⭐ 我的star列表，每天自动更新 ⭐
 
