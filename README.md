@@ -63,6 +63,8 @@
 
 ## miscellaneous
 
+*   [fishyer/some-stars](https://github.com/fishyer/some-stars) - 我的star列表，每天自动更新
+
 *   [rcy1314/All-about-Notion](https://github.com/rcy1314/All-about-Notion) - 这里是介绍及收录有关notion的开源及第三方程序以及收录优质notion创作者页面的地方
 
 *   [Xposed-Modules-Repo/com.wovow.youtubehelper](https://github.com/Xposed-Modules-Repo/com.wovow.youtubehelper) - YouTube去广告，锁屏播放 | NoAdsBackgroundPlaybackYT
@@ -2452,8 +2454,6 @@
 *   [KeepSafe/dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) - A Gradle plugin to report the number of method references in your APK on every build.
 
 *   [ZhaoKaiQiang/ScrollerDemo](https://github.com/ZhaoKaiQiang/ScrollerDemo) - 是一个Scroller的演示demo
-
-*   [campusappcn/AndRouter](https://github.com/campusappcn/AndRouter) - A android router framework used to map url to activities or actions.
 
 ## Vue
 
