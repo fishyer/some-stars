@@ -2699,7 +2699,7 @@
 
 *   [KZ25T/wechat-appimage](https://github.com/KZ25T/wechat-appimage) - 使用 AppImage 运行 Linux 原生微信
 
-*   [docker-library/redis](https://github.com/docker-library/redis) - Docker Official Image packaging for Redis
+*   [docker-library-transitioner/redis](https://github.com/docker-library-transitioner/redis) - Docker Official Image packaging for Redis
 
 *   [vegardit/docker-gitea-act-runner](https://github.com/vegardit/docker-gitea-act-runner) - Docker image based on debian:stable-slim to run Gitea's act\_runner as a Docker container
 
