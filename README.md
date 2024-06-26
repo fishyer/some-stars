@@ -2747,6 +2747,8 @@
 
 *   [ultrazg/xyz](https://github.com/ultrazg/xyz) - 小宇宙FM API
 
+*   [lw396/ChatCopilot](https://github.com/lw396/ChatCopilot) - ChatCopilot 是一款用 golang 实现的获取微信聊天记录并支持实时存储到数据库的工具，支持在 MacOS 上运行
+
 *   [dong9205/wechat\_hook](https://github.com/dong9205/wechat_hook) - 通过HTTP接口微信发送消息
 
 *   [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
@@ -3088,8 +3090,6 @@
 *   [greenzorro/bitcron-colachan](https://github.com/greenzorro/bitcron-colachan) - Bitcron blog theme.
 
 ## C
-
-*   [lw396/ChatCopilot](https://github.com/lw396/ChatCopilot) - ChatCopilot 是一款用 golang 实现的获取微信聊天记录并支持实时存储到数据库的工具，支持在 MacOS 上运行
 
 *   [Zalafina/QKeyMapper](https://github.com/Zalafina/QKeyMapper) - \[按键映射工具] QKeyMapper，Qt开发Win10\&Win11可用，不修改注册表、不需重新启动系统，可立即生效和停止，新增虚拟游戏手柄功能，可鼠标控制虚拟手柄摇杆。
 
