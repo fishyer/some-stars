@@ -283,7 +283,7 @@
 
 *   [sethyuan/logseq-plugin-ol](https://github.com/sethyuan/logseq-plugin-ol) - Ordered lists, flat or nested, multiple formats ordered lists.
 
-*   [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Source code extensions in the official PopClip Extensions directory.
+*   [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Source code for extensions in the official PopClip Extensions directory.
 
 *   [bvaughn/react-highlight-words](https://github.com/bvaughn/react-highlight-words) - React component to highlight words within a larger body of text
 
@@ -2425,7 +2425,7 @@
 
 *   [pyfbsdk59/Flask-ChatGPT-TelegramBot-Vercel](https://github.com/pyfbsdk59/Flask-ChatGPT-TelegramBot-Vercel) - 一個Flask ChatGPT TelegramBot快速建置於平台Vercel。
 
-*   [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - 🤖️ an AI chat Telegram bot can Web Search Powered by GPT, Claude2.1/3, Gemini and Groq using Python on Zeabur, fly.io and Replit.
+*   [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-3.5/4/4 Turbo/4o, DALL·E 3, Groq, Gemini 1.5 Pro/Flash and the official Claude2.1/3/3.5 API using Python on Zeabur, fly.io and Replit.
 
 *   [tigco/telegram-bot-on-replit](https://github.com/tigco/telegram-bot-on-replit) - Telegram bot implemented in Python running on Repl.it . It uses Flask and python-telegram-bot library.
 
