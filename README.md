@@ -2741,7 +2741,7 @@
 
 *   [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 
-*   [Yohann0617/tgNetDisc](https://github.com/Yohann0617/tgNetDisc) - 🤖利用Telegram接口，♾️️无限容量，不限制文件格式，不限制文件内容😏，占用很少的内存和磁盘空间📁，轻巧方便。上传成功会生成HTML、Markdown、BBCode三种形式的外链🔗，可以用来当做图床、文件下载url。
+*   [Yohann0617/tgNetDisc](https://github.com/Yohann0617/tgNetDisc) - 🤖基于Telegram API，无限容量，不限制文件格式，不限制文件内容😏，文件都存储在Telegram☁云端，轻巧方便。上传成功会生成HTML、Markdown、BBCode三种形式的外链🔗，可以用来当做图床、文件下载url。
 
 *   [pwh-pwh/aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel) - 使用vercel的functions，将ai功能加入微信公众号
 
