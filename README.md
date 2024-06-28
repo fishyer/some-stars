@@ -2787,7 +2787,7 @@
 
 *   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥🔥🔥An open-source, modern web-based server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。
 
 *   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 
