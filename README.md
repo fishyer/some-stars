@@ -25,10 +25,10 @@
 *   [Go](#go)
 *   [Kotlin](#kotlin)
 *   [PHP](#php)
-*   [Rust](#rust)
+*   [C](#c)
 *   [Swift](#swift)
 *   [Pug](#pug)
-*   [C](#c)
+*   [Rust](#rust)
 *   [C++](#c-1)
 *   [EJS](#ejs)
 *   [Dockerfile](#dockerfile)
@@ -3027,27 +3027,41 @@
 
 *   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 
-## Rust
+## C
 
 *   [fleek-network/lightning](https://github.com/fleek-network/lightning) - Fleek Network, a decentralized edge platform.
 
-*   [singcl/XmVideoPlayer](https://github.com/singcl/XmVideoPlayer) - 一款高颜值的支持播放和下载mp4, m3u8,flv,mpeg-dash等多种流媒体格式的桌面客户端 🔥。
+*   [Zalafina/QKeyMapper](https://github.com/Zalafina/QKeyMapper) - \[按键映射工具] QKeyMapper，Qt开发Win10\&Win11可用，不修改注册表、不需重新启动系统，可立即生效和停止，新增虚拟游戏手柄功能，可鼠标控制虚拟手柄摇杆。
 
-*   [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+*   [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 
-*   [labring/sealfs](https://github.com/labring/sealfs) - The storage system of sealos, aims to be a high-performance, high-reliability, and auto-scaling distributed file system
+*   [Qihoo360/Atlas](https://github.com/Qihoo360/Atlas) - A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team
 
-*   [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3.
+*   [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
 
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+*   [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
 
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+*   [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 
-*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
+*   [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
 
-*   [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
+*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
-*   [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+*   [bytedance/bhook](https://github.com/bytedance/bhook) - :fire: ByteHook is an Android PLT hook library which supports armeabi-v7a, arm64-v8a, x86 and x86\_64.
+
+*   [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) - :fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.
+
+*   [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
+
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+*   [logful/logful-android](https://github.com/logful/logful-android) - logful logging sdk for android
+
+*   [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
+
+*   [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
+
+*   [WizTeam/WizQTClient](https://github.com/WizTeam/WizQTClient) - 为知笔记跨平台客户端
 
 ## Swift
 
@@ -3089,39 +3103,25 @@
 
 *   [greenzorro/bitcron-colachan](https://github.com/greenzorro/bitcron-colachan) - Bitcron blog theme.
 
-## C
+## Rust
 
-*   [Zalafina/QKeyMapper](https://github.com/Zalafina/QKeyMapper) - \[按键映射工具] QKeyMapper，Qt开发Win10\&Win11可用，不修改注册表、不需重新启动系统，可立即生效和停止，新增虚拟游戏手柄功能，可鼠标控制虚拟手柄摇杆。
+*   [singcl/XmVideoPlayer](https://github.com/singcl/XmVideoPlayer) - 一款高颜值的支持播放和下载mp4, m3u8,flv,mpeg-dash等多种流媒体格式的桌面客户端 🔥。
 
-*   [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+*   [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
-*   [Qihoo360/Atlas](https://github.com/Qihoo360/Atlas) - A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team
+*   [labring/sealfs](https://github.com/labring/sealfs) - The storage system of sealos, aims to be a high-performance, high-reliability, and auto-scaling distributed file system
 
-*   [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
+*   [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3.
 
-*   [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
-*   [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
-*   [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
+*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 
-*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+*   [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
 
-*   [bytedance/bhook](https://github.com/bytedance/bhook) - :fire: ByteHook is an Android PLT hook library which supports armeabi-v7a, arm64-v8a, x86 and x86\_64.
-
-*   [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) - :fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.
-
-*   [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
-
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
-*   [logful/logful-android](https://github.com/logful/logful-android) - logful logging sdk for android
-
-*   [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
-
-*   [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
-
-*   [WizTeam/WizQTClient](https://github.com/WizTeam/WizQTClient) - 为知笔记跨平台客户端
+*   [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
 ## C++
 
