@@ -41,7 +41,6 @@
 *   [Elixir](#elixir)
 *   [Clojure](#clojure)
 *   [Lua](#lua)
-*   [AutoHotkey](#autohotkey)
 *   [AppleScript](#applescript)
 *   [Verilog](#verilog)
 *   [C#](#c-2)
@@ -2355,6 +2354,8 @@
 
 *   [Ignisor/FastAPIwee](https://github.com/Ignisor/FastAPIwee) - FastAPI + PeeWee = <3
 
+*   [lilyhcn1/ExcelRunAnyCode](https://github.com/lilyhcn1/ExcelRunAnyCode) - 通过excel运行代何代码。
+
 *   [radam9/bookmarks-converter](https://github.com/radam9/bookmarks-converter) - Parse db/html/json bookmarks file from (Chrome - Firefox - Custom source) and convert it to db/html/json format.
 
 *   [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py) - Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use
@@ -3406,10 +3407,6 @@
 ## Lua
 
 *   [yiweizhi-github/three\_kingdoms\_kill](https://github.com/yiweizhi-github/three_kingdoms_kill) -
-
-## AutoHotkey
-
-*   [lilyhcn1/ExcelRunAnyCode](https://github.com/lilyhcn1/ExcelRunAnyCode) - 通过excel运行代何代码。
 
 ## AppleScript
 
