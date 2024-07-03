@@ -44,7 +44,6 @@
 *   [AppleScript](#applescript)
 *   [Verilog](#verilog)
 *   [C#](#c-2)
-*   [QML](#qml)
 *   [Markdown](#markdown)
 *   [Makefile](#makefile)
 *   [Batchfile](#batchfile)
@@ -2402,6 +2401,8 @@
 
 *   [PeterDing/AliPCS-Py](https://github.com/PeterDing/AliPCS-Py) - Aliyundrive API & App 阿里云盘 API 和 客户端
 
+*   [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
+
 *   [reycn/fanyi-bot](https://github.com/reycn/fanyi-bot) - 🤖 Telegram 上的谷歌翻译机器人，为全世界语言提供中文翻译。
 
 *   [sertraline/zlibrary](https://github.com/sertraline/zlibrary) - Unofficial Z-Library API
@@ -3433,10 +3434,6 @@
 *   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 
 *   [atemerev/skynet](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark
-
-## QML
-
-*   [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 
 ## Markdown
 
