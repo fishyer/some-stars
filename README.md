@@ -1971,7 +1971,7 @@
 
 *   [abczmx/17ce](https://github.com/abczmx/17ce) - 17cechajian
 
-*   [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
+*   [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 
 *   [francistao/LearningNotes](https://github.com/francistao/LearningNotes) - Enjoy Learning.
 
