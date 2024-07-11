@@ -533,7 +533,7 @@
 
 *   [Dhravya/supermemory](https://github.com/Dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 
-*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
+*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. You can quickly run any Docker image on sealos, quickly start high availability databases like mysql/pgsql/redis/mongo, develop backend applications quickly using node.js serverless
 
 *   [niudai/VSCode-Zhihu](https://github.com/niudai/VSCode-Zhihu) - Zhihu extension built on vscode.
 
