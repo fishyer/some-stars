@@ -1843,6 +1843,8 @@
 
 *   [glomadrian/RoadRunner](https://github.com/glomadrian/RoadRunner) - Road Runner is a library for android which allow you to make your own loading animation using a SVG image
 
+*   [Devlight/TintLayout](https://github.com/Devlight/TintLayout) - This library help you to achieve popular drop shadow effect from view.
+
 ## Jupyter Notebook
 
 *   [dibingfa/shanke-machine-learning](https://github.com/dibingfa/shanke-machine-learning) -
@@ -2272,8 +2274,6 @@
 *   [wang-zhibo/duckgo\_api](https://github.com/wang-zhibo/duckgo_api) - async duckduckgo api  免费的无限制的搜索接口, 和免费的 ai chat gpt-3.5,claude-3-haiku,llama-3-70b,mixtral-8x7b
 
 *   [zhulinyv/Semi-Auto-NovelAI-to-Pixiv](https://github.com/zhulinyv/Semi-Auto-NovelAI-to-Pixiv) - 带有 WebUI 的 NovelAI 量产工具, 实现了批量文生图; 批量图生图; 视频转绘; 分块重绘; 批量 Vibe; 批量局部重绘; 批量超分降噪; 批量自动打码; 批量添加水印; 批量上传 Pixiv; 图片筛选; 批量抹除, 还原或导出生成信息; 法术解析; 多模型反推提示词; ChatGPT; 动态加载插件; 自动 roll 画风串; 批量 Enhance; tag选择器; 涂鸦重绘
-
-*   [cecats/autosendmail](https://github.com/cecats/autosendmail) - 自动回复邮件程序
 
 *   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 
