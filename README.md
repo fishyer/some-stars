@@ -912,7 +912,7 @@
 
 *   [wenmingvs/AndroidProcess](https://github.com/wenmingvs/AndroidProcess) - 判断App位于前台或者后台的6种方法
 
-*   [yangchong211/YCAppTool](https://github.com/yangchong211/YCAppTool) - 组件化综合案例，组件分层为：基础公共组件，功能组件，业务组件，主工程。每一层组件的建设，很详细的工程案例，很全面的一个组件化实践案例。一个超级综合案例！
+*   [yangchong211/YCAppTool](https://github.com/yangchong211/YCAppTool) - 🔥🔥🔥 组件化综合案例，组件分层为：基础公共组件，功能组件，业务组件，主工程。每一层组件的建设，很详细的工程案例，很全面的一个组件化实践案例。一个超级综合案例！
 
 *   [YoKeyword/Fragmentation](https://github.com/YoKeyword/Fragmentation) - \[DEPRECATED] A powerful library that manage Fragment for Android
 
