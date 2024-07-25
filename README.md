@@ -47,6 +47,7 @@
 *   [Markdown](#markdown)
 *   [Makefile](#makefile)
 *   [Batchfile](#batchfile)
+*   [Ruby](#ruby)
 *   [SCSS](#scss)
 *   [IDL](#idl)
 *   [MDX](#mdx)
@@ -55,7 +56,6 @@
 *   [CoffeeScript](#coffeescript)
 *   [OCaml](#ocaml)
 *   [RAML](#raml)
-*   [Ruby](#ruby)
 *   [GCC Machine Description](#gcc-machine-description)
 *   [TeX](#tex)
 
@@ -540,8 +540,6 @@
 *   [lmm214/memos-bber](https://github.com/lmm214/memos-bber) - Memos 的 Chrome 扩展
 
 *   [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-
-*   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 
 *   [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
@@ -3457,6 +3455,12 @@
 
 *   [snomiao/calibre-utf8-path](https://github.com/snomiao/calibre-utf8-path) - Switch my calibre library from ascii path to plain utf8(unicode ) path. 将我的书库从拼音目录切换至中文命名
 
+## Ruby
+
+*   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+
+*   [cesarferreira/dryrun](https://github.com/cesarferreira/dryrun) - :cloud: Try the demo project of any Android Library
+
 ## SCSS
 
 *   [shuibaco/bitcron-themes](https://github.com/shuibaco/bitcron-themes) - Bitcron主题集
@@ -3536,10 +3540,6 @@
 ## RAML
 
 *   [qingmang-team/docs](https://github.com/qingmang-team/docs) - 轻芒对外服务的文档说明
-
-## Ruby
-
-*   [cesarferreira/dryrun](https://github.com/cesarferreira/dryrun) - :cloud: Try the demo project of any Android Library
 
 ## GCC Machine Description
 
