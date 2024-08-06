@@ -500,6 +500,8 @@
 
 *   [vikingmute/webpack-for-fools](https://github.com/vikingmute/webpack-for-fools) - webpack tutorial for fools
 
+*   [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
+
 *   [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 
 *   [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
@@ -2429,8 +2431,6 @@
 *   [eternnoir/pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
 
 *   [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
-
-*   [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
