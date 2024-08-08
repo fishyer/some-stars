@@ -2896,7 +2896,7 @@
 
 *   [javakam/FileOperator](https://github.com/javakam/FileOperator) - 🔥 涵盖了Android系统文件的创建/删除/复制/打开文件(目录)、获取文件(目录)大小、获取常用目录、获取文件名称及后缀、获取MimeType以及MediaStore和SAF的相关操作等常用功能，并且也处理了获取文件Uri/Path的兼容问题、图片压缩和文件选择等功能。
 
-*   [smallSohoSolo/McImage](https://github.com/smallSohoSolo/McImage) - Android Gradle Plugin  -- Auto Check big image and compress image in building.
+*   [owenlongbo/McImage](https://github.com/owenlongbo/McImage) - Android Gradle Plugin  -- Auto Check big image and compress image in building.
 
 *   [mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics) - Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.
 
