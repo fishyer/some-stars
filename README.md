@@ -2774,7 +2774,7 @@
 
 *   [HuanMeng233/weread\_downloader](https://github.com/HuanMeng233/weread_downloader) - 学习
 
-*   [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
+*   [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 
 *   [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code
 
@@ -3142,7 +3142,7 @@
 
 *   [Level/leveldown](https://github.com/Level/leveldown) - Pure C++ Node.js LevelDB binding. An abstract-leveldown compliant store.
 
-*   [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
+*   [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
 
 *   [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
 
