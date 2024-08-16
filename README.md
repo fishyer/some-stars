@@ -2844,7 +2844,7 @@
 
 ## Kotlin
 
-*   [SkyD666/AniVu](https://github.com/SkyD666/AniVu) - All-in-one Android app for RSS, BitTorrent dl & play. MVI arch, Material You style. ⭐️ Star to support! 一站式 RSS 订阅、BitTorrent 下载和媒体播放 Android 应用。采用 MVI 架构和 Material You 风格。⭐️点个 Star 以支持工作
+*   [SkyD666/AniVu](https://github.com/SkyD666/AniVu) - All-in-one Android app for RSS, BitTorrent dl & play. MVI arch, Material You style. ⭐️ Star to support!
 
 *   [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
 
