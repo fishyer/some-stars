@@ -3114,6 +3114,8 @@
 
 *   [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) - :fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.
 
+*   [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+
 *   [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
 
 *   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -3133,8 +3135,6 @@
 *   [iampawan/ChatGPT-Flutter-AIChatBot](https://github.com/iampawan/ChatGPT-Flutter-AIChatBot) - A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language model.
 
 *   [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
-
-*   [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 
 *   [pujfei/eleeye](https://github.com/pujfei/eleeye) - A famous Chinese Chess Engine: Elephant Eye.
 
