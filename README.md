@@ -1594,7 +1594,7 @@
 
 *   [zhangke3016/MethodInterceptProxy](https://github.com/zhangke3016/MethodInterceptProxy) - MethodInterceptProxy for Android.It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access.
 
-*   [yangchong211/YCRefreshView](https://github.com/yangchong211/YCRefreshView) - 自定义支持上拉加载更多，下拉刷新，可以自定义头部和底部，可以添加多个headerView，使用一个原生recyclerView就可以搞定复杂界面。支持自由切换状态【加载中，加载成功，加载失败，没网络等状态】的控件，可以自定义状态视图View。拓展功能【支持长按拖拽，侧滑删除】，轻量级，可以选择性添加 。多年前已经使用于前项目投资界，新芽，沙丘大学等APP正式项目中！持续更新……
+*   [yangchong211/YCRefreshView](https://github.com/yangchong211/YCRefreshView) - 自定义支持上拉加载更多，下拉刷新，可以自定义头部和底部，可以添加多个headerView，使用一个原生recyclerView就可以搞定复杂界面。支持自由切换状态【加载中，加载成功，加载失败，没网络等状态】的控件，可以自定义状态视图View。拓展功能【支持长按拖拽，侧滑删除】，轻量级，可以选择性添加 。持续更新……
 
 *   [kaleai/CommonAdapter](https://github.com/kaleai/CommonAdapter) - 通过封装BaseAdapter和RecyclerView.Adapter得到的通用的，简易的Adapter
 
