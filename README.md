@@ -2442,7 +2442,7 @@
 
 *   [meolu/walle-web](https://github.com/meolu/walle-web) - walle - 瓦力 Devops开源项目代码部署平台
 
-*   [opendevops-cn/opendevops](https://github.com/opendevops-cn/opendevops) - CODO是一款为用户提供企业多混合云、一站式DevOps、自动化运维、完全开源的云管理平台、自动化运维平台
+*   [opendevops-cn/opendevops](https://github.com/opendevops-cn/opendevops) - CODO是一款为用户提供企业多混合云、全球一站式DevOps、自动化运维、完全开源的云管理平台、自动化运维平台
 
 *   [pictuga/morss](https://github.com/pictuga/morss) - Get full text RSS feeds
 
