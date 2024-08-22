@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
@@ -23,7 +24,6 @@
 *   [Python](#python)
 *   [Shell](#shell)
 *   [Go](#go)
-*   [Kotlin](#kotlin)
 *   [PHP](#php)
 *   [Rust](#rust)
 *   [Swift](#swift)
@@ -59,6 +59,144 @@
 *   [Ruby](#ruby)
 *   [GCC Machine Description](#gcc-machine-description)
 *   [TeX](#tex)
+
+## Kotlin
+
+*   [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
+
+*   [SkyD666/AniVu](https://github.com/SkyD666/AniVu) - All-in-one Android app for RSS, BitTorrent dl & play. MVI arch, Material You style. ⭐️ Star to support!
+
+*   [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
+
+*   [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
+
+*   [PierfrancescoSoffritti/android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player) - YouTube Player library for Android and Chromecast, stable and customizable.
+
+*   [crazyqiang/AndroidStudy](https://github.com/crazyqiang/AndroidStudy) - 🔥 Android学习知识点总结 Jetpack、MVVM、MVI、Kotlin、ViewPager2、JUC多线程等，欢迎star！
+
+*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+
+*   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
+
+*   [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.
+
+*   [HighCapable/YukiHookAPI](https://github.com/HighCapable/YukiHookAPI) - ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
+
+*   [intuit/hooks](https://github.com/intuit/hooks) - Hooks is a little module for plugins, in Kotlin
+
+*   [iceCola7/WanAndroid](https://github.com/iceCola7/WanAndroid) - 🔥项目采用 Kotlin 语言，基于 MVP + RxJava + Retrofit + Glide + EventBus 等架构设计，努力打造一款优秀的  \[玩Android] 客户端
+
+*   [czy1121/update](https://github.com/czy1121/update) - 清晰灵活简单易用的应用更新库
+
+*   [fishyer/demo-learn-android](https://github.com/fishyer/demo-learn-android) -
+
+*   [rengwuxian/CourseComposeModifierDraw](https://github.com/rengwuxian/CourseComposeModifierDraw) - 【不是开源项目】扔物线 Compose 课程源码
+
+*   [RicardoJiang/compose-fps](https://github.com/RicardoJiang/compose-fps) -
+
+*   [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
+
+*   [hi-dhl/KtPractice](https://github.com/hi-dhl/KtPractice) - 这个仓库用于实践和测试 Kotlin 、 Java 性能 和 新语法相关的代码案例，正在陆续添加新的案例。欢迎 star
+
+*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
+
+*   [Quyunshuo/AndroidBaseFrameMVVM](https://github.com/Quyunshuo/AndroidBaseFrameMVVM) - 基于 Jetpack + Kotlin 的 Android 组件化 MVVM 框架
+
+*   [iOrchid/android-jetpack-demo](https://github.com/iOrchid/android-jetpack-demo) - 🔥  快速入门Android Jetpack\&Compose 以及相关Kotlin、MVVM/MVI等独立构架App的基础技能
+
+*   [hfhuaizhi/ScaleContainerView](https://github.com/hfhuaizhi/ScaleContainerView) - scale container
+
+*   [zhujiang521/PlayAndroid](https://github.com/zhujiang521/PlayAndroid) - 🔥🔥🔥 Kotlin + MVVM + LCE版玩安卓，暗黑模式、横竖屏、无网、弱网、无数据、加载失败等等各种情况，协程、Room、Hilt、DataStore、LiveData、Retrofit、屏幕适配、本地缓存、多语言切换、多 lib，你想要的我都有！！！
+
+*   [DeweyReed/ClipboardCleaner](https://github.com/DeweyReed/ClipboardCleaner) - Check and clean your clipboard using service, widget, shortcut and quick setting tile.
+
+*   [zhujiang521/AndroidAOP](https://github.com/zhujiang521/AndroidAOP) - aop的方式实现防止按钮重复点击，java和kotlin都能使用
+
+*   [javakam/FileOperator](https://github.com/javakam/FileOperator) - 🔥 涵盖了Android系统文件的创建/删除/复制/打开文件(目录)、获取文件(目录)大小、获取常用目录、获取文件名称及后缀、获取MimeType以及MediaStore和SAF的相关操作等常用功能，并且也处理了获取文件Uri/Path的兼容问题、图片压缩和文件选择等功能。
+
+*   [owenlongbo/McImage](https://github.com/owenlongbo/McImage) - Android Gradle Plugin  -- Auto Check big image and compress image in building.
+
+*   [mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics) - Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.
+
+*   [kukyxs/CoroutinesWanAndroid](https://github.com/kukyxs/CoroutinesWanAndroid) - 超完整的「玩 Android」客户端，项目采用 MVVM, Android Jetpack, Retrofit, Kotlin 协程, Koin 编写。如果该项目对你学习过程有用，请给个 star，感谢
+
+*   [minminaya/GenaralRoundLayout](https://github.com/minminaya/GenaralRoundLayout) - kotlin封装的通用圆角布局
+
+*   [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
+
+*   [rarnu/ktfunctional](https://github.com/rarnu/ktfunctional) - a functional library for kotlin(android)
+
+*   [kosi-libs/Kodein](https://github.com/kosi-libs/Kodein) - Painless Kotlin Dependency Injection
+
+*   [kizitonwose/Time](https://github.com/kizitonwose/Time) - Type-safe time calculations in Kotlin, powered by generics.
+
+*   [kittinunf/Fuse](https://github.com/kittinunf/Fuse) - The simple generic LRU memory/disk cache for Android written in Kotlin
+
+*   [kittinunf/fuel](https://github.com/kittinunf/fuel) - The easiest HTTP networking library for Kotlin/Android
+
+*   [cn-ljb/mvp-kotlin](https://github.com/cn-ljb/mvp-kotlin) - android mvp  and auto code
+
+*   [square/kotlinpoet](https://github.com/square/kotlinpoet) - A Kotlin API for generating .kt source files.
+
+*   [thisisqubika/fakeit](https://github.com/thisisqubika/fakeit) - The Kotlin fake data generator library!
+
+*   [MarioAriasC/funKTionale](https://github.com/MarioAriasC/funKTionale) - Functional constructs for Kotlin
+
+*   [didi/booster](https://github.com/didi/booster) - 🚀Optimizer for mobile applications
+
+*   [rarnu/KtGen](https://github.com/rarnu/KtGen) -
+
+*   [panpf/assembly-adapter](https://github.com/panpf/assembly-adapter) - AssemblyAdapter 是 Android 上的一个为各种 Adapter 提供开箱即用实现的库。AssemblyAdapter is a library on Android that provides out-of-the-box implementations for various Adapters.
+
+*   [MarcinMoskala/ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Simple Android Library, that provides easy way to start the Activities with arguments.
+
+*   [7449/Album](https://github.com/7449/Album) - android 图片视频加载库，单选，多选，预览，自定义UI，相机，裁剪...等等 适配10-13
+
+*   [esafirm/android-image-picker](https://github.com/esafirm/android-image-picker) - Image Picker for Android 🤖
+
+*   [XiaoQiWen/KRefreshLayout](https://github.com/XiaoQiWen/KRefreshLayout) - 强大的下拉刷新库，定制任意Header。比官方SwipRefrehLayout处理更加友好(Kotlin、Java双版本)
+
+*   [adisonhuang/awesome-kotlin-android](https://github.com/adisonhuang/awesome-kotlin-android) - 🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源
+
+*   [JakeWharton/retrofit2-kotlin-coroutines-adapter](https://github.com/JakeWharton/retrofit2-kotlin-coroutines-adapter) - A Retrofit 2 adapter for Kotlin coroutine's Deferred type.
+
+*   [mazouri/android-mvp](https://github.com/mazouri/android-mvp) - 使用kotlin实现简单的Android MVP模式Demo
+
+*   [InsertKoinIO/koin](https://github.com/InsertKoinIO/koin) - Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
+
+*   [foolchen/AndroidTracker](https://github.com/foolchen/AndroidTracker) - Android端无埋点统计方案
+
+*   [JakeWharton/timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
+
+*   [nickbutcher/plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design.
+
+*   [kscripting/kscript](https://github.com/kscripting/kscript) - Scripting enhancements for Kotlin
+
+*   [yikousamo/wallpaper](https://github.com/yikousamo/wallpaper) - kotlin版本壁纸应用
+
+*   [ACRA/acra](https://github.com/ACRA/acra) - Application Crash Reports for Android
+
+*   [airbnb/mavericks](https://github.com/airbnb/mavericks) - Mavericks: Android on Autopilot
+
+*   [git-xuhao/KotlinMvp](https://github.com/git-xuhao/KotlinMvp) - :fire: 基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现短视频类小项目，简约风格及详细注释，欢迎 star or fork！
+
+*   [KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+
+*   [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+
+*   [facebook/litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
+
+*   [drakeet/MultiType](https://github.com/drakeet/MultiType) - Flexible multiple types for Android RecyclerView.
+
+*   [dumingxin/AndroidDevGuid](https://github.com/dumingxin/AndroidDevGuid) -
+
+*   [ice1000/KitikuMaker](https://github.com/ice1000/KitikuMaker) - An extremely interesting Android app, playing kitiku sounds
+
+*   [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+
+*   [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 
 ## miscellaneous
 
@@ -2162,8 +2300,6 @@
 
 *   [Nightonke/BlurLockView](https://github.com/Nightonke/BlurLockView) - Lock view with blur effect. Easy to customise.
 
-*   [glomadrian/RoadRunner](https://github.com/glomadrian/RoadRunner) - Road Runner is a library for android which allow you to make your own loading animation using a SVG image
-
 ## Jupyter Notebook
 
 *   [dibingfa/shanke-machine-learning](https://github.com/dibingfa/shanke-machine-learning) -
@@ -2841,142 +2977,6 @@
 *   [httprunner/httprunner](https://github.com/httprunner/httprunner) - HttpRunner 是一个开源的 API/UI 测试工具，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。
 
 *   [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
-
-## Kotlin
-
-*   [SkyD666/AniVu](https://github.com/SkyD666/AniVu) - All-in-one Android app for RSS, BitTorrent dl & play. MVI arch, Material You style. ⭐️ Star to support!
-
-*   [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
-
-*   [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
-
-*   [PierfrancescoSoffritti/android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player) - YouTube Player library for Android and Chromecast, stable and customizable.
-
-*   [crazyqiang/AndroidStudy](https://github.com/crazyqiang/AndroidStudy) - 🔥 Android学习知识点总结 Jetpack、MVVM、MVI、Kotlin、ViewPager2、JUC多线程等，欢迎star！
-
-*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
-*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-
-*   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
-
-*   [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.
-
-*   [HighCapable/YukiHookAPI](https://github.com/HighCapable/YukiHookAPI) - ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
-
-*   [intuit/hooks](https://github.com/intuit/hooks) - Hooks is a little module for plugins, in Kotlin
-
-*   [iceCola7/WanAndroid](https://github.com/iceCola7/WanAndroid) - 🔥项目采用 Kotlin 语言，基于 MVP + RxJava + Retrofit + Glide + EventBus 等架构设计，努力打造一款优秀的  \[玩Android] 客户端
-
-*   [czy1121/update](https://github.com/czy1121/update) - 清晰灵活简单易用的应用更新库
-
-*   [fishyer/demo-learn-android](https://github.com/fishyer/demo-learn-android) -
-
-*   [rengwuxian/CourseComposeModifierDraw](https://github.com/rengwuxian/CourseComposeModifierDraw) - 【不是开源项目】扔物线 Compose 课程源码
-
-*   [RicardoJiang/compose-fps](https://github.com/RicardoJiang/compose-fps) -
-
-*   [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
-
-*   [hi-dhl/KtPractice](https://github.com/hi-dhl/KtPractice) - 这个仓库用于实践和测试 Kotlin 、 Java 性能 和 新语法相关的代码案例，正在陆续添加新的案例。欢迎 star
-
-*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
-
-*   [Quyunshuo/AndroidBaseFrameMVVM](https://github.com/Quyunshuo/AndroidBaseFrameMVVM) - 基于 Jetpack + Kotlin 的 Android 组件化 MVVM 框架
-
-*   [iOrchid/android-jetpack-demo](https://github.com/iOrchid/android-jetpack-demo) - 🔥  快速入门Android Jetpack\&Compose 以及相关Kotlin、MVVM/MVI等独立构架App的基础技能
-
-*   [hfhuaizhi/ScaleContainerView](https://github.com/hfhuaizhi/ScaleContainerView) - scale container
-
-*   [zhujiang521/PlayAndroid](https://github.com/zhujiang521/PlayAndroid) - 🔥🔥🔥 Kotlin + MVVM + LCE版玩安卓，暗黑模式、横竖屏、无网、弱网、无数据、加载失败等等各种情况，协程、Room、Hilt、DataStore、LiveData、Retrofit、屏幕适配、本地缓存、多语言切换、多 lib，你想要的我都有！！！
-
-*   [DeweyReed/ClipboardCleaner](https://github.com/DeweyReed/ClipboardCleaner) - Check and clean your clipboard using service, widget, shortcut and quick setting tile.
-
-*   [zhujiang521/AndroidAOP](https://github.com/zhujiang521/AndroidAOP) - aop的方式实现防止按钮重复点击，java和kotlin都能使用
-
-*   [javakam/FileOperator](https://github.com/javakam/FileOperator) - 🔥 涵盖了Android系统文件的创建/删除/复制/打开文件(目录)、获取文件(目录)大小、获取常用目录、获取文件名称及后缀、获取MimeType以及MediaStore和SAF的相关操作等常用功能，并且也处理了获取文件Uri/Path的兼容问题、图片压缩和文件选择等功能。
-
-*   [owenlongbo/McImage](https://github.com/owenlongbo/McImage) - Android Gradle Plugin  -- Auto Check big image and compress image in building.
-
-*   [mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics) - Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.
-
-*   [kukyxs/CoroutinesWanAndroid](https://github.com/kukyxs/CoroutinesWanAndroid) - 超完整的「玩 Android」客户端，项目采用 MVVM, Android Jetpack, Retrofit, Kotlin 协程, Koin 编写。如果该项目对你学习过程有用，请给个 star，感谢
-
-*   [minminaya/GenaralRoundLayout](https://github.com/minminaya/GenaralRoundLayout) - kotlin封装的通用圆角布局
-
-*   [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
-
-*   [rarnu/ktfunctional](https://github.com/rarnu/ktfunctional) - a functional library for kotlin(android)
-
-*   [kosi-libs/Kodein](https://github.com/kosi-libs/Kodein) - Painless Kotlin Dependency Injection
-
-*   [kizitonwose/Time](https://github.com/kizitonwose/Time) - Type-safe time calculations in Kotlin, powered by generics.
-
-*   [kittinunf/Fuse](https://github.com/kittinunf/Fuse) - The simple generic LRU memory/disk cache for Android written in Kotlin
-
-*   [kittinunf/fuel](https://github.com/kittinunf/fuel) - The easiest HTTP networking library for Kotlin/Android
-
-*   [cn-ljb/mvp-kotlin](https://github.com/cn-ljb/mvp-kotlin) - android mvp  and auto code
-
-*   [square/kotlinpoet](https://github.com/square/kotlinpoet) - A Kotlin API for generating .kt source files.
-
-*   [thisisqubika/fakeit](https://github.com/thisisqubika/fakeit) - The Kotlin fake data generator library!
-
-*   [MarioAriasC/funKTionale](https://github.com/MarioAriasC/funKTionale) - Functional constructs for Kotlin
-
-*   [didi/booster](https://github.com/didi/booster) - 🚀Optimizer for mobile applications
-
-*   [rarnu/KtGen](https://github.com/rarnu/KtGen) -
-
-*   [panpf/assembly-adapter](https://github.com/panpf/assembly-adapter) - AssemblyAdapter 是 Android 上的一个为各种 Adapter 提供开箱即用实现的库。AssemblyAdapter is a library on Android that provides out-of-the-box implementations for various Adapters.
-
-*   [MarcinMoskala/ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Simple Android Library, that provides easy way to start the Activities with arguments.
-
-*   [7449/Album](https://github.com/7449/Album) - android 图片视频加载库，单选，多选，预览，自定义UI，相机，裁剪...等等 适配10-13
-
-*   [esafirm/android-image-picker](https://github.com/esafirm/android-image-picker) - Image Picker for Android 🤖
-
-*   [XiaoQiWen/KRefreshLayout](https://github.com/XiaoQiWen/KRefreshLayout) - 强大的下拉刷新库，定制任意Header。比官方SwipRefrehLayout处理更加友好(Kotlin、Java双版本)
-
-*   [adisonhuang/awesome-kotlin-android](https://github.com/adisonhuang/awesome-kotlin-android) - 🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源
-
-*   [JakeWharton/retrofit2-kotlin-coroutines-adapter](https://github.com/JakeWharton/retrofit2-kotlin-coroutines-adapter) - A Retrofit 2 adapter for Kotlin coroutine's Deferred type.
-
-*   [mazouri/android-mvp](https://github.com/mazouri/android-mvp) - 使用kotlin实现简单的Android MVP模式Demo
-
-*   [InsertKoinIO/koin](https://github.com/InsertKoinIO/koin) - Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
-
-*   [foolchen/AndroidTracker](https://github.com/foolchen/AndroidTracker) - Android端无埋点统计方案
-
-*   [JakeWharton/timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
-
-*   [nickbutcher/plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design.
-
-*   [kscripting/kscript](https://github.com/kscripting/kscript) - Scripting enhancements for Kotlin
-
-*   [yikousamo/wallpaper](https://github.com/yikousamo/wallpaper) - kotlin版本壁纸应用
-
-*   [ACRA/acra](https://github.com/ACRA/acra) - Application Crash Reports for Android
-
-*   [airbnb/mavericks](https://github.com/airbnb/mavericks) - Mavericks: Android on Autopilot
-
-*   [git-xuhao/KotlinMvp](https://github.com/git-xuhao/KotlinMvp) - :fire: 基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现短视频类小项目，简约风格及详细注释，欢迎 star or fork！
-
-*   [KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
-
-*   [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
-
-*   [facebook/litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
-
-*   [drakeet/MultiType](https://github.com/drakeet/MultiType) - Flexible multiple types for Android RecyclerView.
-
-*   [dumingxin/AndroidDevGuid](https://github.com/dumingxin/AndroidDevGuid) -
-
-*   [ice1000/KitikuMaker](https://github.com/ice1000/KitikuMaker) - An extremely interesting Android app, playing kitiku sounds
-
-*   [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
-
-*   [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 
 ## PHP
 
