@@ -1204,7 +1204,7 @@
 
 *   [akosbalasko/yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
 
-*   [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - TidGi is an privatcy-in-mind, automated, auto-git-backup, freely-deployed Tiddlywiki knowledge management Desktop note app, with local REST API. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details)
+*   [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - TidGi is an privacy-in-mind, automated, auto-git-backup, freely-deployed knowledge management Desktop note app, based on Tiddlywiki, with REST API for web-clipping and Anki connect. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details)
 
 *   [hyrijk/logseq-plugin-block-to-page](https://github.com/hyrijk/logseq-plugin-block-to-page) -
 
