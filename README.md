@@ -1184,7 +1184,7 @@
 
 ## Dart
 
-*   [lollipopkit/flutter\_server\_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox app using Flutter
+*   [lollipopkit/flutter\_server\_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 
 *   [yuexunshi/todo](https://github.com/yuexunshi/todo) - 基于玩安卓api的todo
 
