@@ -684,6 +684,8 @@
 
 *   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
+*   [baiy/Ctool](https://github.com/baiy/Ctool) - 程序开发常用工具 chrome / edge / firefox / utools / windows / linux / mac
+
 *   [vanadium23/obsidian-advanced-new-file](https://github.com/vanadium23/obsidian-advanced-new-file) - Create file in chosen folder
 
 *   [mohuishou/utools](https://github.com/mohuishou/utools) - utools 插件，utools api, chrome历史记录搜索、vscode历史项目搜索、otp两步验证，iconfont图标搜索下载、语雀搜索等
@@ -1863,8 +1865,6 @@
 *   [natfrp/wiki](https://github.com/natfrp/wiki) - SakuraFrp 官方帮助文档
 
 *   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-
-*   [baiy/Ctool](https://github.com/baiy/Ctool) - 程序开发常用工具 chrome / edge / firefox / utools / windows / linux / mac
 
 *   [betterRunner/context-note](https://github.com/betterRunner/context-note) - A note-taking chrome extension: taking notes on the web with their context.
 
