@@ -1068,6 +1068,8 @@
 
 *   [ydf0509/nb\_log](https://github.com/ydf0509/nb_log) - pip install nb\_log 各种日志handler和自动转化项目的任意print的效果。日志自动彩色炫酷，可点击控制台的日志自动精确跳转到pycharm的文件和行号。文件日志多进程切割安全。在10个最重要方面全方位超过loguru
 
+*   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
+
 *   [tgbot-collection/ExpressBot](https://github.com/tgbot-collection/ExpressBot) - 一个可以帮你订阅、查询快递物流、跟你闲聊Telegram机器人
 
 *   [lijingcheng/telegram-bot](https://github.com/lijingcheng/telegram-bot) - At present is just a example, to extend ~
@@ -1521,8 +1523,6 @@
 *   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 
 *   [fishyer/RSSHub](https://github.com/fishyer/RSSHub) - 🍰 Everything is RSSible
-
-*   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 
 *   [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 
