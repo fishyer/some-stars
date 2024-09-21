@@ -3520,7 +3520,7 @@
 
 *   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 
-*   [snowdreamtech/frp](https://github.com/snowdreamtech/frp) - Docker Images for Frp.     (amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le,riscv64, s390x)
+*   [snowdreamtech/frp](https://github.com/snowdreamtech/frp) - Docker Images for Frp.     (amd64, arm32v5, arm32v6, arm32v7, arm64v8, i386, mips64le, ppc64le,riscv64, s390x)
 
 *   [junxy/docker-ray](https://github.com/junxy/docker-ray) - 大小只有 15M 的 v2ray docker 镜像
 
