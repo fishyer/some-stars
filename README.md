@@ -3168,7 +3168,7 @@
 
 *   [RayWangQvQ/sing-box-installer](https://github.com/RayWangQvQ/sing-box-installer) - 基于docker一键安装sing-box服务端，并自动生成vmess、naiveproxy、hysteria2节点
 
-*   [KZ25T/wechat-appimage](https://github.com/KZ25T/wechat-appimage) - 使用 AppImage 运行 Linux 原生微信，支持 debian/Arch/RHEL 三大发行版系列
+*   [KZ25T/wechat-appimage](https://github.com/KZ25T/wechat-appimage) - Linux 运行微信（可能是）最简单的方法，支持 debian/Arch/RHEL 三大发行版系列
 
 *   [redis/docker-library-redis](https://github.com/redis/docker-library-redis) - Docker Official Image packaging for Redis
 
