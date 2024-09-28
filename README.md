@@ -550,7 +550,7 @@
 
 *   [phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
 
-*   [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor —— 开源 Web 富文本编辑器
+*   [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor, open-source Web rich text editor 开源 Web 富文本编辑器
 
 *   [SebastianMC/obsidian-custom-sort](https://github.com/SebastianMC/obsidian-custom-sort) - Take full control over the order and sorting of folders and notes in File Explorer in Obsidian
 
