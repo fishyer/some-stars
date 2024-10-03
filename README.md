@@ -758,7 +758,7 @@
 
 *   [leaferjs/ui](https://github.com/leaferjs/ui) - 一款好用的 Canvas 渲染引擎，革新的体验。高效绘图 、UI 交互（小游戏、互动应用、组态）、图形编辑，前端开发必备~
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Elegant frontend and infrastructure for in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Elegant frontend infrastructure for in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 
 *   [TheGreatBonnie/AIPoweredUIComponentsGenerator](https://github.com/TheGreatBonnie/AIPoweredUIComponentsGenerator) -
 
