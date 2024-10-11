@@ -1104,7 +1104,7 @@
 
 *   [winninghealth/WiNGPT2](https://github.com/winninghealth/WiNGPT2) - WiNGPT是一个基于GPT的医疗垂直领域大模型，旨在将专业的医学知识、医疗信息、数据融会贯通，为医疗行业提供智能化的医疗问答、诊断支持和医学知识等信息服务，提高诊疗效率和医疗服务质量。
 
-*   [wang-zhibo/duckgo\_api](https://github.com/wang-zhibo/duckgo_api) - async duckduckgo api  免费的无限制的搜索接口, 和免费的 ai chat gpt-3.5,claude-3-haiku,llama-3-70b,mixtral-8x7b
+*   [wang-zhibo/duckgo\_api](https://github.com/wang-zhibo/duckgo_api) - async duckduckgo api  免费的无限制的搜索接口, 和免费的 ai chat gpt-4o-mini,claude-3-haiku,llama-3.1-70b,mixtral-8x7b
 
 *   [zhulinyv/Semi-Auto-NovelAI-to-Pixiv](https://github.com/zhulinyv/Semi-Auto-NovelAI-to-Pixiv) - 带有 WebUI 的 NovelAI 量产工具, 实现了批量文生图; 批量图生图; 视频转绘; 分块重绘; 批量 Vibe; 批量局部重绘; 批量超分降噪; 批量自动打码; 批量添加水印; 批量上传 Pixiv; 图片筛选; 批量抹除, 还原或导出生成信息; 法术解析; 多模型反推提示词; ChatGPT; 动态加载插件; 自动 roll 画风串; 批量 Enhance; tag选择器; 涂鸦重绘; 图片压缩整理; 批量AI工具
 
