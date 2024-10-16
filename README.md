@@ -1190,7 +1190,7 @@
 
 *   [Linusp/python-inoreader](https://github.com/Linusp/python-inoreader) - Python wrapper of Inoreader API
 
-*   [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
+*   [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - Python based web automation tool. Powerful and elegant.
 
 *   [0rpc/zerorpc-python](https://github.com/0rpc/zerorpc-python) - zerorpc for python
 
