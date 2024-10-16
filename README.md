@@ -66,7 +66,7 @@
 
 *   [monkeyWie/gopeed-extension-baiduwp](https://github.com/monkeyWie/gopeed-extension-baiduwp) - Gopeed 百度网盘下载扩展。
 
-*   [xaboy/form-create](https://github.com/xaboy/form-create) - :fire::fire::fire: 强大的低代码动态表单组件，通过数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
+*   [xaboy/form-create](https://github.com/xaboy/form-create) - :fire::fire::fire: 强大的低代码动态表单组件，通过JSON数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
 
 *   [zxuqian/code-examples](https://github.com/zxuqian/code-examples) - Bilibili、CSDN、个人博客等所有内容所附属的源代码
 
@@ -1478,7 +1478,7 @@
 
 *   [debuggerx01/JSONFormat4Flutter](https://github.com/debuggerx01/JSONFormat4Flutter) - 受zzz40500/GsonFormat启发，将JSONObject格式的String解析成dart语言的实体类
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 
 *   [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
@@ -3454,8 +3454,6 @@
 
 *   [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) - :fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.
 
-*   [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-
 *   [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
 
 *   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -3475,6 +3473,8 @@
 *   [iampawan/ChatGPT-Flutter-AIChatBot](https://github.com/iampawan/ChatGPT-Flutter-AIChatBot) - A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language model.
 
 *   [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
+
+*   [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 
 *   [pujfei/eleeye](https://github.com/pujfei/eleeye) - A famous Chinese Chess Engine: Elephant Eye.
 
