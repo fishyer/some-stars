@@ -844,7 +844,7 @@
 
 *   [fedtop/dev-go](https://github.com/fedtop/dev-go) - 🤖 一个专属于开发者的超级无敌浏览器扩展插件。(A super unbeatable browser extension plugin for developers.)💪
 
-*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 支持视频号、小程序、抖音、快手、小红书、酷狗、QQ音乐等网络资源下载!
+*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 支持视频号、小程序、抖音、快手、小红书、直播流、酷狗、QQ音乐等常见网络资源!
 
 *   [gnattu/BBFever](https://github.com/gnattu/BBFever) - 通过RSS订阅聚合器自动/批量下载Bilibili视频
 
