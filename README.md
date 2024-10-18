@@ -456,8 +456,6 @@
 
 *   [KEJIXIAOLU/FQ](https://github.com/KEJIXIAOLU/FQ) -
 
-*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
-
 *   [fishyer/fastapi-tutorial](https://github.com/fishyer/fastapi-tutorial) - 整体的介绍 FastAPI，快速上手开发，结合 API 交互文档逐个讲解核心模块的使用。视频学习地址：
 
 *   [xianyu110/awesome-chatgpt-project](https://github.com/xianyu110/awesome-chatgpt-project) - 1.chatGPT注册  2.chatGPT成品项目整理  3.高效使用chatGPT的小技巧   ↓演示网站
@@ -3183,6 +3181,8 @@
 *   [WGrape/sparrow](https://github.com/WGrape/sparrow) - 强烈推荐🔥🔥🔥 🦜麻雀虽小五脏俱全🦜  🏄🏻‍♂️ 享受环境一切顺利的快乐🏄🏻‍♂️ 🌍所有环境统一规范管理🌍📦超强环境打包管理器📦🔨 一键快速启动多个服务环境的容器化编排工具 🔨 / A Docker tool for one-click startup of multiple services.
 
 *   [fishyer/test-fastapi](https://github.com/fishyer/test-fastapi) -
+
+*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
 
 *   [sxbai/memos-on-replit](https://github.com/sxbai/memos-on-replit) - Memos部署于Replit
 
