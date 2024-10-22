@@ -62,6 +62,8 @@
 
 ## JavaScript
 
+*   [alexeyraspopov/dataclass](https://github.com/alexeyraspopov/dataclass) - Data classes for TypeScript & JavaScript
+
 *   [JeepShen/vscode-markdown-code-runner](https://github.com/JeepShen/vscode-markdown-code-runner) - Run code snippets in Markdown.
 
 *   [monkeyWie/gopeed-extension-baiduwp](https://github.com/monkeyWie/gopeed-extension-baiduwp) - Gopeed 百度网盘下载扩展。
@@ -3085,8 +3087,6 @@
 *   [D-clock/AndroidDaemonService](https://github.com/D-clock/AndroidDaemonService) - 合理优雅的进程保活方式
 
 *   [androidannotations/androidannotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance.
-
-*   [spring-attic/spring-android](https://github.com/spring-attic/spring-android) - Support for Spring's RestTemplate within native Android applications
 
 ## Jupyter Notebook
 
