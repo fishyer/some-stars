@@ -62,6 +62,8 @@
 
 ## TypeScript
 
+*   [karelklima/workflowy](https://github.com/karelklima/workflowy) - WorkFlowy API for Deno and Node
+
 *   [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) -
 
 *   [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -3145,8 +3147,6 @@
 *   [DIY-green/AndroidStudyDemo](https://github.com/DIY-green/AndroidStudyDemo) - AndroidStudyDemo 为Android学习项目，将学习Android的过程中的收获都汇集于此。要求执行严格的编码规范。接下来会在简书上为每个Module写对应的文章，并持续更新。
 
 *   [CPPAlien/DaVinci](https://github.com/CPPAlien/DaVinci) - 基于Volley实现的一款多功能网络库, 目前包括了普通图片和Gif图片的加载显示、图片的二级缓存机制、可以开启Cookie的http请求等功能。
-
-*   [sandin/YoDao](https://github.com/sandin/YoDao) - YoDao Is A Simple and Fast ORM library for android.
 
 ## Jupyter Notebook
 
