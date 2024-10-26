@@ -3346,7 +3346,7 @@
 
 *   [yoozoo/protoapi](https://github.com/yoozoo/protoapi) - High productivity API framework with error handling in mind
 
-*   [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
+*   [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 
 *   [qintongbaba/jvm](https://github.com/qintongbaba/jvm) -
 
