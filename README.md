@@ -62,6 +62,8 @@
 
 ## Go
 
+*   [whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - 企业微信/微信 安全使用的 ChatGPT 个人助手应用
+
 *   [saucer-man/wepush](https://github.com/saucer-man/wepush) - 利用企业微信应用消息向微信发送通知 https://saucer-man.com/operation\_and\_maintenance/707.html
 
 *   [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
@@ -1354,8 +1356,6 @@
 
 *   [Trinea/android-demo](https://github.com/Trinea/android-demo) - Android common lib demo, include ImageCache, HttpCache, DropDownListView, DownloadManager, install apk silent and so on, you can find description
 
-*   [hongyangAndroid/base-adapter-helper](https://github.com/hongyangAndroid/base-adapter-helper) - 扩展支持多种Item布局的情况
-
 ## miscellaneous
 
 *   [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
@@ -2606,7 +2606,7 @@
 
 *   [GarinZ/link-map](https://github.com/GarinZ/link-map) - Tree style tab mananger for Chrome and Edge, Tabs Outliner alternative
 
-*   [vuejs/devtools-next](https://github.com/vuejs/devtools-next) - The next iteration of Vue DevTools
+*   [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 
 *   [webfansplz/vite-plugin-vue-devtools](https://github.com/webfansplz/vite-plugin-vue-devtools) - Vite + Vue DevTools = DX  🔥
 
