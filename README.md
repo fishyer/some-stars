@@ -13,17 +13,18 @@
 
 ## Table of Contents
 
-*   [Go](#go)
-*   [Java](#java)
+*   [Kotlin](#kotlin)
 *   [miscellaneous](#miscellaneous)
+*   [Java](#java)
+*   [HTML](#html)
+*   [Visual Basic 6.0](#visual-basic-60)
+*   [Go](#go)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [C#](#c)
-*   [HTML](#html)
 *   [Dart](#dart)
-*   [Kotlin](#kotlin)
 *   [Vue](#vue)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Shell](#shell)
@@ -60,121 +61,499 @@
 *   [GCC Machine Description](#gcc-machine-description)
 *   [TeX](#tex)
 
-## Go
+## Kotlin
 
-*   [whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - 企业微信/微信 安全使用的 ChatGPT 个人助手应用
+*   [gallonyin/worktool](https://github.com/gallonyin/worktool) - 一款安全稳定的Android无障碍服务工具，支持控制企微/微信来运行的无人值守群管理机器人
 
-*   [saucer-man/wepush](https://github.com/saucer-man/wepush) - 利用企业微信应用消息向微信发送通知 https://saucer-man.com/operation\_and\_maintenance/707.html
+*   [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
 
-*   [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
+*   [SkyD666/AniVu](https://github.com/SkyD666/AniVu) - All-in-one Android app for RSS, BitTorrent dl & play (Podcast). MVI arch, Material You style. ⭐️ Star to support!
 
-*   [Yohann0617/tgNetDisc](https://github.com/Yohann0617/tgNetDisc) - 🤖基于Telegram API，无限容量，不限制文件格式，不限制文件内容😏，文件都存储在Telegram☁云端，轻巧方便。上传成功会生成HTML、Markdown、BBCode三种形式的外链🔗，可以用来当做图床、文件下载url。
+*   [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
 
-*   [pwh-pwh/aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel) - 使用vercel的functions，将ai功能加入微信公众号
+*   [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
 
-*   [ultrazg/xyz](https://github.com/ultrazg/xyz) - 小宇宙FM API
+*   [PierfrancescoSoffritti/android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player) - YouTube Player library for Android and Chromecast, stable and customizable.
 
-*   [lw396/ChatCopilot](https://github.com/lw396/ChatCopilot) - ChatCopilot 是一款用 golang 实现的获取微信聊天记录并支持实时存储到数据库的工具，支持在 MacOS 上运行
+*   [crazyqiang/AndroidStudy](https://github.com/crazyqiang/AndroidStudy) - 🔥 Android学习知识点总结 Jetpack、MVVM、MVI、Kotlin、ViewPager2、JUC多线程等，欢迎star！
 
-*   [dong9205/wechat\_hook](https://github.com/dong9205/wechat_hook) - 通过HTTP接口微信发送消息
+*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-*   [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
+*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 
-*   [ceph/ceph-csi](https://github.com/ceph/ceph-csi) - CSI driver for Ceph
+*   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
-*   [radondb/radondb-mysql-kubernetes](https://github.com/radondb/radondb-mysql-kubernetes) - Open Source，High Availability Cluster，based on MySQL
+*   [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.
 
-*   [datacharmer/dbdeployer](https://github.com/datacharmer/dbdeployer) - DBdeployer is a tool that deploys MySQL database servers easily.
+*   [HighCapable/YukiHookAPI](https://github.com/HighCapable/YukiHookAPI) - ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
 
-*   [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s.
+*   [intuit/hooks](https://github.com/intuit/hooks) - Hooks is a little module for plugins, in Kotlin
 
-*   [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in < 60s 🚀
+*   [iceCola7/WanAndroid](https://github.com/iceCola7/WanAndroid) - 🔥项目采用 Kotlin 语言，基于 MVP + RxJava + Retrofit + Glide + EventBus 等架构设计，努力打造一款优秀的  \[玩Android] 客户端
 
-*   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
+*   [czy1121/update](https://github.com/czy1121/update) - 清晰灵活简单易用的应用更新库
 
-*   [uouuou/clash-tracing](https://github.com/uouuou/clash-tracing) -
+*   [fishyer/demo-learn-android](https://github.com/fishyer/demo-learn-android) -
 
-*   [yangchuansheng/clash-tracing](https://github.com/yangchuansheng/clash-tracing) - Clash Tracing Dashboard
+*   [rengwuxian/CourseComposeModifierDraw](https://github.com/rengwuxian/CourseComposeModifierDraw) - 【不是开源项目】扔物线 Compose 课程源码
 
-*   [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+*   [RicardoJiang/compose-fps](https://github.com/RicardoJiang/compose-fps) -
 
-*   [butoften/array](https://github.com/butoften/array) - develop golang，similar to javascript es6+
+*   [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
 
-*   [HuanMeng233/weread\_downloader](https://github.com/HuanMeng233/weread_downloader) - 学习
+*   [hi-dhl/KtPractice](https://github.com/hi-dhl/KtPractice) - 这个仓库用于实践和测试 Kotlin 、 Java 性能 和 新语法相关的代码案例，正在陆续添加新的案例。欢迎 star
 
-*   [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
 
-*   [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code
+*   [Quyunshuo/AndroidBaseFrameMVVM](https://github.com/Quyunshuo/AndroidBaseFrameMVVM) - 基于 Jetpack + Kotlin 的 Android 组件化 MVVM 框架
 
-*   [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
+*   [iOrchid/android-jetpack-demo](https://github.com/iOrchid/android-jetpack-demo) - 🔥  快速入门Android Jetpack\&Compose 以及相关Kotlin、MVVM/MVI等独立构架App的基础技能
 
-*   [KDF5000/nomo](https://github.com/KDF5000/nomo) - Not only Memon, store your memo into Notion or Lark Doc with lark bot
+*   [hfhuaizhi/ScaleContainerView](https://github.com/hfhuaizhi/ScaleContainerView) - scale container
 
-*   [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
+*   [zhujiang521/PlayAndroid](https://github.com/zhujiang521/PlayAndroid) - 🔥🔥🔥 Kotlin + MVVM + LCE版玩安卓，暗黑模式、横竖屏、无网、弱网、无数据、加载失败等等各种情况，协程、Room、Hilt、DataStore、LiveData、Retrofit、屏幕适配、本地缓存、多语言切换、多 lib，你想要的我都有！！！
 
-*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+*   [DeweyReed/ClipboardCleaner](https://github.com/DeweyReed/ClipboardCleaner) - Check and clean your clipboard using service, widget, shortcut and quick setting tile.
 
-*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo统一管理操作平台。web version of linux(terminal file script process), database (mysql pgsql oracle sqlserver Gauss sqlite), redis(single sentinel cluster), mongo unified management and operation platform.
+*   [zhujiang521/AndroidAOP](https://github.com/zhujiang521/AndroidAOP) - aop的方式实现防止按钮重复点击，java和kotlin都能使用
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。
+*   [javakam/FileOperator](https://github.com/javakam/FileOperator) - 🔥 涵盖了Android系统文件的创建/删除/复制/打开文件(目录)、获取文件(目录)大小、获取常用目录、获取文件名称及后缀、获取MimeType以及MediaStore和SAF的相关操作等常用功能，并且也处理了获取文件Uri/Path的兼容问题、图片压缩和文件选择等功能。
 
-*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+*   [owenlongbo/McImage](https://github.com/owenlongbo/McImage) - Android Gradle Plugin  -- Auto Check big image and compress image in building.
 
-*   [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
+*   [mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics) - Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.
 
-*   [iwannay/jiacrontab](https://github.com/iwannay/jiacrontab) - 简单可信赖的任务管理工具
+*   [kukyxs/CoroutinesWanAndroid](https://github.com/kukyxs/CoroutinesWanAndroid) - 超完整的「玩 Android」客户端，项目采用 MVVM, Android Jetpack, Retrofit, Kotlin 协程, Koin 编写。如果该项目对你学习过程有用，请给个 star，感谢
 
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+*   [minminaya/GenaralRoundLayout](https://github.com/minminaya/GenaralRoundLayout) - kotlin封装的通用圆角布局
 
-*   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
+*   [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
 
-*   [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+*   [rarnu/ktfunctional](https://github.com/rarnu/ktfunctional) - a functional library for kotlin(android)
 
-*   [brahma-adshonor/gohook](https://github.com/brahma-adshonor/gohook) - a funny library to hook golang function at runtime
+*   [kosi-libs/Kodein](https://github.com/kosi-libs/Kodein) - Painless Kotlin Dependency Injection
 
-*   [yasuo11/JVM-Implemented-by-Go](https://github.com/yasuo11/JVM-Implemented-by-Go) - 从0开始用Go语言实现一个简易版的Java虚拟机
+*   [kizitonwose/Time](https://github.com/kizitonwose/Time) - Type-safe time calculations in Kotlin, powered by generics.
 
-*   [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+*   [kittinunf/Fuse](https://github.com/kittinunf/Fuse) - The simple generic LRU memory/disk cache for Android written in Kotlin
 
-*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+*   [kittinunf/fuel](https://github.com/kittinunf/fuel) - The easiest HTTP networking library for Kotlin/Android
 
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+*   [cn-ljb/mvp-kotlin](https://github.com/cn-ljb/mvp-kotlin) - android mvp  and auto code
 
-*   [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
+*   [square/kotlinpoet](https://github.com/square/kotlinpoet) - A Kotlin API for generating .kt source files.
 
-*   [parkomat/parkomat](https://github.com/parkomat/parkomat) - DNS + Web + WebDav server in one package.
+*   [thisisqubika/fakeit](https://github.com/thisisqubika/fakeit) - The Kotlin fake data generator library!
 
-*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+*   [MarioAriasC/funKTionale](https://github.com/MarioAriasC/funKTionale) - Functional constructs for Kotlin
 
-*   [indes/flowerss-bot](https://github.com/indes/flowerss-bot) - A telegram bot  for rss reader. 一个支持应用内阅读的 Telegram RSS Bot。
+*   [didi/booster](https://github.com/didi/booster) - 🚀Optimizer for mobile applications
 
-*   [indes/telepush](https://github.com/indes/telepush) - 可一键部署的Vercel Telegram消息推送机器人
+*   [rarnu/KtGen](https://github.com/rarnu/KtGen) -
 
-*   [archive-go/ArchiveBot](https://github.com/archive-go/ArchiveBot) - 一个用来备份链接内容的 Telegram Bot
+*   [panpf/assembly-adapter](https://github.com/panpf/assembly-adapter) - AssemblyAdapter 是 Android 上的一个为各种 Adapter 提供开箱即用实现的库。AssemblyAdapter is a library on Android that provides out-of-the-box implementations for various Adapters.
 
-*   [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+*   [MarcinMoskala/ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Simple Android Library, that provides easy way to start the Activities with arguments.
 
-*   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+*   [7449/Album](https://github.com/7449/Album) - android 图片视频加载库，单选，多选，预览，自定义UI，相机，裁剪...等等 适配10-13
 
-*   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+*   [esafirm/android-image-picker](https://github.com/esafirm/android-image-picker) - Image Picker for Android 🤖
 
-*   [CodisLabs/codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
+*   [XiaoQiWen/KRefreshLayout](https://github.com/XiaoQiWen/KRefreshLayout) - 强大的下拉刷新库，定制任意Header。比官方SwipRefrehLayout处理更加友好(Kotlin、Java双版本)
 
-*   [yoozoo/protoapi](https://github.com/yoozoo/protoapi) - High productivity API framework with error handling in mind
+*   [adisonhuang/awesome-kotlin-android](https://github.com/adisonhuang/awesome-kotlin-android) - 🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源
 
-*   [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+*   [JakeWharton/retrofit2-kotlin-coroutines-adapter](https://github.com/JakeWharton/retrofit2-kotlin-coroutines-adapter) - A Retrofit 2 adapter for Kotlin coroutine's Deferred type.
 
-*   [qintongbaba/jvm](https://github.com/qintongbaba/jvm) -
+*   [mazouri/android-mvp](https://github.com/mazouri/android-mvp) - 使用kotlin实现简单的Android MVP模式Demo
 
-*   [huichen/wukong](https://github.com/huichen/wukong) - 高度可定制的全文搜索引擎
+*   [InsertKoinIO/koin](https://github.com/InsertKoinIO/koin) - Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
 
-*   [httprunner/httprunner](https://github.com/httprunner/httprunner) - HttpRunner 是一个开源的 API/UI 测试工具，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。
+*   [foolchen/AndroidTracker](https://github.com/foolchen/AndroidTracker) - Android端无埋点统计方案
 
-*   [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+*   [JakeWharton/timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
 
-*   [RichesJson/gopush-cluster](https://github.com/RichesJson/gopush-cluster) - Golang push server cluster
+*   [nickbutcher/plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design.
+
+*   [kscripting/kscript](https://github.com/kscripting/kscript) - Scripting enhancements for Kotlin
+
+*   [yikousamo/wallpaper](https://github.com/yikousamo/wallpaper) - kotlin版本壁纸应用
+
+*   [ACRA/acra](https://github.com/ACRA/acra) - Application Crash Reports for Android
+
+*   [airbnb/mavericks](https://github.com/airbnb/mavericks) - Mavericks: Android on Autopilot
+
+*   [git-xuhao/KotlinMvp](https://github.com/git-xuhao/KotlinMvp) - :fire: 基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现短视频类小项目，简约风格及详细注释，欢迎 star or fork！
+
+*   [Heapy/awesome-kotlin](https://github.com/Heapy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+
+*   [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+
+*   [facebook/litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
+
+*   [drakeet/MultiType](https://github.com/drakeet/MultiType) - Flexible multiple types for Android RecyclerView.
+
+*   [dumingxin/AndroidDevGuid](https://github.com/dumingxin/AndroidDevGuid) -
+
+*   [ice1000/KitikuMaker](https://github.com/ice1000/KitikuMaker) - An extremely interesting Android app, playing kitiku sounds
+
+*   [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+
+*   [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+
+*   [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - BRVAH:Powerful and flexible RecyclerAdapter
+
+## miscellaneous
+
+*   [luolin-ai/Dify-Enterprise-WeChat-bot](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot) - 基于Dify的企业微信知识库机器人，基于企微gpt知识库的bot机器人，能够自动回复企业微信中收到的消息。这个机器人能够处理私聊和群聊，还可以记住与用户的聊天内容，从而做出更加贴合上下文的回应。此外，您还可以设置白名单来控制机器人与哪些用户或群组交互。如需自己dify网站版的机器人WX:aiwis99
+
+*   [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
+
+*   [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
+
+*   [easychen/windmark-practice](https://github.com/easychen/windmark-practice) - 采用 windmark 编写的视频的源文件
+
+*   [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) -
+
+*   [css-modules/icss](https://github.com/css-modules/icss) - Interoperable CSS — a standard for loadable, linkable CSS
+
+*   [fecommunity/front-end-interview](https://github.com/fecommunity/front-end-interview) - 前端面试宝典，收集整理了全网最新、最全面的面试资料，帮助各位求职面试者斩获理想Offer。
+
+*   [dibingfa/Auto-GPT](https://github.com/dibingfa/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+
+*   [zyz913614263/douyinDownload](https://github.com/zyz913614263/douyinDownload) - 抖音视频下载工具  💁 支持个人主页链接、作品分享链接、 抖音直播Web链接、合集链接、音乐(原声)集合链接  🔽 支持单个作品下载、主页作品下载、主页喜欢下载、 直播解析、单个合集下载、主页所有合集下载、 音乐(原声)集合下载
+
+*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
+
+*   [PKM-er/awesome-obsidian-zh](https://github.com/PKM-er/awesome-obsidian-zh) - Obsidian 优秀中文插件、主题与资源
+
+*   [sbwml/TrollStore\_zh\_Hans](https://github.com/sbwml/TrollStore_zh_Hans) - :trollface: TrollStore 简体/繁体中文 :trollface:
+
+*   [rcy1314/rcy1314](https://github.com/rcy1314/rcy1314) -
+
+*   [fishyer/some-stars](https://github.com/fishyer/some-stars) - 我的star列表，每天自动更新
+
+*   [rcy1314/All-about-Notion](https://github.com/rcy1314/All-about-Notion) - 这里是介绍及收录有关notion的开源及第三方程序以及收录优质notion创作者页面的地方
+
+*   [Xposed-Modules-Repo/com.wovow.youtubehelper](https://github.com/Xposed-Modules-Repo/com.wovow.youtubehelper) - YouTube去广告，锁屏播放 | NoAdsBackgroundPlaybackYT
+
+*   [ohyeah521/NoAds-For-YouTube](https://github.com/ohyeah521/NoAds-For-YouTube) -
+
+*   [chenyl8848/great-open-source-project](https://github.com/chenyl8848/great-open-source-project) - 收集整理Github、Gitte上优秀的开源项目。
+
+*   [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
+
+*   [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers
+
+*   [langgptai/wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
+
+*   [fishyer/daisyui](https://github.com/fishyer/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+
+*   [Jackpopc/DevWeekly](https://github.com/Jackpopc/DevWeekly) - 每周五发布，精选优质开发者内容，包括开源项目、工具资源、技术文章等方面。
+
+*   [openai/openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
+
+*   [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
+
+*   [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
+
+*   [Ryeeeeee/MarkdownX](https://github.com/Ryeeeeee/MarkdownX) - Markdown text editor for Android
+
+*   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
+
+*   [seasonfif/github](https://github.com/seasonfif/github) - github第三方Android客户端（适配Material Design）
+
+*   [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 已迁移新仓库，此版本将不再维护
+
+*   [immersive-translate/Chat2DB](https://github.com/immersive-translate/Chat2DB) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
+
+*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
+
+*   [zhihaofans/Server-Chan-Android](https://github.com/zhihaofans/Server-Chan-Android) - Server酱第三方安卓客户端
+
+*   [justjavac/github-actions-youtube-dl](https://github.com/justjavac/github-actions-youtube-dl) - 使用 GitHub Actions 下载 YouTube 视频
+
+*   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
+
+*   [KEJIXIAOLU/DNS](https://github.com/KEJIXIAOLU/DNS) -
+
+*   [KEJIXIAOLU/FQ](https://github.com/KEJIXIAOLU/FQ) -
+
+*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
+
+*   [fishyer/fastapi-tutorial](https://github.com/fishyer/fastapi-tutorial) - 整体的介绍 FastAPI，快速上手开发，结合 API 交互文档逐个讲解核心模块的使用。视频学习地址：
+
+*   [xianyu110/awesome-chatgpt-project](https://github.com/xianyu110/awesome-chatgpt-project) - 1.chatGPT注册  2.chatGPT成品项目整理  3.高效使用chatGPT的小技巧   ↓演示网站
+
+*   [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
+
+*   [sif5/aria2-replit-with-onedrive-upload](https://github.com/sif5/aria2-replit-with-onedrive-upload) - Download offline 离线下载 on replit
+
+*   [yonggekkk/Replit-Xray](https://github.com/yonggekkk/Replit-Xray) - Replit容器部署xray代理，支持argo固定隧道与临时隧道，自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks5
+
+*   [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
+
+*   [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
+
+*   [zkqiang/crawler-chrome-extensions](https://github.com/zkqiang/crawler-chrome-extensions) - 爬虫工程师常用的 Chrome 插件  |  Chrome extensions used by crawler developer
+
+*   [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
+
+*   [mugoc/acme-1key](https://github.com/mugoc/acme-1key) - Acme.sh 域名证书一键申请脚本
+
+*   [xdash/GHacker\_Newsletter](https://github.com/xdash/GHacker_Newsletter) - 增长黑客周刊
+
+*   [wisdom-projects/holer](https://github.com/wisdom-projects/holer) - Holer exposes local servers behind NATs and firewalls to the public internet over secure tunnels.
+
+*   [liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 的中文入门教程
+
+*   [qianguyihao/Mac-list](https://github.com/qianguyihao/Mac-list) - Mac软件清单、Mac使用技巧整理，正在不断完善中。努力做到最全。
+
+*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+
+*   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
+
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+
+*   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
+
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、美区apple id共享账号
+
+*   [fishyer/ChatGPT-Next-Web](https://github.com/fishyer/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
+
+*   [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
+
+*   [TheTorProject/gettorbrowser](https://github.com/TheTorProject/gettorbrowser) -
+
+*   [abczmx/17ce](https://github.com/abczmx/17ce) - 17cechajian
+
+*   [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
+
+*   [francistao/LearningNotes](https://github.com/francistao/LearningNotes) - Enjoy Learning.
+
+*   [shengcaishizhan/kkndme\_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
+
+*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+
+*   [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
+
+*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+
+*   [runningcheese/Awesome-AI](https://github.com/runningcheese/Awesome-AI) - Awesome AI，你的《人工智能指南》！
+
+*   [myseil/BingWallpaper](https://github.com/myseil/BingWallpaper) - 收集Bing必应每日壁纸
+
+*   [ticktickteam/android](https://github.com/ticktickteam/android) - TickTick android
+
+*   [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
+
+*   [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+
+*   [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
+
+*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+
+*   [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+
+*   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+
+*   [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+
+*   [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+
+*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+
+*   [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar\_board:
+
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+
+*   [VaguelyCloud/AutoSidebarForDocsify](https://github.com/VaguelyCloud/AutoSidebarForDocsify) - The sidebar directory is automatically generated for the blog deployed by Docsify.
+
+*   [GabrielRF/telegram-id](https://github.com/GabrielRF/telegram-id) - How to get an id on Telegram Messenger
+
+*   [qianguyihao/blog-list](https://github.com/qianguyihao/blog-list) - 中文博客琅琊榜，只收录精品独立博客
+
+*   [fishyer/MyPic](https://github.com/fishyer/MyPic) - 图床
+
+*   [aopi1125/MyBooks](https://github.com/aopi1125/MyBooks) - books-tech、PPT、or something
+
+*   [bwgvps/v2ray-tutorial](https://github.com/bwgvps/v2ray-tutorial) - V2Ray 教程，包括 V2Ray 搭建安装、V2Ray 客户端下载配置、V2Ray 协议选择等。
+
+*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
+
+*   [jayboxyz/websites-and-tools](https://github.com/jayboxyz/websites-and-tools) - :beginner:  分类收藏一些网站、工具和软件，记录一些关于 windows/macOS/linux 系统的使用技巧和软件操作。
+
+*   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
+
+*   [Jackpopc/CS-Books-Store](https://github.com/Jackpopc/CS-Books-Store) - 你想要的计算机经典书籍，这里都有！
+
+*   [CodingDocs/awesome-cs](https://github.com/CodingDocs/awesome-cs) - 计算机优质书籍搜罗+学习路线推荐！
+
+*   [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) - Type definitions for the latest Obsidian API.
+
+*   [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community <3
+
+*   [getActivity/AndroidGithubBoss](https://github.com/getActivity/AndroidGithubBoss) - Github Android 个人技术开源影响力排行榜
+
+*   [pengxurui/AndroidFamily](https://github.com/pengxurui/AndroidFamily) - 🔥【Android 面经 + Android 学习指南】一份帮助 Android 开发者知识积累与能力进阶的学习路线
+
+*   [Quorafind/Obsidian-Thino](https://github.com/Quorafind/Obsidian-Thino) - A quick capture plugin for Obsidian, all data from your notes.
+
+*   [logseq/awesome-logseq-cn](https://github.com/logseq/awesome-logseq-cn) -
+
+*   [OpenBug-Android/OpenBug-Android](https://github.com/OpenBug-Android/OpenBug-Android) - OpenBug 优秀开源项目汇总
+
+*   [Trinea/android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects,  More powerful web version:
+
+*   [mihongkun/it-memo](https://github.com/mihongkun/it-memo) - IT 资料备忘录
+
+*   [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-) - 程序员相关电子书资料免费分享，欢迎关注个人微信公众号：编程与实战
+
+*   [oncework/kuaixieya](https://github.com/oncework/kuaixieya) - 「快写鸭」是一款专为开发者开发的一站式写作、管理、发布的更简单且下载即用的效率工具，去除繁琐配置但又极具丰富且自定义性质等功能。
+
+*   [obsidianzh/forum](https://github.com/obsidianzh/forum) - Obsidian中文社区
+
+*   [extrastu/flomoPlus](https://github.com/extrastu/flomoPlus) - flomoPlus
+
+*   [joecks/clipboard-actions-community](https://github.com/joecks/clipboard-actions-community) - A issue tracker for the Clipboard Actions Project
+
+*   [inferjay/AndroidDevTools](https://github.com/inferjay/AndroidDevTools) - 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
+
+*   [JsonChao/Awesome-Android-Notebook](https://github.com/JsonChao/Awesome-Android-Notebook) - :computer: A complete plan for better android developers.（continuous updating ...）
+
+*   [yangchong211/YCBlogs](https://github.com/yangchong211/YCBlogs) - 技术博客笔记大汇总，包括Java基础，线程，并发，数据结构；Android技术博客等等；常用设计模式；常见的算法；网络协议知识点；部分flutter笔记；还包括平时开发中遇到的bug汇总，当然也在工作之余收集了大量的面试题，长期更新维护并且修正，持续完善……开源的文件是markdown格式的！转载请注明出处，谢谢！
+
+*   [haochaco/issue-tracker-zh](https://github.com/haochaco/issue-tracker-zh) - 中文GitHub反馈区
+
+*   [CarGuo/gsy\_flutter\_book](https://github.com/CarGuo/gsy_flutter_book) - Flutter 完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
+
+*   [flyzy2005/ss-fly](https://github.com/flyzy2005/ss-fly) - 一键脚本搭建ss/ssr并开启bbr内核加速（Ubuntu/CentOS/Debian）
+
+*   [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+
+*   [ghosert/cmd-editor](https://github.com/ghosert/cmd-editor) - 报告 【Cmd 在线 Markdown 编辑阅读器】的问题，臭虫，改进建议
+
+*   [ZhongFuCheng3y/athena](https://github.com/ZhongFuCheng3y/athena) - Java后端知识图谱🔥 帮助Java初学者成长
+
+*   [android-cn/android-discuss](https://github.com/android-cn/android-discuss) - Android 问题交流讨论坛, 微信公众号:codekk, 网站:
+
+*   [lifesign/awesome-stars](https://github.com/lifesign/awesome-stars) - Awesome List of my own!
+
+*   [wangjiegulu/jobs](https://github.com/wangjiegulu/jobs) - Jobs for Alibaba Group.
+
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
+*   [ColorfulCat/AndroidLibs](https://github.com/ColorfulCat/AndroidLibs) - :fire:正在成为史上最全分类 Android 开源大全~~~~（长期更新 Star 一下吧）
+
+*   [OpenFlutter/FlutterInAction](https://github.com/OpenFlutter/FlutterInAction) - Flutter In Action.Flutter实践。
+
+*   [dart-archive/dart-protoc-plugin](https://github.com/dart-archive/dart-protoc-plugin) - Dart plugin for protobuf compiler (protoc)
+
+*   [yang7229693/flutter-study](https://github.com/yang7229693/flutter-study) - Flutter Study
+
+*   [OpenFlutter/OpenFlutter](https://github.com/OpenFlutter/OpenFlutter) - Love flutter love life.QQ群：892398530
+
+*   [crazycodeboy/awesome-flutter-cn](https://github.com/crazycodeboy/awesome-flutter-cn) - 一个很棒的Flutter学习资源，官方教程，插件，工具，文章，App，视频教程等的资源列表
+
+*   [jobbole/awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
+
+*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+
+*   [jobbole/ProgrammingProjectList](https://github.com/jobbole/ProgrammingProjectList) - 程序员练手小项目
+
+*   [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
+
+*   [Jermic/Android-Crack-Tool](https://github.com/Jermic/Android-Crack-Tool) - 🐞Android crack tool For Mac
+
+*   [le0zh/blog](https://github.com/le0zh/blog) -
+
+*   [AlanCheen/Android-Resources](https://github.com/AlanCheen/Android-Resources) - 优秀的Android资源收集与整理
+
+*   [AlanCheen/ReadingNotes](https://github.com/AlanCheen/ReadingNotes) - 记录一些书籍的比较，阅读心得，在加上自己的看法
+
+*   [RTFSC-Android/RTFSC](https://github.com/RTFSC-Android/RTFSC) - Let's Read The Fucking Source Code
+
+*   [wizicer/FinancialSupportForOpenSource](https://github.com/wizicer/FinancialSupportForOpenSource) - 开源项目挣钱实用手册
+
+*   [luckybilly/AndroidComponentizeLibs](https://github.com/luckybilly/AndroidComponentizeLibs) - 多个维度对比一些有代表性的开源android组件化开发方案
+
+*   [codepath/android\_guides](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers
+
+*   [jobbole/awesome-android-cn](https://github.com/jobbole/awesome-android-cn) - Android 资源大全中文版，包括：图表、游戏开发、GUI、崩溃检测、调试工具等，由伯乐在线持续更新。
+
+*   [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
+
+*   [qiujuer/ThreadGuide](https://github.com/qiujuer/ThreadGuide) - Android and Java Thread guide~~
+
+*   [Blankj/AndroidStandardDevelop](https://github.com/Blankj/AndroidStandardDevelop) - :star2: Best practices in Android develop(final).
+
+*   [Trinea/trinea-download](https://github.com/Trinea/trinea-download) - Some open project apk files, or other files upload by trinea.cn
+
+*   [liuchengxu/git-commit-emoji-cn](https://github.com/liuchengxu/git-commit-emoji-cn) - 😁 git commit message emoji 使用指南
+
+*   [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
+
+*   [leanote/leanote.com-issue](https://github.com/leanote/leanote.com-issue) - Leanote.com 讨论区, 自建Leanote问题: https://github.com/leanote/leanote/wiki/QA
+
+*   [kaleai/Android-Best-Practices](https://github.com/kaleai/Android-Best-Practices) - Android最佳实践示例
+
+*   [quanke/android-studio](https://github.com/quanke/android-studio) -
+
+*   [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
+
+*   [ncornette/OkCacheControl](https://github.com/ncornette/OkCacheControl) - Helper class to configure cache behaviour of OkHttp client and Retrofit
+
+*   [ribot/android-guidelines](https://github.com/ribot/android-guidelines) - Architecture and code guidelines we use at ribot when developing for Android
+
+*   [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
+
+*   [android-cn/android-jobs](https://github.com/android-cn/android-jobs) - 2018 年最新内推！我们相信来到这里的，无论工程师还是招聘者都是靠谱的！微信公众号:codekk，
+
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
+*   [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
+
+*   [hepochen/FarBox-Doc](https://github.com/hepochen/FarBox-Doc) - Moved to https://github.com/BuildFarBox/farbox-doc
+
+*   [LittleFriendsGroup/AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) - android sdk 源码解析——旨在帮助Android开发者更好的学习Android！我们只是一群普通的程序员，但是，我们热爱分享，想热热闹闹的玩点有意义的事！如果你也想陪我们一起愉快的玩耍，欢迎加入我们！Issues认领分析文章！
+
+*   [nibocn/mynote](https://github.com/nibocn/mynote) -
+
+*   [geniusmart/LoveUT](https://github.com/geniusmart/LoveUT) - samples for Robolectric 3.1.4
+
+*   [ZQiang94/Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs) - :rose:【停止维护】
+
+*   [sivagao/blog](https://github.com/sivagao/blog) - blog of sivagao，每天一篇好文章~
+
+*   [ZhaoKaiQiang/AndroidDifficultAnalysis](https://github.com/ZhaoKaiQiang/AndroidDifficultAnalysis) - 安卓开发中遇到的重难点解析，也包括平常的读书笔记和知识点整理
+
+*   [larryzhao/jianshu.io](https://github.com/larryzhao/jianshu.io) - 『简书』
+
+*   [mcxiaoke/RxDocs](https://github.com/mcxiaoke/RxDocs) - Rx和RxJava文档中文翻译项目
+
+*   [sinaweibosdk/weibo\_android\_sdk](https://github.com/sinaweibosdk/weibo_android_sdk) - 新浪微博 Android SDK
+
+*   [futurice/android-best-practices](https://github.com/futurice/android-best-practices) - Do's and Don'ts for Android development, by Futurice developers
+
+*   [qinjx/30min\_guides](https://github.com/qinjx/30min_guides) - 覃健祥的学习笔记，各种几十分钟入门的文档
+
+*   [hongyangAndroid/base-diskcache](https://github.com/hongyangAndroid/base-diskcache) - Android 缓存库，融合了DiskLruCache和ASimpleCache.
+
+*   [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
+
+*   [uknownothingsnow/Awesome-RxJava](https://github.com/uknownothingsnow/Awesome-RxJava) - RxJava resources
+
+*   [xirong/my-git](https://github.com/xirong/my-git) - Individual collecting material of learning git（有关 git 的学习资料）
+
+*   [Tim9Liu9/TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android) - 自己总结的Android开源项目及库
 
 ## Java
+
+*   [naivestudio/WorkBot](https://github.com/naivestudio/WorkBot) - 微信，企微，企微机器人，微信机器人，worktool，RPA，协议，vbot，逆向，hook，安全稳定零封号的RPA机器人，支持通过API控制企业微信来实现聚合聊天、自动回复、群发消息、自动通过好友、定时发布朋友圈等
 
 *   [panda726548/yiranpay](https://github.com/panda726548/yiranpay) - 聚合支付是一种第四方支付服务。简而言之，第三方支付提供的是资金清算通道，而聚合支付提供的是支付基础之上的多种衍生服务。聚合支付服务”不具备支付牌照，而是通过聚合多种第三方支付平台、合作银行及其他服务商接口等支付工具的综合支付服务。聚合支付不进行资金清算，但能够根据商户的需求进行个性化定制，形成支付通道资源优势互补，具有中立性、灵活性、便捷性等特点。目前已经对接微信，支付宝，银联支付等渠道。
 
@@ -1346,361 +1725,191 @@
 
 *   [tangqi92/MyGreenDAO](https://github.com/tangqi92/MyGreenDAO) - A simple demo of GreenDAO.
 
-*   [amulyakhare/TextDrawable](https://github.com/amulyakhare/TextDrawable) - This light-weight library provides images with letter/text like the Gmail app. It extends the Drawable class thus can be used with existing/custom/network ImageView classes. Also included is a fluent interface for creating drawables and a customizable ColorGenerator.
+## HTML
 
-*   [imlinhao/website-hello-world](https://github.com/imlinhao/website-hello-world) - Spring Personal Website
+*   [luolin-ai/Enterprise-WeChat-GPTbot](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot) - 基于企微gpt知识库的bot机器人，能够自动回复企业微信中收到的消息。这个机器人能够处理私聊和群聊，还可以记住与用户的聊天内容，从而做出更加贴合上下文的回应。此外，您还可以设置白名单来控制机器人与哪些用户或群组交互。
 
-*   [blipinsk/FlippableStackView](https://github.com/blipinsk/FlippableStackView) - An Android library introducing a stack of Views with the first item being flippable.
+*   [phodal/toolbox](https://github.com/phodal/toolbox) - Phodal's Toolbox
 
-*   [sho5nn/ZDepthShadow](https://github.com/sho5nn/ZDepthShadow) - Android - draw z-depth shadow of MaterialDesign
+*   [fishyer/MyNote](https://github.com/fishyer/MyNote) - MyLogseq
 
-*   [Trinea/android-demo](https://github.com/Trinea/android-demo) - Android common lib demo, include ImageCache, HttpCache, DropDownListView, DownloadManager, install apk silent and so on, you can find description
+*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 
-## miscellaneous
+*   [worldwonderer/promptdoc](https://github.com/worldwonderer/promptdoc) - Designed to manage a collection of Prompt templates for multiple versions, scenarios, and applicable models.
 
-*   [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
+*   [rcy1314/noisework](https://github.com/rcy1314/noisework) - #主页 #引导页 ⭐️多模式个人主页展示页，🌈带pwa模式，多组件效果，可随时切换的引导页🎉 添加右键弹出菜单，RSS动态文章卡片，视频播放📫ADS广告位
 
-*   [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
+*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
-*   [easychen/windmark-practice](https://github.com/easychen/windmark-practice) - 采用 windmark 编写的视频的源文件
+*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
-*   [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) -
+*   [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 
-*   [css-modules/icss](https://github.com/css-modules/icss) - Interoperable CSS — a standard for loadable, linkable CSS
+*   [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科学家和开发者的简单快速无代码网站构建器。用拖放功能、可定制模板和内置SEO工具快速创建精美网站！
 
-*   [fecommunity/front-end-interview](https://github.com/fecommunity/front-end-interview) - 前端面试宝典，收集整理了全网最新、最全面的面试资料，帮助各位求职面试者斩获理想Offer。
+*   [fishyer/MyPKM](https://github.com/fishyer/MyPKM) -
 
-*   [dibingfa/Auto-GPT](https://github.com/dibingfa/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+*   [yuxiaoy1/chatfairy](https://github.com/yuxiaoy1/chatfairy) - A minimal chat application built with no deps but Flask!
 
-*   [zyz913614263/douyinDownload](https://github.com/zyz913614263/douyinDownload) - 抖音视频下载工具  💁 支持个人主页链接、作品分享链接、 抖音直播Web链接、合集链接、音乐(原声)集合链接  🔽 支持单个作品下载、主页作品下载、主页喜欢下载、 直播解析、单个合集下载、主页所有合集下载、 音乐(原声)集合下载
+*   [onlyGuo/nginx-gui](https://github.com/onlyGuo/nginx-gui) - Nginx GUI Manager
 
-*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
+*   [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2024中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐，访问Chatgpt。
 
-*   [PKM-er/awesome-obsidian-zh](https://github.com/PKM-er/awesome-obsidian-zh) - Obsidian 优秀中文插件、主题与资源
+*   [x-dr/tts](https://github.com/x-dr/tts) - 微软azure文本转语音 音频下载
 
-*   [sbwml/TrollStore\_zh\_Hans](https://github.com/sbwml/TrollStore_zh_Hans) - :trollface: TrollStore 简体/繁体中文 :trollface:
+*   [bunkat/later](https://github.com/bunkat/later) - A javascript library for defining recurring schedules and calculating future (or past) occurrences for them.  Includes support for using English phrases and Cron schedules.  Works in Node and in the browser.
 
-*   [rcy1314/rcy1314](https://github.com/rcy1314/rcy1314) -
+*   [souying/vercel-api-proxy](https://github.com/souying/vercel-api-proxy) - vercel反向代理。完全免费，万能代理，可代理全网一切接口，包括openai、github、google、Telegram、全面代理ai项目一键安装
 
-*   [fishyer/some-stars](https://github.com/fishyer/some-stars) - 我的star列表，每天自动更新
+*   [wayne0332/utools-hashcode-plugin](https://github.com/wayne0332/utools-hashcode-plugin) -
 
-*   [rcy1314/All-about-Notion](https://github.com/rcy1314/All-about-Notion) - 这里是介绍及收录有关notion的开源及第三方程序以及收录优质notion创作者页面的地方
+*   [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
 
-*   [Xposed-Modules-Repo/com.wovow.youtubehelper](https://github.com/Xposed-Modules-Repo/com.wovow.youtubehelper) - YouTube去广告，锁屏播放 | NoAdsBackgroundPlaybackYT
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
-*   [ohyeah521/NoAds-For-YouTube](https://github.com/ohyeah521/NoAds-For-YouTube) -
+*   [zshell-zhang/zshell-zhang.github.io](https://github.com/zshell-zhang/zshell-zhang.github.io) - 个人 github page 博客内容存储仓库
 
-*   [chenyl8848/great-open-source-project](https://github.com/chenyl8848/great-open-source-project) - 收集整理Github、Gitte上优秀的开源项目。
+*   [marcorichetta/fastapi-vercel](https://github.com/marcorichetta/fastapi-vercel) - A FastAPI example app deployed on Vercel
 
-*   [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
+*   [PureWriter/writer.drakeet.com](https://github.com/PureWriter/writer.drakeet.com) -
 
-*   [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers
+*   [fishyer/demo-kotlin](https://github.com/fishyer/demo-kotlin) - Kotlin学习笔记
 
-*   [langgptai/wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
+*   [fishyer/MyLogseq-Bak](https://github.com/fishyer/MyLogseq-Bak) -
 
-*   [fishyer/daisyui](https://github.com/fishyer/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 
-*   [Jackpopc/DevWeekly](https://github.com/Jackpopc/DevWeekly) - 每周五发布，精选优质开发者内容，包括开源项目、工具资源、技术文章等方面。
+*   [zkwlx/DroidTelescope](https://github.com/zkwlx/DroidTelescope) - DroidTelescope（DT），Android端App性能监控框架
 
-*   [openai/openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
+*   [open-power-workgroup/Hospital](https://github.com/open-power-workgroup/Hospital) - OpenPower工作组收集汇总的医院开放数据
 
-*   [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
+*   [alibaba/alpha](https://github.com/alibaba/alpha) - Alpha是一个基于PERT图构建的Android异步启动框架，它简单，高效，功能完善。 在应用启动的时候，我们通常会有很多工作需要做，为了提高启动速度，我们会尽可能让这些工作并发进行。但这些工作之间可能存在前后依赖的关系，所以我们又需要想办法保证他们执行顺序的正确性。Alpha就是为此而设计的，使用者只需定义好自己的task，并描述它依赖的task，将它添加到Project中。框架会自动并发有序地执行这些task，并将执行的结果抛出来。
 
-*   [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
+*   [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 
-*   [Ryeeeeee/MarkdownX](https://github.com/Ryeeeeee/MarkdownX) - Markdown text editor for Android
+*   [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io) - Jekyll Themes / GitHub Pages 博客模板 / A template repository for Jekyll based blog
 
-*   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
+*   [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
 
-*   [seasonfif/github](https://github.com/seasonfif/github) - github第三方Android客户端（适配Material Design）
+*   [iamjoel/front-end-note](https://github.com/iamjoel/front-end-note) - :memo: Web前端洞见。有深度的Web 前端内容。
 
-*   [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 已迁移新仓库，此版本将不再维护
+## Visual Basic 6.0
 
-*   [immersive-translate/Chat2DB](https://github.com/immersive-translate/Chat2DB) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
+*   [aa24615/wework-msgaudit](https://github.com/aa24615/wework-msgaudit) - 企业微信-会话内容存档 实时拉取企业微信聊天记录java版SDK
 
-*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
+## Go
 
-*   [zhihaofans/Server-Chan-Android](https://github.com/zhihaofans/Server-Chan-Android) - Server酱第三方安卓客户端
+*   [whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - 企业微信/微信 安全使用的 ChatGPT 个人助手应用
 
-*   [justjavac/github-actions-youtube-dl](https://github.com/justjavac/github-actions-youtube-dl) - 使用 GitHub Actions 下载 YouTube 视频
+*   [saucer-man/wepush](https://github.com/saucer-man/wepush) - 利用企业微信应用消息向微信发送通知 https://saucer-man.com/operation\_and\_maintenance/707.html
 
-*   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
+*   [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 
-*   [KEJIXIAOLU/DNS](https://github.com/KEJIXIAOLU/DNS) -
+*   [Yohann0617/tgNetDisc](https://github.com/Yohann0617/tgNetDisc) - 🤖基于Telegram API，无限容量，不限制文件格式，不限制文件内容😏，文件都存储在Telegram☁云端，轻巧方便。上传成功会生成HTML、Markdown、BBCode三种形式的外链🔗，可以用来当做图床、文件下载url。
 
-*   [KEJIXIAOLU/FQ](https://github.com/KEJIXIAOLU/FQ) -
+*   [pwh-pwh/aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel) - 使用vercel的functions，将ai功能加入微信公众号
 
-*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
+*   [ultrazg/xyz](https://github.com/ultrazg/xyz) - 小宇宙FM API
 
-*   [fishyer/fastapi-tutorial](https://github.com/fishyer/fastapi-tutorial) - 整体的介绍 FastAPI，快速上手开发，结合 API 交互文档逐个讲解核心模块的使用。视频学习地址：
+*   [lw396/ChatCopilot](https://github.com/lw396/ChatCopilot) - ChatCopilot 是一款用 golang 实现的获取微信聊天记录并支持实时存储到数据库的工具，支持在 MacOS 上运行
 
-*   [xianyu110/awesome-chatgpt-project](https://github.com/xianyu110/awesome-chatgpt-project) - 1.chatGPT注册  2.chatGPT成品项目整理  3.高效使用chatGPT的小技巧   ↓演示网站
+*   [dong9205/wechat\_hook](https://github.com/dong9205/wechat_hook) - 通过HTTP接口微信发送消息
 
-*   [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
+*   [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 
-*   [sif5/aria2-replit-with-onedrive-upload](https://github.com/sif5/aria2-replit-with-onedrive-upload) - Download offline 离线下载 on replit
+*   [ceph/ceph-csi](https://github.com/ceph/ceph-csi) - CSI driver for Ceph
 
-*   [yonggekkk/Replit-Xray](https://github.com/yonggekkk/Replit-Xray) - Replit容器部署xray代理，支持argo固定隧道与临时隧道，自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks5
+*   [radondb/radondb-mysql-kubernetes](https://github.com/radondb/radondb-mysql-kubernetes) - Open Source，High Availability Cluster，based on MySQL
 
-*   [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
+*   [datacharmer/dbdeployer](https://github.com/datacharmer/dbdeployer) - DBdeployer is a tool that deploys MySQL database servers easily.
 
-*   [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
+*   [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s.
 
-*   [zkqiang/crawler-chrome-extensions](https://github.com/zkqiang/crawler-chrome-extensions) - 爬虫工程师常用的 Chrome 插件  |  Chrome extensions used by crawler developer
+*   [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in < 60s 🚀
 
-*   [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
+*   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 
-*   [mugoc/acme-1key](https://github.com/mugoc/acme-1key) - Acme.sh 域名证书一键申请脚本
+*   [uouuou/clash-tracing](https://github.com/uouuou/clash-tracing) -
 
-*   [xdash/GHacker\_Newsletter](https://github.com/xdash/GHacker_Newsletter) - 增长黑客周刊
+*   [yangchuansheng/clash-tracing](https://github.com/yangchuansheng/clash-tracing) - Clash Tracing Dashboard
 
-*   [wisdom-projects/holer](https://github.com/wisdom-projects/holer) - Holer exposes local servers behind NATs and firewalls to the public internet over secure tunnels.
+*   [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 
-*   [liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 的中文入门教程
+*   [butoften/array](https://github.com/butoften/array) - develop golang，similar to javascript es6+
 
-*   [qianguyihao/Mac-list](https://github.com/qianguyihao/Mac-list) - Mac软件清单、Mac使用技巧整理，正在不断完善中。努力做到最全。
+*   [HuanMeng233/weread\_downloader](https://github.com/HuanMeng233/weread_downloader) - 学习
 
-*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+*   [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 
-*   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
+*   [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code
 
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+*   [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
 
-*   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
+*   [KDF5000/nomo](https://github.com/KDF5000/nomo) - Not only Memon, store your memo into Notion or Lark Doc with lark bot
 
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+*   [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 
-*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、美区apple id共享账号
+*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo统一管理操作平台。web version of linux(terminal file script process), database (mysql pgsql oracle sqlserver Gauss sqlite), redis(single sentinel cluster), mongo unified management and operation platform.
 
-*   [fishyer/ChatGPT-Next-Web](https://github.com/fishyer/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。
 
-*   [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
+*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 
-*   [TheTorProject/gettorbrowser](https://github.com/TheTorProject/gettorbrowser) -
+*   [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 
-*   [abczmx/17ce](https://github.com/abczmx/17ce) - 17cechajian
+*   [iwannay/jiacrontab](https://github.com/iwannay/jiacrontab) - 简单可信赖的任务管理工具
 
-*   [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 
-*   [francistao/LearningNotes](https://github.com/francistao/LearningNotes) - Enjoy Learning.
+*   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 
-*   [shengcaishizhan/kkndme\_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
+*   [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 
-*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+*   [brahma-adshonor/gohook](https://github.com/brahma-adshonor/gohook) - a funny library to hook golang function at runtime
 
-*   [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
+*   [yasuo11/JVM-Implemented-by-Go](https://github.com/yasuo11/JVM-Implemented-by-Go) - 从0开始用Go语言实现一个简易版的Java虚拟机
 
-*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+*   [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 
-*   [runningcheese/Awesome-AI](https://github.com/runningcheese/Awesome-AI) - Awesome AI，你的《人工智能指南》！
+*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 
-*   [myseil/BingWallpaper](https://github.com/myseil/BingWallpaper) - 收集Bing必应每日壁纸
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
-*   [ticktickteam/android](https://github.com/ticktickteam/android) - TickTick android
+*   [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
 
-*   [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
+*   [parkomat/parkomat](https://github.com/parkomat/parkomat) - DNS + Web + WebDav server in one package.
 
-*   [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 
-*   [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
+*   [indes/flowerss-bot](https://github.com/indes/flowerss-bot) - A telegram bot  for rss reader. 一个支持应用内阅读的 Telegram RSS Bot。
 
-*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+*   [indes/telepush](https://github.com/indes/telepush) - 可一键部署的Vercel Telegram消息推送机器人
 
-*   [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+*   [archive-go/ArchiveBot](https://github.com/archive-go/ArchiveBot) - 一个用来备份链接内容的 Telegram Bot
 
-*   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+*   [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 
-*   [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+*   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 
-*   [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+*   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 
-*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+*   [CodisLabs/codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
 
-*   [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar\_board:
+*   [yoozoo/protoapi](https://github.com/yoozoo/protoapi) - High productivity API framework with error handling in mind
 
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 
-*   [VaguelyCloud/AutoSidebarForDocsify](https://github.com/VaguelyCloud/AutoSidebarForDocsify) - The sidebar directory is automatically generated for the blog deployed by Docsify.
+*   [qintongbaba/jvm](https://github.com/qintongbaba/jvm) -
 
-*   [GabrielRF/telegram-id](https://github.com/GabrielRF/telegram-id) - How to get an id on Telegram Messenger
+*   [huichen/wukong](https://github.com/huichen/wukong) - 高度可定制的全文搜索引擎
 
-*   [qianguyihao/blog-list](https://github.com/qianguyihao/blog-list) - 中文博客琅琊榜，只收录精品独立博客
+*   [httprunner/httprunner](https://github.com/httprunner/httprunner) - HttpRunner 是一个开源的 API/UI 测试工具，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。
 
-*   [fishyer/MyPic](https://github.com/fishyer/MyPic) - 图床
+*   [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
 
-*   [aopi1125/MyBooks](https://github.com/aopi1125/MyBooks) - books-tech、PPT、or something
-
-*   [bwgvps/v2ray-tutorial](https://github.com/bwgvps/v2ray-tutorial) - V2Ray 教程，包括 V2Ray 搭建安装、V2Ray 客户端下载配置、V2Ray 协议选择等。
-
-*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
-
-*   [jayboxyz/websites-and-tools](https://github.com/jayboxyz/websites-and-tools) - :beginner:  分类收藏一些网站、工具和软件，记录一些关于 windows/macOS/linux 系统的使用技巧和软件操作。
-
-*   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
-
-*   [Jackpopc/CS-Books-Store](https://github.com/Jackpopc/CS-Books-Store) - 你想要的计算机经典书籍，这里都有！
-
-*   [CodingDocs/awesome-cs](https://github.com/CodingDocs/awesome-cs) - 计算机优质书籍搜罗+学习路线推荐！
-
-*   [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) - Type definitions for the latest Obsidian API.
-
-*   [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community <3
-
-*   [getActivity/AndroidGithubBoss](https://github.com/getActivity/AndroidGithubBoss) - Github Android 个人技术开源影响力排行榜
-
-*   [pengxurui/AndroidFamily](https://github.com/pengxurui/AndroidFamily) - 🔥【Android 面经 + Android 学习指南】一份帮助 Android 开发者知识积累与能力进阶的学习路线
-
-*   [Quorafind/Obsidian-Thino](https://github.com/Quorafind/Obsidian-Thino) - A quick capture plugin for Obsidian, all data from your notes.
-
-*   [logseq/awesome-logseq-cn](https://github.com/logseq/awesome-logseq-cn) -
-
-*   [OpenBug-Android/OpenBug-Android](https://github.com/OpenBug-Android/OpenBug-Android) - OpenBug 优秀开源项目汇总
-
-*   [Trinea/android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects,  More powerful web version:
-
-*   [mihongkun/it-memo](https://github.com/mihongkun/it-memo) - IT 资料备忘录
-
-*   [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-) - 程序员相关电子书资料免费分享，欢迎关注个人微信公众号：编程与实战
-
-*   [oncework/kuaixieya](https://github.com/oncework/kuaixieya) - 「快写鸭」是一款专为开发者开发的一站式写作、管理、发布的更简单且下载即用的效率工具，去除繁琐配置但又极具丰富且自定义性质等功能。
-
-*   [obsidianzh/forum](https://github.com/obsidianzh/forum) - Obsidian中文社区
-
-*   [extrastu/flomoPlus](https://github.com/extrastu/flomoPlus) - flomoPlus
-
-*   [joecks/clipboard-actions-community](https://github.com/joecks/clipboard-actions-community) - A issue tracker for the Clipboard Actions Project
-
-*   [inferjay/AndroidDevTools](https://github.com/inferjay/AndroidDevTools) - 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
-
-*   [JsonChao/Awesome-Android-Notebook](https://github.com/JsonChao/Awesome-Android-Notebook) - :computer: A complete plan for better android developers.（continuous updating ...）
-
-*   [yangchong211/YCBlogs](https://github.com/yangchong211/YCBlogs) - 技术博客笔记大汇总，包括Java基础，线程，并发，数据结构；Android技术博客等等；常用设计模式；常见的算法；网络协议知识点；部分flutter笔记；还包括平时开发中遇到的bug汇总，当然也在工作之余收集了大量的面试题，长期更新维护并且修正，持续完善……开源的文件是markdown格式的！转载请注明出处，谢谢！
-
-*   [haochaco/issue-tracker-zh](https://github.com/haochaco/issue-tracker-zh) - 中文GitHub反馈区
-
-*   [CarGuo/gsy\_flutter\_book](https://github.com/CarGuo/gsy_flutter_book) - Flutter 完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
-
-*   [flyzy2005/ss-fly](https://github.com/flyzy2005/ss-fly) - 一键脚本搭建ss/ssr并开启bbr内核加速（Ubuntu/CentOS/Debian）
-
-*   [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-
-*   [ghosert/cmd-editor](https://github.com/ghosert/cmd-editor) - 报告 【Cmd 在线 Markdown 编辑阅读器】的问题，臭虫，改进建议
-
-*   [ZhongFuCheng3y/athena](https://github.com/ZhongFuCheng3y/athena) - Java后端知识图谱🔥 帮助Java初学者成长
-
-*   [android-cn/android-discuss](https://github.com/android-cn/android-discuss) - Android 问题交流讨论坛, 微信公众号:codekk, 网站:
-
-*   [lifesign/awesome-stars](https://github.com/lifesign/awesome-stars) - Awesome List of my own!
-
-*   [wangjiegulu/jobs](https://github.com/wangjiegulu/jobs) - Jobs for Alibaba Group.
-
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
-*   [ColorfulCat/AndroidLibs](https://github.com/ColorfulCat/AndroidLibs) - :fire:正在成为史上最全分类 Android 开源大全~~~~（长期更新 Star 一下吧）
-
-*   [OpenFlutter/FlutterInAction](https://github.com/OpenFlutter/FlutterInAction) - Flutter In Action.Flutter实践。
-
-*   [dart-archive/dart-protoc-plugin](https://github.com/dart-archive/dart-protoc-plugin) - Dart plugin for protobuf compiler (protoc)
-
-*   [yang7229693/flutter-study](https://github.com/yang7229693/flutter-study) - Flutter Study
-
-*   [OpenFlutter/OpenFlutter](https://github.com/OpenFlutter/OpenFlutter) - Love flutter love life.QQ群：892398530
-
-*   [crazycodeboy/awesome-flutter-cn](https://github.com/crazycodeboy/awesome-flutter-cn) - 一个很棒的Flutter学习资源，官方教程，插件，工具，文章，App，视频教程等的资源列表
-
-*   [jobbole/awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
-
-*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-
-*   [jobbole/ProgrammingProjectList](https://github.com/jobbole/ProgrammingProjectList) - 程序员练手小项目
-
-*   [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
-
-*   [Jermic/Android-Crack-Tool](https://github.com/Jermic/Android-Crack-Tool) - 🐞Android crack tool For Mac
-
-*   [le0zh/blog](https://github.com/le0zh/blog) -
-
-*   [AlanCheen/Android-Resources](https://github.com/AlanCheen/Android-Resources) - 优秀的Android资源收集与整理
-
-*   [AlanCheen/ReadingNotes](https://github.com/AlanCheen/ReadingNotes) - 记录一些书籍的比较，阅读心得，在加上自己的看法
-
-*   [RTFSC-Android/RTFSC](https://github.com/RTFSC-Android/RTFSC) - Let's Read The Fucking Source Code
-
-*   [wizicer/FinancialSupportForOpenSource](https://github.com/wizicer/FinancialSupportForOpenSource) - 开源项目挣钱实用手册
-
-*   [luckybilly/AndroidComponentizeLibs](https://github.com/luckybilly/AndroidComponentizeLibs) - 多个维度对比一些有代表性的开源android组件化开发方案
-
-*   [codepath/android\_guides](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers
-
-*   [jobbole/awesome-android-cn](https://github.com/jobbole/awesome-android-cn) - Android 资源大全中文版，包括：图表、游戏开发、GUI、崩溃检测、调试工具等，由伯乐在线持续更新。
-
-*   [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
-
-*   [qiujuer/ThreadGuide](https://github.com/qiujuer/ThreadGuide) - Android and Java Thread guide~~
-
-*   [Blankj/AndroidStandardDevelop](https://github.com/Blankj/AndroidStandardDevelop) - :star2: Best practices in Android develop(final).
-
-*   [Trinea/trinea-download](https://github.com/Trinea/trinea-download) - Some open project apk files, or other files upload by trinea.cn
-
-*   [liuchengxu/git-commit-emoji-cn](https://github.com/liuchengxu/git-commit-emoji-cn) - 😁 git commit message emoji 使用指南
-
-*   [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
-
-*   [leanote/leanote.com-issue](https://github.com/leanote/leanote.com-issue) - Leanote.com 讨论区, 自建Leanote问题: https://github.com/leanote/leanote/wiki/QA
-
-*   [kaleai/Android-Best-Practices](https://github.com/kaleai/Android-Best-Practices) - Android最佳实践示例
-
-*   [quanke/android-studio](https://github.com/quanke/android-studio) -
-
-*   [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
-
-*   [ncornette/OkCacheControl](https://github.com/ncornette/OkCacheControl) - Helper class to configure cache behaviour of OkHttp client and Retrofit
-
-*   [ribot/android-guidelines](https://github.com/ribot/android-guidelines) - Architecture and code guidelines we use at ribot when developing for Android
-
-*   [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
-
-*   [android-cn/android-jobs](https://github.com/android-cn/android-jobs) - 2018 年最新内推！我们相信来到这里的，无论工程师还是招聘者都是靠谱的！微信公众号:codekk，
-
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
-*   [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
-
-*   [hepochen/FarBox-Doc](https://github.com/hepochen/FarBox-Doc) - Moved to https://github.com/BuildFarBox/farbox-doc
-
-*   [LittleFriendsGroup/AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) - android sdk 源码解析——旨在帮助Android开发者更好的学习Android！我们只是一群普通的程序员，但是，我们热爱分享，想热热闹闹的玩点有意义的事！如果你也想陪我们一起愉快的玩耍，欢迎加入我们！Issues认领分析文章！
-
-*   [nibocn/mynote](https://github.com/nibocn/mynote) -
-
-*   [geniusmart/LoveUT](https://github.com/geniusmart/LoveUT) - samples for Robolectric 3.1.4
-
-*   [ZQiang94/Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs) - :rose:【停止维护】
-
-*   [sivagao/blog](https://github.com/sivagao/blog) - blog of sivagao，每天一篇好文章~
-
-*   [ZhaoKaiQiang/AndroidDifficultAnalysis](https://github.com/ZhaoKaiQiang/AndroidDifficultAnalysis) - 安卓开发中遇到的重难点解析，也包括平常的读书笔记和知识点整理
-
-*   [larryzhao/jianshu.io](https://github.com/larryzhao/jianshu.io) - 『简书』
-
-*   [mcxiaoke/RxDocs](https://github.com/mcxiaoke/RxDocs) - Rx和RxJava文档中文翻译项目
-
-*   [sinaweibosdk/weibo\_android\_sdk](https://github.com/sinaweibosdk/weibo_android_sdk) - 新浪微博 Android SDK
-
-*   [futurice/android-best-practices](https://github.com/futurice/android-best-practices) - Do's and Don'ts for Android development, by Futurice developers
-
-*   [qinjx/30min\_guides](https://github.com/qinjx/30min_guides) - 覃健祥的学习笔记，各种几十分钟入门的文档
-
-*   [hongyangAndroid/base-diskcache](https://github.com/hongyangAndroid/base-diskcache) - Android 缓存库，融合了DiskLruCache和ASimpleCache.
-
-*   [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
-
-*   [uknownothingsnow/Awesome-RxJava](https://github.com/uknownothingsnow/Awesome-RxJava) - RxJava resources
-
-*   [xirong/my-git](https://github.com/xirong/my-git) - Individual collecting material of learning git（有关 git 的学习资料）
-
-*   [Tim9Liu9/TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android) - 自己总结的Android开源项目及库
+*   [RichesJson/gopush-cluster](https://github.com/RichesJson/gopush-cluster) - Golang push server cluster
 
 ## Rust
 
@@ -2884,72 +3093,6 @@
 
 *   [atemerev/skynet](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark
 
-## HTML
-
-*   [phodal/toolbox](https://github.com/phodal/toolbox) - Phodal's Toolbox
-
-*   [fishyer/MyNote](https://github.com/fishyer/MyNote) - MyLogseq
-
-*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
-
-*   [worldwonderer/promptdoc](https://github.com/worldwonderer/promptdoc) - Designed to manage a collection of Prompt templates for multiple versions, scenarios, and applicable models.
-
-*   [rcy1314/noisework](https://github.com/rcy1314/noisework) - #主页 #引导页 ⭐️多模式个人主页展示页，🌈带pwa模式，多组件效果，可随时切换的引导页🎉 添加右键弹出菜单，RSS动态文章卡片，视频播放📫ADS广告位
-
-*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-
-*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-
-*   [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
-
-*   [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科学家和开发者的简单快速无代码网站构建器。用拖放功能、可定制模板和内置SEO工具快速创建精美网站！
-
-*   [fishyer/MyPKM](https://github.com/fishyer/MyPKM) -
-
-*   [yuxiaoy1/chatfairy](https://github.com/yuxiaoy1/chatfairy) - A minimal chat application built with no deps but Flask!
-
-*   [onlyGuo/nginx-gui](https://github.com/onlyGuo/nginx-gui) - Nginx GUI Manager
-
-*   [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2024中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐，访问Chatgpt。
-
-*   [x-dr/tts](https://github.com/x-dr/tts) - 微软azure文本转语音 音频下载
-
-*   [bunkat/later](https://github.com/bunkat/later) - A javascript library for defining recurring schedules and calculating future (or past) occurrences for them.  Includes support for using English phrases and Cron schedules.  Works in Node and in the browser.
-
-*   [souying/vercel-api-proxy](https://github.com/souying/vercel-api-proxy) - vercel反向代理。完全免费，万能代理，可代理全网一切接口，包括openai、github、google、Telegram、全面代理ai项目一键安装
-
-*   [wayne0332/utools-hashcode-plugin](https://github.com/wayne0332/utools-hashcode-plugin) -
-
-*   [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
-
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-
-*   [zshell-zhang/zshell-zhang.github.io](https://github.com/zshell-zhang/zshell-zhang.github.io) - 个人 github page 博客内容存储仓库
-
-*   [marcorichetta/fastapi-vercel](https://github.com/marcorichetta/fastapi-vercel) - A FastAPI example app deployed on Vercel
-
-*   [PureWriter/writer.drakeet.com](https://github.com/PureWriter/writer.drakeet.com) -
-
-*   [fishyer/demo-kotlin](https://github.com/fishyer/demo-kotlin) - Kotlin学习笔记
-
-*   [fishyer/MyLogseq-Bak](https://github.com/fishyer/MyLogseq-Bak) -
-
-*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-
-*   [zkwlx/DroidTelescope](https://github.com/zkwlx/DroidTelescope) - DroidTelescope（DT），Android端App性能监控框架
-
-*   [open-power-workgroup/Hospital](https://github.com/open-power-workgroup/Hospital) - OpenPower工作组收集汇总的医院开放数据
-
-*   [alibaba/alpha](https://github.com/alibaba/alpha) - Alpha是一个基于PERT图构建的Android异步启动框架，它简单，高效，功能完善。 在应用启动的时候，我们通常会有很多工作需要做，为了提高启动速度，我们会尽可能让这些工作并发进行。但这些工作之间可能存在前后依赖的关系，所以我们又需要想办法保证他们执行顺序的正确性。Alpha就是为此而设计的，使用者只需定义好自己的task，并描述它依赖的task，将它添加到Project中。框架会自动并发有序地执行这些task，并将执行的结果抛出来。
-
-*   [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
-
-*   [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io) - Jekyll Themes / GitHub Pages 博客模板 / A template repository for Jekyll based blog
-
-*   [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
-
-*   [iamjoel/front-end-note](https://github.com/iamjoel/front-end-note) - :memo: Web前端洞见。有深度的Web 前端内容。
-
 ## Dart
 
 *   [lollipopkit/flutter\_server\_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
@@ -3095,146 +3238,6 @@
 *   [grpc/grpc-dart](https://github.com/grpc/grpc-dart) - The Dart language implementation of gRPC.
 
 *   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-
-## Kotlin
-
-*   [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
-
-*   [SkyD666/AniVu](https://github.com/SkyD666/AniVu) - All-in-one Android app for RSS, BitTorrent dl & play (Podcast). MVI arch, Material You style. ⭐️ Star to support!
-
-*   [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
-
-*   [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
-
-*   [PierfrancescoSoffritti/android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player) - YouTube Player library for Android and Chromecast, stable and customizable.
-
-*   [crazyqiang/AndroidStudy](https://github.com/crazyqiang/AndroidStudy) - 🔥 Android学习知识点总结 Jetpack、MVVM、MVI、Kotlin、ViewPager2、JUC多线程等，欢迎star！
-
-*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
-*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-
-*   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
-
-*   [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.
-
-*   [HighCapable/YukiHookAPI](https://github.com/HighCapable/YukiHookAPI) - ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
-
-*   [intuit/hooks](https://github.com/intuit/hooks) - Hooks is a little module for plugins, in Kotlin
-
-*   [iceCola7/WanAndroid](https://github.com/iceCola7/WanAndroid) - 🔥项目采用 Kotlin 语言，基于 MVP + RxJava + Retrofit + Glide + EventBus 等架构设计，努力打造一款优秀的  \[玩Android] 客户端
-
-*   [czy1121/update](https://github.com/czy1121/update) - 清晰灵活简单易用的应用更新库
-
-*   [fishyer/demo-learn-android](https://github.com/fishyer/demo-learn-android) -
-
-*   [rengwuxian/CourseComposeModifierDraw](https://github.com/rengwuxian/CourseComposeModifierDraw) - 【不是开源项目】扔物线 Compose 课程源码
-
-*   [RicardoJiang/compose-fps](https://github.com/RicardoJiang/compose-fps) -
-
-*   [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
-
-*   [hi-dhl/KtPractice](https://github.com/hi-dhl/KtPractice) - 这个仓库用于实践和测试 Kotlin 、 Java 性能 和 新语法相关的代码案例，正在陆续添加新的案例。欢迎 star
-
-*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
-
-*   [Quyunshuo/AndroidBaseFrameMVVM](https://github.com/Quyunshuo/AndroidBaseFrameMVVM) - 基于 Jetpack + Kotlin 的 Android 组件化 MVVM 框架
-
-*   [iOrchid/android-jetpack-demo](https://github.com/iOrchid/android-jetpack-demo) - 🔥  快速入门Android Jetpack\&Compose 以及相关Kotlin、MVVM/MVI等独立构架App的基础技能
-
-*   [hfhuaizhi/ScaleContainerView](https://github.com/hfhuaizhi/ScaleContainerView) - scale container
-
-*   [zhujiang521/PlayAndroid](https://github.com/zhujiang521/PlayAndroid) - 🔥🔥🔥 Kotlin + MVVM + LCE版玩安卓，暗黑模式、横竖屏、无网、弱网、无数据、加载失败等等各种情况，协程、Room、Hilt、DataStore、LiveData、Retrofit、屏幕适配、本地缓存、多语言切换、多 lib，你想要的我都有！！！
-
-*   [DeweyReed/ClipboardCleaner](https://github.com/DeweyReed/ClipboardCleaner) - Check and clean your clipboard using service, widget, shortcut and quick setting tile.
-
-*   [zhujiang521/AndroidAOP](https://github.com/zhujiang521/AndroidAOP) - aop的方式实现防止按钮重复点击，java和kotlin都能使用
-
-*   [javakam/FileOperator](https://github.com/javakam/FileOperator) - 🔥 涵盖了Android系统文件的创建/删除/复制/打开文件(目录)、获取文件(目录)大小、获取常用目录、获取文件名称及后缀、获取MimeType以及MediaStore和SAF的相关操作等常用功能，并且也处理了获取文件Uri/Path的兼容问题、图片压缩和文件选择等功能。
-
-*   [owenlongbo/McImage](https://github.com/owenlongbo/McImage) - Android Gradle Plugin  -- Auto Check big image and compress image in building.
-
-*   [mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics) - Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.
-
-*   [kukyxs/CoroutinesWanAndroid](https://github.com/kukyxs/CoroutinesWanAndroid) - 超完整的「玩 Android」客户端，项目采用 MVVM, Android Jetpack, Retrofit, Kotlin 协程, Koin 编写。如果该项目对你学习过程有用，请给个 star，感谢
-
-*   [minminaya/GenaralRoundLayout](https://github.com/minminaya/GenaralRoundLayout) - kotlin封装的通用圆角布局
-
-*   [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
-
-*   [rarnu/ktfunctional](https://github.com/rarnu/ktfunctional) - a functional library for kotlin(android)
-
-*   [kosi-libs/Kodein](https://github.com/kosi-libs/Kodein) - Painless Kotlin Dependency Injection
-
-*   [kizitonwose/Time](https://github.com/kizitonwose/Time) - Type-safe time calculations in Kotlin, powered by generics.
-
-*   [kittinunf/Fuse](https://github.com/kittinunf/Fuse) - The simple generic LRU memory/disk cache for Android written in Kotlin
-
-*   [kittinunf/fuel](https://github.com/kittinunf/fuel) - The easiest HTTP networking library for Kotlin/Android
-
-*   [cn-ljb/mvp-kotlin](https://github.com/cn-ljb/mvp-kotlin) - android mvp  and auto code
-
-*   [square/kotlinpoet](https://github.com/square/kotlinpoet) - A Kotlin API for generating .kt source files.
-
-*   [thisisqubika/fakeit](https://github.com/thisisqubika/fakeit) - The Kotlin fake data generator library!
-
-*   [MarioAriasC/funKTionale](https://github.com/MarioAriasC/funKTionale) - Functional constructs for Kotlin
-
-*   [didi/booster](https://github.com/didi/booster) - 🚀Optimizer for mobile applications
-
-*   [rarnu/KtGen](https://github.com/rarnu/KtGen) -
-
-*   [panpf/assembly-adapter](https://github.com/panpf/assembly-adapter) - AssemblyAdapter 是 Android 上的一个为各种 Adapter 提供开箱即用实现的库。AssemblyAdapter is a library on Android that provides out-of-the-box implementations for various Adapters.
-
-*   [MarcinMoskala/ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Simple Android Library, that provides easy way to start the Activities with arguments.
-
-*   [7449/Album](https://github.com/7449/Album) - android 图片视频加载库，单选，多选，预览，自定义UI，相机，裁剪...等等 适配10-13
-
-*   [esafirm/android-image-picker](https://github.com/esafirm/android-image-picker) - Image Picker for Android 🤖
-
-*   [XiaoQiWen/KRefreshLayout](https://github.com/XiaoQiWen/KRefreshLayout) - 强大的下拉刷新库，定制任意Header。比官方SwipRefrehLayout处理更加友好(Kotlin、Java双版本)
-
-*   [adisonhuang/awesome-kotlin-android](https://github.com/adisonhuang/awesome-kotlin-android) - 🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源
-
-*   [JakeWharton/retrofit2-kotlin-coroutines-adapter](https://github.com/JakeWharton/retrofit2-kotlin-coroutines-adapter) - A Retrofit 2 adapter for Kotlin coroutine's Deferred type.
-
-*   [mazouri/android-mvp](https://github.com/mazouri/android-mvp) - 使用kotlin实现简单的Android MVP模式Demo
-
-*   [InsertKoinIO/koin](https://github.com/InsertKoinIO/koin) - Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
-
-*   [foolchen/AndroidTracker](https://github.com/foolchen/AndroidTracker) - Android端无埋点统计方案
-
-*   [JakeWharton/timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
-
-*   [nickbutcher/plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design.
-
-*   [kscripting/kscript](https://github.com/kscripting/kscript) - Scripting enhancements for Kotlin
-
-*   [yikousamo/wallpaper](https://github.com/yikousamo/wallpaper) - kotlin版本壁纸应用
-
-*   [ACRA/acra](https://github.com/ACRA/acra) - Application Crash Reports for Android
-
-*   [airbnb/mavericks](https://github.com/airbnb/mavericks) - Mavericks: Android on Autopilot
-
-*   [git-xuhao/KotlinMvp](https://github.com/git-xuhao/KotlinMvp) - :fire: 基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现短视频类小项目，简约风格及详细注释，欢迎 star or fork！
-
-*   [Heapy/awesome-kotlin](https://github.com/Heapy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
-
-*   [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
-
-*   [facebook/litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
-
-*   [drakeet/MultiType](https://github.com/drakeet/MultiType) - Flexible multiple types for Android RecyclerView.
-
-*   [dumingxin/AndroidDevGuid](https://github.com/dumingxin/AndroidDevGuid) -
-
-*   [ice1000/KitikuMaker](https://github.com/ice1000/KitikuMaker) - An extremely interesting Android app, playing kitiku sounds
-
-*   [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
-
-*   [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
-
-*   [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - BRVAH:Powerful and flexible RecyclerAdapter
 
 ## Vue
 
