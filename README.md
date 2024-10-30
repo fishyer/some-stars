@@ -737,8 +737,6 @@
 
 *   [zenozeng/Free-Chinese-Fonts](https://github.com/zenozeng/Free-Chinese-Fonts) - 免费中文字体
 
-*   [thx/RAP](https://github.com/thx/RAP) - Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！1000+公司的选择！RAP2已发布请移步至https://github.com/thx/rap2-delos
-
 *   [nuysoft/Mock](https://github.com/nuysoft/Mock) - A simulation data generator
 
 *   [lihongxun945/gobang](https://github.com/lihongxun945/gobang) - javascript gobang AI，JS五子棋AI，源码+教程，基于Alpha-Beta剪枝算法（不是神经网络）
@@ -2718,6 +2716,8 @@
 *   [GcsSloop/SUtil](https://github.com/GcsSloop/SUtil) - Sloop的工具箱
 
 *   [jingle1267/android-utils](https://github.com/jingle1267/android-utils) - It contains most of the Android utility classes.
+
+*   [wenchaojiang/AndroidSwipeableCardStack](https://github.com/wenchaojiang/AndroidSwipeableCardStack) - A tinder like swipeable card stack component
 
 ## Kotlin
 
