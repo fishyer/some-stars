@@ -1867,7 +1867,7 @@
 
 *   [erupts/erupt](https://github.com/erupts/erupt) - 🚀 General data management framework, objects are pages
 
-*   [erupts/zeta-api](https://github.com/erupts/zeta-api) - SQL + XML快速开发Api接口与使用文档，开发速度快如闪电！
+*   [erupts/zeta-api](https://github.com/erupts/zeta-api) - SQL + XML快速开发Api接口与使用文档
 
 *   [Tencent/QMUI\_Android](https://github.com/Tencent/QMUI_Android) - 提高 Android UI 开发效率的 UI 库
 
