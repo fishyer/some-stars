@@ -403,8 +403,6 @@
 
 *   [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 
-*   [Darakah/obsidian-commits](https://github.com/Darakah/obsidian-commits) - Track & show commits in obsidian vault or specified project.
-
 *   [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
 
 *   [YaoZeyuan/zhihuhelp](https://github.com/YaoZeyuan/zhihuhelp) - 基于node\&typescript重写知乎助手
@@ -1708,6 +1706,8 @@
 *   [keeganlee/kandroid](https://github.com/keeganlee/kandroid) - KAndroid是一个Android的简单的架构搭建的学习项目。架构上分为了四个层级：模型层、接口层、核心层和应用层。
 
 *   [taoweiji/DBFlowExample](https://github.com/taoweiji/DBFlowExample) - DBFlow，综合了 ActiveAndroid, Schematic, Ollie,Sprinkles 等库的优点。同时不是基于反射，所以性能也是非常高，效率紧跟greenDAO其后。基于注解，使用apt技术，在编译过程中生成操作类，使用方式和ActiveAndroid高度相似，使用简单。
+
+*   [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 
 ## JavaScript
 
