@@ -593,7 +593,7 @@
 
 *   [mpco/AlfredWorkflow-DEVONthink-Search](https://github.com/mpco/AlfredWorkflow-DEVONthink-Search) - Powerful Tool for Searching in DEVONthink.
 
-*   [TDuckCloud/tduck-front](https://github.com/TDuckCloud/tduck-front) - Tduck-填鸭收集器（tduck-survey-form）开源问卷调查系统、表单系统。
+*   [TDuckCloud/tduck-front](https://github.com/TDuckCloud/tduck-front) - Tduck填鸭表单问卷系统（tduck-survey-form）开源问卷调查系统、表单系统。
 
 *   [JasonGrass/auto-extension-manager](https://github.com/JasonGrass/auto-extension-manager) - a chrome extension manager where you can add rules
 
