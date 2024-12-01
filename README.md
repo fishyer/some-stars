@@ -3501,7 +3501,7 @@
 
 *   [Tencent/mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component  developed by WeChat.
 
-*   [Level/leveldown](https://github.com/Level/leveldown) - Pure C++ Node.js LevelDB binding. An abstract-leveldown compliant store.
+*   [Level/leveldown](https://github.com/Level/leveldown) - Superseded by classic-level. Pure C++ Node.js LevelDB binding. An abstract-leveldown compliant store.
 
 *   [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
 
