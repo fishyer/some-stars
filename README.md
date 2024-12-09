@@ -1385,7 +1385,7 @@
 
 *   [chinayin/WeworkChatSDK](https://github.com/chinayin/WeworkChatSDK) - WeworkChatSDK企业微信会话存档服务，提供一键接入java版sdk
 
-*   [naivestudio/WorkBot](https://github.com/naivestudio/WorkBot) - 微信，企微，企微机器人，微信机器人，worktool，RPA，协议，vbot，逆向，hook，安全稳定零封号的RPA机器人，支持通过API控制企业微信来实现聚合聊天、自动回复、群发消息、自动通过好友、定时发布朋友圈等
+*   [XingliuRPA/WorkBot](https://github.com/XingliuRPA/WorkBot) - 微信，企微，企微机器人，微信机器人，worktool，RPA，协议，vbot，逆向，hook，安全稳定零封号的RPA机器人，支持通过API控制企业微信来实现聚合聊天、自动回复、群发消息、自动通过好友、定时发布朋友圈等
 
 *   [panda726548/yiranpay](https://github.com/panda726548/yiranpay) - 聚合支付是一种第四方支付服务。简而言之，第三方支付提供的是资金清算通道，而聚合支付提供的是支付基础之上的多种衍生服务。聚合支付服务”不具备支付牌照，而是通过聚合多种第三方支付平台、合作银行及其他服务商接口等支付工具的综合支付服务。聚合支付不进行资金清算，但能够根据商户的需求进行个性化定制，形成支付通道资源优势互补，具有中立性、灵活性、便捷性等特点。目前已经对接微信，支付宝，银联支付等渠道。
 
