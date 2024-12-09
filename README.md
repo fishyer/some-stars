@@ -251,8 +251,6 @@
 
 *   [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 
-*   [sethyuan/logseq-plugin-favorite-tree](https://github.com/sethyuan/logseq-plugin-favorite-tree) - A hierarchical favorites in the left sidebar.
-
 *   [b-yp/logseq-notion-sync](https://github.com/b-yp/logseq-notion-sync) - Sync Logseq content to Notion
 
 *   [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
@@ -633,8 +631,6 @@
 
 *   [gildas-lormeau/single-file-companion](https://github.com/gildas-lormeau/single-file-companion) -
 
-*   [sethyuan/logseq-plugin-tocgen](https://github.com/sethyuan/logseq-plugin-tocgen) - Generate a TOC of any page anywhere to quickly access the page's content.
-
 *   [hepochen/FarBox](https://github.com/hepochen/FarBox) - FarBox 2.0 Core Framework
 
 *   [docsifyjs/docsify-cli](https://github.com/docsifyjs/docsify-cli) - 🖌 docsify cli tool - A magical documentation generator.
@@ -706,8 +702,6 @@
 *   [onblog/BlogHelper](https://github.com/onblog/BlogHelper) - 帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）（欢迎Star，🚫禁止Fork）
 
 *   [pengx17/knowledge-garden](https://github.com/pengx17/knowledge-garden) -
-
-*   [sethyuan/logseq-plugin-wrap](https://github.com/sethyuan/logseq-plugin-wrap) - Create your own wrappings with optional key bindings for selected text, a set of useful defaults is also provided.
 
 *   [ineo6/git-master](https://github.com/ineo6/git-master) - Git Master Extension for git file tree, support GitHub、GitLab 、 Gitee、Gitea、Gogs
 
@@ -1226,6 +1220,8 @@
 *   [futurice/android-best-practices](https://github.com/futurice/android-best-practices) - Do's and Don'ts for Android development, by Futurice developers
 
 *   [qinjx/30min\_guides](https://github.com/qinjx/30min_guides) - 覃健祥的学习笔记，各种几十分钟入门的文档
+
+*   [hongyangAndroid/base-diskcache](https://github.com/hongyangAndroid/base-diskcache) - Android 缓存库，融合了DiskLruCache和ASimpleCache.
 
 ## Swift
 
@@ -2504,6 +2500,10 @@
 *   [tiann/understand-plugin-framework](https://github.com/tiann/understand-plugin-framework) - demos to help understand plugin framwork
 
 *   [android-cn/android-open-project-demo](https://github.com/android-cn/android-open-project-demo) - Demo of android open source project, 微信公众号:codekk, 网站:
+
+*   [cglib/cglib](https://github.com/cglib/cglib) - cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access.
+
+*   [pengjianbo/MutiChannelPackup](https://github.com/pengjianbo/MutiChannelPackup) - Android多渠道打包，有网页版，Gradle版，Python版、BAT脚本、Jar版…
 
 ## HTML
 
