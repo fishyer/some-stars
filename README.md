@@ -3077,7 +3077,7 @@
 
 *   [hi-dhl/KtPractice](https://github.com/hi-dhl/KtPractice) - 这个仓库用于实践和测试 Kotlin 、 Java 性能 和 新语法相关的代码案例，正在陆续添加新的案例。欢迎 star
 
-*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
+*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
 
 *   [Quyunshuo/AndroidBaseFrameMVVM](https://github.com/Quyunshuo/AndroidBaseFrameMVVM) - 基于 Jetpack + Kotlin 的 Android 组件化 MVVM 框架
 
