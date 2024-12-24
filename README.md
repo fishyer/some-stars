@@ -1523,8 +1523,6 @@
 
 *   [heruoxin/Clip-Stack](https://github.com/heruoxin/Clip-Stack) - \[deprecated]
 
-*   [zrq1060/TestPoint](https://github.com/zrq1060/TestPoint) -
-
 *   [limpoxe/Android-Plugin-Framework](https://github.com/limpoxe/Android-Plugin-Framework) - Android插件框架，免安装运行插件APK ，支持独立插件和非独立插件
 
 *   [singwhatiwanna/dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk) - DL : dynamic load framework in android
@@ -3088,6 +3086,8 @@
 *   [zhujiang521/PlayAndroid](https://github.com/zhujiang521/PlayAndroid) - 🔥🔥🔥 Kotlin + MVVM + LCE版玩安卓，暗黑模式、横竖屏、无网、弱网、无数据、加载失败等等各种情况，协程、Room、Hilt、DataStore、LiveData、Retrofit、屏幕适配、本地缓存、多语言切换、多 lib，你想要的我都有！！！
 
 *   [DeweyReed/ClipboardCleaner](https://github.com/DeweyReed/ClipboardCleaner) - Check and clean your clipboard using service, widget, shortcut and quick setting tile.
+
+*   [zrq1060/TestPoint](https://github.com/zrq1060/TestPoint) -
 
 *   [zhujiang521/AndroidAOP](https://github.com/zhujiang521/AndroidAOP) - aop的方式实现防止按钮重复点击，java和kotlin都能使用
 
