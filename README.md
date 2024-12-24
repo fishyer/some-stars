@@ -1059,8 +1059,6 @@
 
 *   [bwgvps/v2ray-tutorial](https://github.com/bwgvps/v2ray-tutorial) - V2Ray 教程，包括 V2Ray 搭建安装、V2Ray 客户端下载配置、V2Ray 协议选择等。
 
-*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
-
 *   [jayboxyz/websites-and-tools](https://github.com/jayboxyz/websites-and-tools) - :beginner:  分类收藏一些网站、工具和软件，记录一些关于 windows/macOS/linux 系统的使用技巧和软件操作。
 
 *   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
@@ -2558,6 +2556,8 @@
 *   [fishyer/MyLogseq-Bak](https://github.com/fishyer/MyLogseq-Bak) -
 
 *   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+
+*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
 
 *   [zkwlx/DroidTelescope](https://github.com/zkwlx/DroidTelescope) - DroidTelescope（DT），Android端App性能监控框架
 
