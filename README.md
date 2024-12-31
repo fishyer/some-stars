@@ -3035,7 +3035,7 @@
 
 ## Kotlin
 
-*   [gallonyin/worktool](https://github.com/gallonyin/worktool) - 一款安全稳定的Android无障碍服务工具，支持控制企微/微信来运行的无人值守群管理机器人
+*   [gallonyin/worktool](https://github.com/gallonyin/worktool) - 一款安全稳定的Android无障碍服务工具，支持控制企微/微信来运行的无人值守群管理企业微信机器人
 
 *   [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
 
