@@ -463,6 +463,8 @@
 
 *   [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 
+*   [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
+
 *   [fishyer/code-xingqiu](https://github.com/fishyer/code-xingqiu) - 🪐 编程导航知识星球，帮助你学习编程的小圈子。配置公开，大家可以参考该项目做出自己的文档网站。
 
 *   [liyupi/code-xingqiu](https://github.com/liyupi/code-xingqiu) - 🪐 编程导航知识星球，帮助你学习编程的小圈子。配置公开，大家可以参考该项目做出自己的文档网站。
@@ -2892,8 +2894,6 @@
 *   [qazxcdswe123/telegramMemoBot](https://github.com/qazxcdswe123/telegramMemoBot) - A telegram bot for https://github.com/usememos/memos
 
 *   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-
-*   [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 
 *   [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
 
