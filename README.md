@@ -63,7 +63,7 @@
 
 ## HTML
 
-*   [revancedapps/revanced.net](https://github.com/revancedapps/revanced.net) - Hello and welcome to my official repository.
+*   [vancedapps/rv.net](https://github.com/vancedapps/rv.net) - Hello and welcome to my official repository.
 
 *   [huangshiyu13/webtemplate](https://github.com/huangshiyu13/webtemplate) - 收集各种网站前端模板
 
@@ -2645,7 +2645,7 @@
 
 *   [oiuv/WeWorkFinanceSdk](https://github.com/oiuv/WeWorkFinanceSdk) - 自动存档企业微信会话（文本、图片、语音、视频、文件），方便功能开发
 
-*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持IPv4/IPv6；支持自定义频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
+*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持IPv4/IPv6；支持自定义频道；支持本地源、组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
 
 *   [fishyer/MyLogseq](https://github.com/fishyer/MyLogseq) - 产物仓库
 
