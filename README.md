@@ -63,7 +63,7 @@
 
 ## HTML
 
-*   [revancedapps/revanced.net](https://github.com/revancedapps/revanced.net) - Hello and welcome to the official repository for the homepage source code of revanced.net. We are delighted to have you here and want to provide you with a warm introduction to what this repository is all about.
+*   [revancedapps/revanced.net](https://github.com/revancedapps/revanced.net) - Hello and welcome to my official repository.
 
 *   [huangshiyu13/webtemplate](https://github.com/huangshiyu13/webtemplate) - 收集各种网站前端模板
 
