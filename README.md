@@ -1327,7 +1327,7 @@
 
 *   [HuanMeng233/weread\_downloader](https://github.com/HuanMeng233/weread_downloader) - 学习
 
-*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 支持视频号、小程序、抖音、快手、小红书、直播流、酷狗、QQ音乐等常见网络资源!
+*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 
 *   [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 
