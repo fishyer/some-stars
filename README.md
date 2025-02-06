@@ -189,7 +189,7 @@
 
 *   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 
-*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥「AI 低代码平台」前后端分离 SpringBoot 2.x/3.x，SpringCloud，Ant Design\&Vue3，Mybatis，Shiro！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式 AI生成->OnlineCoding->代码生成->手工MERGE，帮助Java项目解决80%重复工作，让开发更关注业务，快速提高效率同时，节省成本，又不失灵活性
+*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥「AI 低代码平台」前后端分离 SpringBoot 2.x/3.x，SpringCloud，Ant Design\&Vue3，Mybatis，Shiro！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式 AI生成->OnlineCoding->代码生成->手工MERGE，帮助Java项目解决80%重复工作，让开发更关注业务，提高开发效率、节省成本，同时又不失灵活性
 
 *   [goweii/WanAndroid](https://github.com/goweii/WanAndroid) - 最美WanAndroid客户端
 
