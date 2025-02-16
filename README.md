@@ -3745,7 +3745,7 @@
 
 ## Ruby
 
-*   [cesarferreira/dryrun](https://github.com/cesarferreira/dryrun) - :cloud: Try the demo project of any Android Library
+*   [cesarferreira/dryrun](https://github.com/cesarferreira/dryrun) - ☁️ Try the demo project of any Android Library
 
 ## GCC Machine Description
 
