@@ -205,7 +205,7 @@
 
 *   [wenqiyun/nest-admin](https://github.com/wenqiyun/nest-admin) - 采用nestjs typeorm vue开发的一套权限管理系统
 
-*   [LeekHub/leek-fund](https://github.com/LeekHub/leek-fund) - :chart\_with\_upwards\_trend:  Leek box - Monitor the real-time data of stock & fund & future in VSCode, Be the most excellent investment extension. 韭菜盒子——VSCode 里也可以看股票 & 基金 & 期货实时数据，做最好用的投资插件。
+*   [LeekHub/leek-fund](https://github.com/LeekHub/leek-fund) - :chart\_with\_upwards\_trend:  Leek box - Monitor the real-time data of stock & fund & future in VSCode, Be the most excellent investment extension. 韭菜盒子VSCode插件，可以看股票、基金、期货等实时数据。
 
 *   [liyupi/sql-mother](https://github.com/liyupi/sql-mother) - 程序员鱼皮原创项目，免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
 
@@ -631,7 +631,7 @@
 
 *   [kairi003/Get-cookies.txt-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY) - Get cookies.txt, NEVER send information outside.
 
-*   [xszyou/Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
+*   [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
 
 *   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron.
 
