@@ -39,6 +39,7 @@
 *   [Zig](#zig)
 *   [Svelte](#svelte)
 *   [CSS](#css)
+*   [MDX](#mdx)
 *   [Objective-C](#objective-c)
 *   [Elixir](#elixir)
 *   [Clojure](#clojure)
@@ -51,7 +52,6 @@
 *   [Batchfile](#batchfile)
 *   [SCSS](#scss)
 *   [IDL](#idl)
-*   [MDX](#mdx)
 *   [Groovy](#groovy)
 *   [Cython](#cython)
 *   [CoffeeScript](#coffeescript)
@@ -80,8 +80,6 @@
 *   [worldwonderer/promptdoc](https://github.com/worldwonderer/promptdoc) - Designed to manage a collection of Prompt templates for multiple versions, scenarios, and applicable models.
 
 *   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-
-*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 *   [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 
@@ -3593,6 +3591,12 @@
 
 *   [wizardforcel/think-dast-zh](https://github.com/wizardforcel/think-dast-zh) - :book: \[译] 数据结构思维
 
+## MDX
+
+*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+
+*   [yujinyan/blog](https://github.com/yujinyan/blog) - Personal blog by Yu Jinyan.
+
 ## Objective-C
 
 *   [FLEXTool/FLEX](https://github.com/FLEXTool/FLEX) - An in-app debugging and exploration tool for iOS
@@ -3678,10 +3682,6 @@
 ## IDL
 
 *   [msdx/android-proguard-cn](https://github.com/msdx/android-proguard-cn) - Android混淆规则
-
-## MDX
-
-*   [yujinyan/blog](https://github.com/yujinyan/blog) - Personal blog by Yu Jinyan.
 
 ## Groovy
 
