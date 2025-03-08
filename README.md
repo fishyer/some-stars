@@ -127,7 +127,7 @@
 
 *   [appdev/siyuan-unlock](https://github.com/appdev/siyuan-unlock) - 思源笔记免登录版本；可以不登录使用同步功能
 
-*   [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 好用的 Canvas 引擎，高效绘图 、UI 交互、图形编辑。A Useful Canvas Engine.
+*   [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 革新好用的 Canvas 引擎，轻松实现图形编辑。Innovative and Easy-to-Use Canvas Engine. Effortless Graphic Editing.
 
 *   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 
