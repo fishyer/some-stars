@@ -38,7 +38,6 @@
 *   [Perl](#perl)
 *   [Zig](#zig)
 *   [Svelte](#svelte)
-*   [Astro](#astro)
 *   [CSS](#css)
 *   [MDX](#mdx)
 *   [Objective-C](#objective-c)
@@ -48,6 +47,7 @@
 *   [AppleScript](#applescript)
 *   [VHDL](#vhdl)
 *   [Markdown](#markdown)
+*   [Astro](#astro)
 *   [Makefile](#makefile)
 *   [Batchfile](#batchfile)
 *   [SCSS](#scss)
@@ -966,6 +966,8 @@
 *   [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 Screenshots, word marking, OCR, AI, translation software || 截图、划词、文字识别、AI、翻译软件
 
 *   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+
+*   [Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale) - GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.
 
 *   [collabnix/redisinsight-docker-extension](https://github.com/collabnix/redisinsight-docker-extension) - Running Redis GUI using RedisInsight Docker Extension
 
@@ -3561,12 +3563,6 @@
 
 *   [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
 
-## Astro
-
-*   [Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale) - GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.
-
-*   [pseudoyu/yu-tools](https://github.com/pseudoyu/yu-tools) - 我的个人工具箱 (设备, macOS 软件, iOS Apps...)
-
 ## CSS
 
 *   [ddrsql/Test](https://github.com/ddrsql/Test) -
@@ -3654,6 +3650,10 @@
 *   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 
 *   [jaywcjlove/git-tips](https://github.com/jaywcjlove/git-tips) - 这里是我的笔记，记录一些git常用和一些记不住的命令。
+
+## Astro
+
+*   [pseudoyu/yu-tools](https://github.com/pseudoyu/yu-tools) - 我的个人工具箱 (设备, macOS 软件, iOS Apps...)
 
 ## Makefile
 
