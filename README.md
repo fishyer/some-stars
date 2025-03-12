@@ -3025,7 +3025,7 @@
 
 *   [yiyungent/KnifeHub](https://github.com/yiyungent/KnifeHub) - 🧰 简单易用的效率工具平台
 
-*   [xxxxue/Docsify-Build-Sidebar](https://github.com/xxxxue/Docsify-Build-Sidebar) - 😆 Docsify 侧边栏 : 【自动生成 Docsify 的 Sidebar 与 子目录 Sidebar】
+*   [xxxxue/Docsify-Build-Sidebar](https://github.com/xxxxue/Docsify-Build-Sidebar) - Docsify 侧边栏 : 【自动生成 Docsify 的 Sidebar 与 子目录 Sidebar】
 
 *   [hitchao/Jvedio](https://github.com/hitchao/Jvedio) - Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件
 
