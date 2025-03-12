@@ -1839,7 +1839,7 @@
 
 *   [huichen/wukong](https://github.com/huichen/wukong) - 高度可定制的全文搜索引擎
 
-*   [httprunner/httprunner](https://github.com/httprunner/httprunner) - HttpRunner 是一个开源的 API/UI 测试工具，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。
+*   [httprunner/httprunner](https://github.com/httprunner/httprunner) - HttpRunner 是一款开源的 API/UI 测试框架，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。
 
 *   [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
 
