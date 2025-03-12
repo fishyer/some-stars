@@ -641,7 +641,7 @@
 
 *   [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
 
-*   [devchat-ai/devchat](https://github.com/devchat-ai/devchat) - Automate your dev tasks with AI-powered scripts, from your IDE's chat panel.
+*   [devchat-ai/devchat](https://github.com/devchat-ai/devchat) - AI workflows generated with natural language
 
 *   [prisma-korea/prisma-fastapi](https://github.com/prisma-korea/prisma-fastapi) - Fastapi prisma template
 
