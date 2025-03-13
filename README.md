@@ -63,6 +63,8 @@
 
 ## TypeScript
 
+*   [ant-design/x](https://github.com/ant-design/x) - Craft AI-driven interfaces effortlessly 🤖
+
 *   [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
 
 *   [trentlee0/mverything-plus](https://github.com/trentlee0/mverything-plus) - 一个文件搜索的 uTools 插件，Mac 上的文件查找工具
@@ -3010,8 +3012,6 @@
 *   [WuXiaolong/AndroidUtils](https://github.com/WuXiaolong/AndroidUtils) - Android常用工具类
 
 *   [nhaarman/ListViewAnimations](https://github.com/nhaarman/ListViewAnimations) - \[DEPRECATED] An Android library which allows developers to easily add animations to ListView items
-
-*   [wenhuaijun/EasyTagDragView](https://github.com/wenhuaijun/EasyTagDragView) - 仿网易新闻app下拉标签选择菜单，长按拖动排序，点击增删标签控件
 
 ## C\#
 
