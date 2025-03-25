@@ -1787,7 +1787,7 @@
 
 *   [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
 
-*   [whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - 企业微信/微信 安全使用的 ChatGPT 个人助手/客服, 也支持 dify 工作流
+*   [whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - 企业微信/微信 安全使用的 LLM 个人助手/客服, 也支持 dify 工作流
 
 *   [saucer-man/wepush](https://github.com/saucer-man/wepush) - 利用企业微信应用消息向微信发送通知 https://saucer-man.com/operation\_and\_maintenance/707.html
 
