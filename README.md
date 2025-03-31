@@ -63,6 +63,8 @@
 
 ## Java
 
+*   [youlookwhat/ByWebView](https://github.com/youlookwhat/ByWebView) - 🌏  WebView 全方面使用，JS交互、进度条、上传图片、错误页面、视频全屏播放、唤起原生App、获取网页源代码、被作为第三方浏览器打开、DeepLink、\[腾讯x5使用示例]
+
 *   [yangchong211/YCWebView](https://github.com/yangchong211/YCWebView) - 基于腾讯x5开源库，提高webView开发效率，大概要节约你百分之六十的时间成本。该案例支持处理js的交互逻辑且无耦合、同时暴露进度条加载进度、可以监听异常error状态、支持视频播放并且可以全频、支持加载word，xls，ppt，pdf，txt等文件文档、发短信、打电话、发邮件、打开文件操作上传图片、唤起原生App、支持webView页面截图、x5库为最新版本，功能强大。
 
 *   [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
@@ -1136,8 +1138,6 @@
 *   [glomadrian/RoadRunner](https://github.com/glomadrian/RoadRunner) - Road Runner is a library for android which allow you to make your own loading animation using a SVG image
 
 *   [Devlight/TintLayout](https://github.com/Devlight/TintLayout) - This library help you to achieve popular drop shadow effect from view.
-
-*   [AzimoLabs/AndroidKeyboardWatcher](https://github.com/AzimoLabs/AndroidKeyboardWatcher) - Software keyboard open/close watcher for Android.
 
 ## Kotlin
 
