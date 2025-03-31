@@ -1299,7 +1299,7 @@
 
 *   [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
 
-*   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron.
+*   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Control your Android device with graphical scrcpy.
 
 *   [JamesHopbourn/Apple-Automation](https://github.com/JamesHopbourn/Apple-Automation) - iOS/macOS 自动化，效率玩法探索。
 
