@@ -2431,7 +2431,7 @@
 
 *   [Ice9Coffee/HoshinoBot](https://github.com/Ice9Coffee/HoshinoBot) - A qqbot for Princess Connect Re:Dive (and other usage :)
 
-*   [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
+*   [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 
 *   [ylfeng250/FengTools](https://github.com/ylfeng250/FengTools) - 一些小工具包，自娱自乐的一些小工具；还是继续工作吧~~~~
 
