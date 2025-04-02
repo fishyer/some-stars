@@ -1297,7 +1297,7 @@
 
 *   [kairi003/Get-cookies.txt-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY) - Get cookies.txt, NEVER send information outside.
 
-*   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Control your Android device with graphical scrcpy.
+*   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 
 *   [JamesHopbourn/Apple-Automation](https://github.com/JamesHopbourn/Apple-Automation) - iOS/macOS 自动化，效率玩法探索。
 
