@@ -37,7 +37,6 @@
 *   [Dockerfile](#dockerfile)
 *   [Perl](#perl)
 *   [Zig](#zig)
-*   [Svelte](#svelte)
 *   [CSS](#css)
 *   [MDX](#mdx)
 *   [Objective-C](#objective-c)
@@ -50,6 +49,7 @@
 *   [Astro](#astro)
 *   [Makefile](#makefile)
 *   [Batchfile](#batchfile)
+*   [Svelte](#svelte)
 *   [SCSS](#scss)
 *   [IDL](#idl)
 *   [Groovy](#groovy)
@@ -604,6 +604,8 @@
 *   [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 
 *   [cloudreve/frontend](https://github.com/cloudreve/frontend) - Cloudreve V3 的前端
+
+*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 *   [fishyer/dewhale](https://github.com/fishyer/dewhale) - GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.
 
@@ -3557,12 +3559,6 @@
 
 *   [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
 
-## Svelte
-
-*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
-
-*   [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
-
 ## CSS
 
 *   [ddrsql/Test](https://github.com/ddrsql/Test) -
@@ -3666,6 +3662,10 @@
 ## Batchfile
 
 *   [snomiao/calibre-utf8-path](https://github.com/snomiao/calibre-utf8-path) - Switch my calibre library from ascii path to plain utf8(unicode ) path. 将我的书库从拼音目录切换至中文命名
+
+## Svelte
+
+*   [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
 
 ## SCSS
 
