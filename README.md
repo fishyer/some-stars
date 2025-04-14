@@ -1325,7 +1325,7 @@
 
 *   [APIJSON/apijson-framework](https://github.com/APIJSON/apijson-framework) - 腾讯 APIJSON 服务端框架，通过数据库表配置角色权限、参数校验等，简化使用。Tencent APIJSON Server Framework for configuring access of roles and validation of arguments in database tables,  then using APIJSON easier.
 
-*   [getActivity/XXPermissions](https://github.com/getActivity/XXPermissions) - Android 权限请求框架，已适配 Android 14
+*   [getActivity/XXPermissions](https://github.com/getActivity/XXPermissions) - Android 权限请求框架，已适配 Android 15
 
 *   [TommyLemon/Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary) - 🔥 Android MVP 快速开发框架，做国内 「示例最全面」「注释最详细」「使用最简单」「代码最严谨」的 Android 开源 UI 框架。                🔥 An Android MVP Framework with many demos, detailed documents, simple usages and strict codes.
 
