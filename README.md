@@ -39,7 +39,6 @@
 *   [Perl](#perl)
 *   [Zig](#zig)
 *   [CSS](#css)
-*   [MDX](#mdx)
 *   [Objective-C](#objective-c)
 *   [Elixir](#elixir)
 *   [Clojure](#clojure)
@@ -50,6 +49,7 @@
 *   [Astro](#astro)
 *   [Makefile](#makefile)
 *   [Batchfile](#batchfile)
+*   [MDX](#mdx)
 *   [SCSS](#scss)
 *   [IDL](#idl)
 *   [Groovy](#groovy)
@@ -3147,6 +3147,8 @@
 
 *   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
+*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+
 *   [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 
 *   [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科学家和开发者的简单快速无代码网站构建器。用拖放功能、可定制模板和内置SEO工具快速创建精美网站！
@@ -3787,14 +3789,6 @@
 
 *   [wizardforcel/think-dast-zh](https://github.com/wizardforcel/think-dast-zh) - :book: \[译] 数据结构思维
 
-## MDX
-
-*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-
-*   [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-
-*   [yujinyan/blog](https://github.com/yujinyan/blog) - Personal blog by Yu Jinyan.
-
 ## Objective-C
 
 *   [FLEXTool/FLEX](https://github.com/FLEXTool/FLEX) - An in-app debugging and exploration tool for iOS
@@ -3866,6 +3860,12 @@
 ## Batchfile
 
 *   [snomiao/calibre-utf8-path](https://github.com/snomiao/calibre-utf8-path) - Switch my calibre library from ascii path to plain utf8(unicode ) path. 将我的书库从拼音目录切换至中文命名
+
+## MDX
+
+*   [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+
+*   [yujinyan/blog](https://github.com/yujinyan/blog) - Personal blog by Yu Jinyan.
 
 ## SCSS
 
