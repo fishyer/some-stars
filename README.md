@@ -63,6 +63,8 @@
 
 ## TypeScript
 
+*   [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
+
 *   [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles, shells, and terminals.
 
 *   [codercup/unibest](https://github.com/codercup/unibest) - unibest - 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。
@@ -2514,8 +2516,6 @@
 *   [sandin/YoDao](https://github.com/sandin/YoDao) - YoDao Is A Simple and Fast ORM library for android.
 
 *   [D-clock/AndroidDaemonService](https://github.com/D-clock/AndroidDaemonService) - 合理优雅的进程保活方式
-
-*   [androidannotations/androidannotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance.
 
 ## Kotlin
 
