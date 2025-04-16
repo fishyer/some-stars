@@ -1353,7 +1353,7 @@
 
 *   [goweii/WanAndroid](https://github.com/goweii/WanAndroid) - 最美WanAndroid客户端
 
-*   [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，数据可视化神器。
+*   [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
 
 *   [rchaocai/Luffy](https://github.com/rchaocai/Luffy) - Android字节码插件，编译期间动态修改代码，改造添加全埋点日志采集功能模块，对常见控件进行监听处理
 
