@@ -2515,6 +2515,8 @@
 
 *   [D-clock/AndroidDaemonService](https://github.com/D-clock/AndroidDaemonService) - 合理优雅的进程保活方式
 
+*   [androidannotations/androidannotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance.
+
 ## Kotlin
 
 *   [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A simple music app using YouTube Music for backend
@@ -3534,8 +3536,6 @@
 *   [TolyFx/toly\_ui](https://github.com/TolyFx/toly_ui) - The All-Platform Responsive UI Library For Flutter.
 
 *   [Yuzopro/opengit\_flutter](https://github.com/Yuzopro/opengit_flutter) - OpenGit基于Flutter的Github客户端，支持Android和iOS。项目中涉及到BloC、Redux、国际化、多主题以及Github相关信息的查看等。
-
-*   [13217300237/HankPackMaster](https://github.com/13217300237/HankPackMaster) - 一个自动化的apk打包上传加固签名一体化的工具
 
 *   [springeye/fterm](https://github.com/springeye/fterm) - fterm是一款基于Flutter开发的跨平台终端工具
 
