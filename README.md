@@ -1179,7 +1179,7 @@
 
 *   [VMIJUNV/linux-gpt-assistant](https://github.com/VMIJUNV/linux-gpt-assistant) -
 
-*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
+*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
 
 *   [qazxcdswe123/telegramMemoBot](https://github.com/qazxcdswe123/telegramMemoBot) - A telegram bot for https://github.com/usememos/memos
 
