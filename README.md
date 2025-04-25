@@ -161,7 +161,7 @@
 
 *   [meteorlxy/vssue](https://github.com/meteorlxy/vssue) - :mailbox: A Vue-powered Issue-based Comment Plugin
 
-*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 
 *   [yanzhangshuai/lightweight-deploy-blogs](https://github.com/yanzhangshuai/lightweight-deploy-blogs) -
 
