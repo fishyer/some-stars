@@ -965,7 +965,7 @@
 
 *   [MrHzq/vue3-vite-element-plus-tailwindcss-typescript](https://github.com/MrHzq/vue3-vite-element-plus-tailwindcss-typescript) - vue3 + vite + element-plus + tailwindcss + typescript 演示项目
 
-*   [zxwk1998/vue-admin-arco](https://github.com/zxwk1998/vue-admin-arco) - 🎉 vite+typescript+arco.design中后台前端框架，vue3 admin前端框架
+*   [zxwk1998/vue-admin-arco](https://github.com/zxwk1998/vue-admin-arco) - 🎉🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro vite+typescript+arco.design中后台前端框架，vue3 admin前端框架
 
 *   [youlaitech/vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 vue 3 + vite 6+ typescript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。
 
