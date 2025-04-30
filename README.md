@@ -85,7 +85,7 @@
 
 *   [top-think/think](https://github.com/top-think/think) - ThinkPHP Framework ——十年匠心的高性能PHP框架
 
-*   [zoujingli/ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) - 基于 ThinkPHP6 的极简后台管理系统，内置注解权限、异步多任务、应用插件生态等，支持类 PaaS 更新公共模块和应用插件，插件可本地化定制开发。
+*   [zoujingli/ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) - 基于 ThinkPHP6&8 的极简后台管理系统，内置注解权限、异步多任务、应用插件生态等，支持类 PaaS 更新公共模块和应用插件，插件可本地化定制开发。
 
 *   [m9rco/Think.Admin](https://github.com/m9rco/Think.Admin) - 基于 Thinkphp5 的后台管理系统
 
