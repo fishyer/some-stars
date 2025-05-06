@@ -2287,7 +2287,7 @@
 
 *   [vieux/OpenUDID](https://github.com/vieux/OpenUDID) - \[OpenUDID IS NOW DEPRECATED] Open source initiative for a universal and persistent UDID solution for  Android.
 
-*   [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Android Database - first and fast, lightweight on-device vector database
+*   [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Database for Android and JVM - first and fast, lightweight on-device vector database
 
 *   [zhouchaoyuan/excelPanel](https://github.com/zhouchaoyuan/excelPanel) - An Android's two-dimensional RecyclerView. Not only can load historical data, but also can load future data.
 
