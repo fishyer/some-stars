@@ -2789,7 +2789,7 @@
 
 *   [AhFeil/extract\_forward\_tgbot](https://github.com/AhFeil/extract_forward_tgbot) - 存储转发给它的消息，并能推送到网页，方便查看编辑信息，附带拼接图片、视频转 GIF 功能。 Store the messages forwarded to it, and be able to push them to the web page, for easy viewing and editing of the information.
 
-*   [jackhawks/rectg](https://github.com/jackhawks/rectg) - 从全网搜集超 100,000 个 Telegram 群组、频道和机器人，并筛选出优质且持续更新的资源，为 数据分析、研究与学习 提供支持。所有数据均来源于互联网，仅用于研究分析，不涉及商业或违法用途，使用者需自行承担风险。
+*   [jackhawks/rectg](https://github.com/jackhawks/rectg) - 从全网搜集超 10000+ 个 Telegram 群组、频道和机器人，并筛选出优质且持续更新的资源，为 数据分析、研究与学习 提供支持。所有数据均来源于互联网，仅用于研究分析，不涉及商业或违法用途，使用者需自行承担风险。
 
 *   [coletdjnz/yt-dlp-youtube-oauth2](https://github.com/coletdjnz/yt-dlp-youtube-oauth2) - \[OBSOLETE] Plugin that adds OAuth2 login support to yt-dlp's YouTube extractors
 
