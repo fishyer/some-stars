@@ -3457,7 +3457,7 @@
 
 *   [Zalafina/QKeyMapper](https://github.com/Zalafina/QKeyMapper) - \[按键映射工具] QKeyMapper，Qt开发Win10\&Win11可用，不修改注册表、不需重新启动系统，可立即生效和停止，新增虚拟游戏手柄功能，可鼠标控制虚拟手柄摇杆。
 
-*   [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+*   [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 
 *   [Qihoo360/Atlas](https://github.com/Qihoo360/Atlas) - A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team
 
