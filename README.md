@@ -13,11 +13,11 @@
 
 ## Table of Contents
 
+*   [PHP](#php)
 *   [Java](#java)
 *   [JavaScript](#javascript)
 *   [Kotlin](#kotlin)
 *   [miscellaneous](#miscellaneous)
-*   [PHP](#php)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [HTML](#html)
@@ -60,6 +60,62 @@
 *   [Ruby](#ruby)
 *   [GCC Machine Description](#gcc-machine-description)
 *   [TeX](#tex)
+
+## PHP
+
+*   [eevleevs/workflowy-backup](https://github.com/eevleevs/workflowy-backup) -
+
+*   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
+
+*   [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
+
+*   [liaocp666/Jasmine](https://github.com/liaocp666/Jasmine) - Jasmine，一款精致的Typecho博客主题
+
+*   [SiGool/Gzh2typecho](https://github.com/SiGool/Gzh2typecho) - 微信公众号对话发布typecho文章
+
+*   [Abner1995/OmniPlatform](https://github.com/Abner1995/OmniPlatform) - 提供一个统一的接口来处理不同平台（如微信、抖音、快手）的SDK集成。
+
+*   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+
+*   [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
+
+*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
+
+*   [diycp/web](https://github.com/diycp/web) - A step by step to the whole stack of engineers. self taught.
+
+*   [im286er/tp-admin-1](https://github.com/im286er/tp-admin-1) - 基于ThinkPHP5拿来即用高性能后台管理系统
+
+*   [top-think/think](https://github.com/top-think/think) - ThinkPHP Framework ——十年匠心的高性能PHP框架
+
+*   [zoujingli/ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) - 基于 ThinkPHP6&8 的极简后台管理系统，内置注解权限、异步多任务、应用插件生态等，支持类 PaaS 更新公共模块和应用插件，插件可本地化定制开发。
+
+*   [m9rco/Think.Admin](https://github.com/m9rco/Think.Admin) - 基于 Thinkphp5 的后台管理系统
+
+*   [pigeonpig/kod](https://github.com/pigeonpig/kod) - 理论上能在Replit跑的可道云
+
+*   [xing61/zzz-api](https://github.com/xing61/zzz-api) - 优质稳定的OpenAI的API接口-For企业和开发者。OpenAI的api proxy，支持ChatGPT的API调用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要买openai的账号，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！智增增
+
+*   [jiangxianli/ProxyIpLib](https://github.com/jiangxianli/ProxyIpLib) - 全球免费代理IP库，高可用IP，精心筛选优质IP,2s必达
+
+*   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
+
+*   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
+
+*   [zyx0814/Pichome](https://github.com/zyx0814/Pichome) - 一款图片与媒体文件管理功能强大的开源网盘程序
+
+*   [st1ven/Dida365Api](https://github.com/st1ven/Dida365Api) - Web API for Dida365（滴答清单）
+
+*   [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目。
+
+*   [helloxz/yqdoc](https://github.com/helloxz/yqdoc) - 基于语雀API开发的文档系统
+
+*   [johansatge/workflowy-php](https://github.com/johansatge/workflowy-php) - 💡 Unofficial WorkFlowy API written in PHP.
+
+*   [jadec0der/alfred-ocr](https://github.com/jadec0der/alfred-ocr) -
+
+*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+
+*   [nemoTyrant/manong](https://github.com/nemoTyrant/manong) - 码农周刊整理
 
 ## Java
 
@@ -2142,62 +2198,6 @@
 *   [xirong/my-git](https://github.com/xirong/my-git) - Individual collecting material of learning git（有关 git 的学习资料）
 
 *   [Tim9Liu9/TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android) - 自己总结的Android开源项目及库
-
-*   [CharonChui/AndroidNote](https://github.com/CharonChui/AndroidNote) - Android study notes.
-
-## PHP
-
-*   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
-
-*   [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
-
-*   [liaocp666/Jasmine](https://github.com/liaocp666/Jasmine) - Jasmine，一款精致的Typecho博客主题
-
-*   [SiGool/Gzh2typecho](https://github.com/SiGool/Gzh2typecho) - 微信公众号对话发布typecho文章
-
-*   [Abner1995/OmniPlatform](https://github.com/Abner1995/OmniPlatform) - 提供一个统一的接口来处理不同平台（如微信、抖音、快手）的SDK集成。
-
-*   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-
-*   [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
-
-*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
-
-*   [diycp/web](https://github.com/diycp/web) - A step by step to the whole stack of engineers. self taught.
-
-*   [im286er/tp-admin-1](https://github.com/im286er/tp-admin-1) - 基于ThinkPHP5拿来即用高性能后台管理系统
-
-*   [top-think/think](https://github.com/top-think/think) - ThinkPHP Framework ——十年匠心的高性能PHP框架
-
-*   [zoujingli/ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) - 基于 ThinkPHP6&8 的极简后台管理系统，内置注解权限、异步多任务、应用插件生态等，支持类 PaaS 更新公共模块和应用插件，插件可本地化定制开发。
-
-*   [m9rco/Think.Admin](https://github.com/m9rco/Think.Admin) - 基于 Thinkphp5 的后台管理系统
-
-*   [pigeonpig/kod](https://github.com/pigeonpig/kod) - 理论上能在Replit跑的可道云
-
-*   [xing61/zzz-api](https://github.com/xing61/zzz-api) - 优质稳定的OpenAI的API接口-For企业和开发者。OpenAI的api proxy，支持ChatGPT的API调用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要买openai的账号，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！智增增
-
-*   [jiangxianli/ProxyIpLib](https://github.com/jiangxianli/ProxyIpLib) - 全球免费代理IP库，高可用IP，精心筛选优质IP,2s必达
-
-*   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
-
-*   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
-
-*   [zyx0814/Pichome](https://github.com/zyx0814/Pichome) - 一款图片与媒体文件管理功能强大的开源网盘程序
-
-*   [st1ven/Dida365Api](https://github.com/st1ven/Dida365Api) - Web API for Dida365（滴答清单）
-
-*   [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目。
-
-*   [helloxz/yqdoc](https://github.com/helloxz/yqdoc) - 基于语雀API开发的文档系统
-
-*   [johansatge/workflowy-php](https://github.com/johansatge/workflowy-php) - 💡 Unofficial WorkFlowy API written in PHP.
-
-*   [jadec0der/alfred-ocr](https://github.com/jadec0der/alfred-ocr) -
-
-*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-
-*   [nemoTyrant/manong](https://github.com/nemoTyrant/manong) - 码农周刊整理
 
 ## TypeScript
 
