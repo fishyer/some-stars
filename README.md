@@ -239,7 +239,7 @@
 
 *   [andych008/RemoteLogDemo](https://github.com/andych008/RemoteLogDemo) - 手机log通过websocket输出到电脑浏览器上
 
-*   [erupts/erupt](https://github.com/erupts/erupt) - 🚀 General data management framework, objects are views
+*   [erupts/erupt](https://github.com/erupts/erupt) -  ✨ Erupt: Java Annotation-Driven Low-Code + AI Base Framework. Build Enterprise Apps Fast & Efficiently.
 
 *   [erupts/zeta-api](https://github.com/erupts/zeta-api) - SQL + XML快速开发Api接口与使用文档
 
