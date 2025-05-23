@@ -508,7 +508,7 @@
 
 *   [hymhub/css-to-tailwind](https://github.com/hymhub/css-to-tailwind) - Convert CSS code to Tailwindcss syntax in real time
 
-*   [ant-design/x](https://github.com/ant-design/x) - Craft AI-driven interfaces effortlessly 🤖
+*   [ant-design/x](https://github.com/ant-design/x) - Craft AI-driven interface effortlessly🤖
 
 *   [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
 
