@@ -694,7 +694,7 @@
 
 *   [sollidy/telegram-bot-vercel-boilerplate](https://github.com/sollidy/telegram-bot-vercel-boilerplate) - 📦 Telegram Bot Starter kit based on Node.js and Telegraf for deploying on Vercel.
 
-*   [AprilNEA/AChat](https://github.com/AprilNEA/AChat) - 🌊 AChat - An open-source/self-hosted/local-first AI platform, designed for enterprises and teams, perfectly combining powerful local processing capabilities with seamless remote synchronization.
+*   [AChatLab/AChat](https://github.com/AChatLab/AChat) - 🌊 AChat - An open-source/self-hosted/local-first AI platform, designed for enterprises and teams, perfectly combining powerful local processing capabilities with seamless remote synchronization.
 
 *   [meetqy/rao-pics](https://github.com/meetqy/rao-pics) - :electron: 帮助你远程访问 Eagle 的素材库。
 
