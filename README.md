@@ -1402,6 +1402,8 @@
 
 *   [uknownothingsnow/Awesome-RxJava](https://github.com/uknownothingsnow/Awesome-RxJava) - RxJava resources
 
+*   [xirong/my-git](https://github.com/xirong/my-git) - Individual collecting material of learning git（有关 git 的学习资料）
+
 ## Dart
 
 *   [BFWXKJGS/AlistClient](https://github.com/BFWXKJGS/AlistClient) - AList Client for iOS and Android. / 基于 AList api 开发的 Android 和 iOS 客户端
@@ -1625,8 +1627,6 @@
 *   [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
 
 *   [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
-
-*   [anji-plus/appsp](https://github.com/anji-plus/appsp) - 提供专业App版本更新和版本管理解决方案，支持灰度发布，界面简洁优雅易用，可以和小伙伴一块维护版本，我们提供原生和Flutter的Demo、SDK以及Java后端实现，帮您快速实现版本升级功能。
 
 *   [APIJSON/apijson-framework](https://github.com/APIJSON/apijson-framework) - 腾讯 APIJSON 服务端框架，通过数据库表配置角色权限、参数校验等，简化使用。Tencent APIJSON Server Framework for configuring access of roles and validation of arguments in database tables,  then using APIJSON easier.
 
