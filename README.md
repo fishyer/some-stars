@@ -64,6 +64,8 @@
 
 ## TypeScript
 
+*   [shady2k/logseq-inbox-telegram-plugin](https://github.com/shady2k/logseq-inbox-telegram-plugin) -
+
 *   [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) -
 
 *   [zyjGraphein/Obsidian-EagleBridge](https://github.com/zyjGraphein/Obsidian-EagleBridge) - Obsidian-EagleBridge is a plugin for Obsidian that allows you to connect to the Eagle.  This plugin includes the following functionalities:  - Quick eagle attachment navigation in Obsidian - Tag synchronization - File viewing - Attachment management
@@ -2965,8 +2967,6 @@
 *   [jadec0der/alfred-ocr](https://github.com/jadec0der/alfred-ocr) -
 
 *   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-
-*   [nemoTyrant/manong](https://github.com/nemoTyrant/manong) - 码农周刊整理
 
 ## JavaScript
 
