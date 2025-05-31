@@ -13,9 +13,9 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Go](#go)
 *   [CSS](#css)
-*   [Shell](#shell)
 *   [Swift](#swift)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -61,6 +61,66 @@
 *   [Ruby](#ruby)
 *   [GCC Machine Description](#gcc-machine-description)
 *   [TeX](#tex)
+
+## Shell
+
+*   [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
+
+*   [pkill37/linuxify](https://github.com/pkill37/linuxify) - 🍏🐧 Transparently transform the macOS CLI into a fresh GNU/Linux CLI experience.
+
+*   [nightmare-space/code\_lfa](https://github.com/nightmare-space/code_lfa) - Implementation of the VS Code editor natively on Android.
+
+*   [n8n-io/n8n-hosting](https://github.com/n8n-io/n8n-hosting) - Example of self-hosting n8n in various environments like docker, kubernetes, etc.
+
+*   [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
+
+*   [fishyer/ytdlp-downloader](https://github.com/fishyer/ytdlp-downloader) -
+
+*   [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
+
+*   [abbasnaqdi/nekoray-macos](https://github.com/abbasnaqdi/nekoray-macos) - This script is made to build https://github.com/MatsuriDayo/nekoray software for use on macOS operating system.
+
+*   [RayWangQvQ/sing-box-installer](https://github.com/RayWangQvQ/sing-box-installer) - 基于docker一键安装sing-box服务端，并自动生成vmess、naiveproxy、hysteria2节点，官方镜像，极简安装
+
+*   [KZ25T/wechat-appimage](https://github.com/KZ25T/wechat-appimage) - Linux 运行微信（可能是）最简单的方法，支持 debian/Arch/RHEL 三大发行版系列
+
+*   [redis/docker-library-redis](https://github.com/redis/docker-library-redis) - Docker Official Image packaging for Redis
+
+*   [vegardit/docker-gitea-act-runner](https://github.com/vegardit/docker-gitea-act-runner) - Docker image based on debian:stable-slim to run Gitea's act\_runner as a Docker container
+
+*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
+
+*   [kubesre/docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors) - 多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.
+
+*   [xinyang-go/portable-container](https://github.com/xinyang-go/portable-container) - 在没有安装docker的机器上部署docker镜像，打包成一个单独的可执行文件
+
+*   [WGrape/sparrow](https://github.com/WGrape/sparrow) - 强烈推荐🔥🔥🔥 🦜麻雀虽小五脏俱全🦜  🏄🏻‍♂️ 享受环境一切顺利的快乐🏄🏻‍♂️ 🌍所有环境统一规范管理🌍📦超强环境打包管理器📦🔨 一键快速启动多个服务环境的容器化编排工具 🔨 / A Docker tool for one-click startup of multiple services.
+
+*   [fishyer/test-fastapi](https://github.com/fishyer/test-fastapi) -
+
+*   [sxbai/memos-on-replit](https://github.com/sxbai/memos-on-replit) - Memos部署于Replit
+
+*   [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
+
+*   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
+
+*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
+
+*   [BytemarkHosting/docker-webdav](https://github.com/BytemarkHosting/docker-webdav) - Docker image for running an Apache WebDAV server
+
+*   [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+
+*   [BabelTower/notes](https://github.com/BabelTower/notes) - Obsidian+Github Pages+Docsify
+
+*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+
+*   [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) -
+
+*   [a244573118/WeChatIntercept](https://github.com/a244573118/WeChatIntercept) - 微信防撤回插件，一键安装，仅MAC可用，支持v3.7.0微信
+
+*   [zzhanghub/alfred-template-file](https://github.com/zzhanghub/alfred-template-file) - New file or dir using templates.
+
+*   [wyntau/dotfiles](https://github.com/wyntau/dotfiles) - Setup git, vim, zsh, tmux etc. using one command
 
 ## Go
 
@@ -219,64 +279,6 @@
 *   [insanum/obsidian\_gruvbox](https://github.com/insanum/obsidian_gruvbox) - A gruvbox theme for Obsidian
 
 *   [wizardforcel/think-dast-zh](https://github.com/wizardforcel/think-dast-zh) - :book: \[译] 数据结构思维
-
-## Shell
-
-*   [pkill37/linuxify](https://github.com/pkill37/linuxify) - 🍏🐧 Transparently transform the macOS CLI into a fresh GNU/Linux CLI experience.
-
-*   [nightmare-space/code\_lfa](https://github.com/nightmare-space/code_lfa) - Implementation of the VS Code editor natively on Android.
-
-*   [n8n-io/n8n-hosting](https://github.com/n8n-io/n8n-hosting) - Example of self-hosting n8n in various environments like docker, kubernetes, etc.
-
-*   [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
-
-*   [fishyer/ytdlp-downloader](https://github.com/fishyer/ytdlp-downloader) -
-
-*   [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
-
-*   [abbasnaqdi/nekoray-macos](https://github.com/abbasnaqdi/nekoray-macos) - This script is made to build https://github.com/MatsuriDayo/nekoray software for use on macOS operating system.
-
-*   [RayWangQvQ/sing-box-installer](https://github.com/RayWangQvQ/sing-box-installer) - 基于docker一键安装sing-box服务端，并自动生成vmess、naiveproxy、hysteria2节点，官方镜像，极简安装
-
-*   [KZ25T/wechat-appimage](https://github.com/KZ25T/wechat-appimage) - Linux 运行微信（可能是）最简单的方法，支持 debian/Arch/RHEL 三大发行版系列
-
-*   [redis/docker-library-redis](https://github.com/redis/docker-library-redis) - Docker Official Image packaging for Redis
-
-*   [vegardit/docker-gitea-act-runner](https://github.com/vegardit/docker-gitea-act-runner) - Docker image based on debian:stable-slim to run Gitea's act\_runner as a Docker container
-
-*   [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
-
-*   [kubesre/docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors) - 多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.
-
-*   [xinyang-go/portable-container](https://github.com/xinyang-go/portable-container) - 在没有安装docker的机器上部署docker镜像，打包成一个单独的可执行文件
-
-*   [WGrape/sparrow](https://github.com/WGrape/sparrow) - 强烈推荐🔥🔥🔥 🦜麻雀虽小五脏俱全🦜  🏄🏻‍♂️ 享受环境一切顺利的快乐🏄🏻‍♂️ 🌍所有环境统一规范管理🌍📦超强环境打包管理器📦🔨 一键快速启动多个服务环境的容器化编排工具 🔨 / A Docker tool for one-click startup of multiple services.
-
-*   [fishyer/test-fastapi](https://github.com/fishyer/test-fastapi) -
-
-*   [sxbai/memos-on-replit](https://github.com/sxbai/memos-on-replit) - Memos部署于Replit
-
-*   [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
-
-*   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
-
-*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
-
-*   [BytemarkHosting/docker-webdav](https://github.com/BytemarkHosting/docker-webdav) - Docker image for running an Apache WebDAV server
-
-*   [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-
-*   [BabelTower/notes](https://github.com/BabelTower/notes) - Obsidian+Github Pages+Docsify
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-
-*   [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) -
-
-*   [a244573118/WeChatIntercept](https://github.com/a244573118/WeChatIntercept) - 微信防撤回插件，一键安装，仅MAC可用，支持v3.7.0微信
-
-*   [zzhanghub/alfred-template-file](https://github.com/zzhanghub/alfred-template-file) - New file or dir using templates.
-
-*   [wyntau/dotfiles](https://github.com/wyntau/dotfiles) - Setup git, vim, zsh, tmux etc. using one command
 
 ## Swift
 
@@ -2909,8 +2911,6 @@
 *   [hongyangAndroid/AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) - \[停止维护]Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。
 
 *   [bingoogolapple/BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android) - 多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位
-
-*   [GcsSloop/SUtil](https://github.com/GcsSloop/SUtil) - Sloop的工具箱
 
 ## PHP
 
