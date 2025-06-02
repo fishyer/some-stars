@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Ruby](#ruby)
 *   [Dart](#dart)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
@@ -58,9 +59,14 @@
 *   [CoffeeScript](#coffeescript)
 *   [OCaml](#ocaml)
 *   [RAML](#raml)
-*   [Ruby](#ruby)
 *   [GCC Machine Description](#gcc-machine-description)
 *   [TeX](#tex)
+
+## Ruby
+
+*   [lacinoire/workflowy-tg-bot](https://github.com/lacinoire/workflowy-tg-bot) - A Telegram bot to add stuff to Workflowy
+
+*   [cesarferreira/dryrun](https://github.com/cesarferreira/dryrun) - ☁️ Try the demo project of any Android Library
 
 ## Dart
 
@@ -1676,7 +1682,7 @@
 
 *   [debuggerx01/JSONFormat4Flutter](https://github.com/debuggerx01/JSONFormat4Flutter) - 受zzz40500/GsonFormat启发，将JSONObject格式的String解析成dart语言的实体类
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 
 *   [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
@@ -2912,8 +2918,6 @@
 
 *   [Nightonke/CoCoin](https://github.com/Nightonke/CoCoin) - CoCoin, Multi-view Accounting Application
 
-*   [yezhidong/Memo](https://github.com/yezhidong/Memo) - 一款基于Google Material Design设计开发的Android密码管理客户端--怕死我的（PassWord）如果对你有帮助，欢迎多多的star
-
 ## PHP
 
 *   [eevleevs/workflowy-backup](https://github.com/eevleevs/workflowy-backup) -
@@ -3945,10 +3949,6 @@
 ## RAML
 
 *   [qingmang-team/docs](https://github.com/qingmang-team/docs) - 轻芒对外服务的文档说明
-
-## Ruby
-
-*   [cesarferreira/dryrun](https://github.com/cesarferreira/dryrun) - ☁️ Try the demo project of any Android Library
 
 ## GCC Machine Description
 
