@@ -130,6 +130,8 @@
 
 *   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥集成完善AIGC应用的低代码平台，旨在帮助企业快速实现低代码开发和构建、部署个性化的 AI 应用。 前后端分离 SpringBoot，SpringCloud，Ant Design\&Vue3，Mybatis，Shiro！强大的代码生成器让前后端代码一键生成，无需写任何代码! 成套AI大模型功能: AI模型管理、AI应用、知识库、AI流程编排、AI对话助手等；
 
+*   [wwwlike/vlife](https://github.com/wwwlike/vlife) - 企业级低代码快速开发平台，包含页面可视化配置、自定义表单、自定义报表、权限管理脚手架应用、前后端代码自动生成；主要特点是低代码开发，可实现复杂CRUD功能仅编写数据模型就能完成前后端开发
+
 *   [goweii/WanAndroid](https://github.com/goweii/WanAndroid) - 最美WanAndroid客户端
 
 *   [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
@@ -1781,8 +1783,6 @@
 *   [Tencent/tmagic-editor](https://github.com/Tencent/tmagic-editor) -
 
 *   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-
-*   [wwwlike/vlife](https://github.com/wwwlike/vlife) - 企业级低代码快速开发平台，包含页面可视化配置、自定义表单、自定义报表、权限管理脚手架应用、前后端代码自动生成；主要特点是低代码开发，可实现复杂CRUD功能仅编写数据模型就能完成前后端开发
 
 *   [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 
