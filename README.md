@@ -13,9 +13,10 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
+*   [Kotlin](#kotlin)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Dart](#dart)
-*   [Kotlin](#kotlin)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Java](#java)
@@ -30,7 +31,6 @@
 *   [PHP](#php)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
-*   [Vue](#vue)
 *   [Svelte](#svelte)
 *   [C#](#c)
 *   [C](#c-1)
@@ -61,6 +61,232 @@
 *   [RAML](#raml)
 *   [GCC Machine Description](#gcc-machine-description)
 *   [TeX](#tex)
+
+## Vue
+
+*   [likeadmin-likeshop/likeadmin\_php](https://github.com/likeadmin-likeshop/likeadmin_php) - 🌟🌟🌟likeadmin通用管理后台是快速开发前后端的解决方案，使用目前最流行的技术PHP8、TypeScript、ThinkPHP6、Vue3、vite2、Element Plus1.2（ElementUI）。 PHP管理后台、ThtinkPHP管理后台、前后端分离管理后台、Vue3管理后台、Vue.js管理后台、Element Plus管理后台、Element UI管理后台、简单管理后台。
+
+*   [honwhy/md](https://github.com/honwhy/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
+
+*   [mizhexiaoxiao/vue-fastapi-admin](https://github.com/mizhexiaoxiao/vue-fastapi-admin) - ⭐️ 基于 FastAPI+Vue3+Naive UI 的现代化轻量管理平台 A modern and lightweight management platform based on FastAPI, Vue3, and Naive UI.
+
+*   [SAKURA-CAT/notion-vue](https://github.com/SAKURA-CAT/notion-vue) - 基于vue，从零复现notion的交互方式与大致UI
+
+*   [komavideo/LearnTailwindCSS](https://github.com/komavideo/LearnTailwindCSS) - Tailwind CSS 是一个工具集 CSS 框架，助你快速实现定制化的网站设计，让我们一起学习一下把。
+
+*   [arco-design/arco-design-pro-vue](https://github.com/arco-design/arco-design-pro-vue) - An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design.
+
+*   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
+
+*   [sdrpsps/friend-daily](https://github.com/sdrpsps/friend-daily) - Nuxt 朋友圈主题
+
+*   [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。拥有丰富的个性化功能。现已支持：OpenAI，Ollama，谷歌 Gemini，讯飞星火，百度文心，阿里通义，天工，月之暗面，智谱，阶跃星辰，DeepSeek 🎉🎉🎉。A collection of large model capabilities of the client. Has a wealth of personalized functions. English UI support.
+
+*   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
+
+*   [macrozheng/mall-admin-web](https://github.com/macrozheng/mall-admin-web) - mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。
+
+*   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
+
+*   [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) -
+
+*   [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
+
+*   [fishyer/dewhale-new](https://github.com/fishyer/dewhale-new) -
+
+*   [MrHzq/vue3-vite-element-plus-tailwindcss-typescript](https://github.com/MrHzq/vue3-vite-element-plus-tailwindcss-typescript) - vue3 + vite + element-plus + tailwindcss + typescript 演示项目
+
+*   [zxwk1998/vue-admin-arco](https://github.com/zxwk1998/vue-admin-arco) - 🎉🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro vite+typescript+arco.design中后台前端框架，vue3 admin前端框架
+
+*   [youlaitech/vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 vue 3 + vite 6+ typescript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。
+
+*   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
+
+*   [layui-vue/layui-vue](https://github.com/layui-vue/layui-vue) - An enterprise-class UI components based on Layui and Vue.
+
+*   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
+
+*   [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange\_book: 根据 RSS 订阅最新前端技术文章并自动分类
+
+*   [jae-jae/uTools-Finder](https://github.com/jae-jae/uTools-Finder) - uTools 在 MacOS 下的文件搜索插件
+
+*   [fireboomio/case-chatgpt-web](https://github.com/fireboomio/case-chatgpt-web) - 使用ChatGPT开发一个
+
+*   [yangyuji/h5-factory](https://github.com/yangyuji/h5-factory) - h5制作，移动端专题活动页面可视化编辑
+
+*   [vform666/variant-form](https://github.com/vform666/variant-form) - A powerful form designer for Vue.
+
+*   [dromara/go-view](https://github.com/dromara/go-view) - GoView 说明文档，GoView 是一个低代码数据可视化开发平台，将图表或页面元素封装为基础组件，无需编写代码即可完成业务需求。 它的技术栈为：Vue3 + TypeScript4 + Vite2 + NaiveUI + ECharts5 + Axios + Pinia2 + PlopJS
+
+*   [GavinZhuLei/vue-form-making](https://github.com/GavinZhuLei/vue-form-making) - A visual form designer/generator base on Vue.js, make form development simple and efficient.（基于Vue的可视化表单设计器，让表单开发简单而高效。）
+
+*   [jae-jae/Userscript-Plus](https://github.com/jae-jae/Userscript-Plus) - :monkey: Show current site all UserJS，The easier way to install UserJs for Tampermonkey. 显示当前网站的所有可用Tampermonkey脚本
+
+*   [mudfish/java-it-docs](https://github.com/mudfish/java-it-docs) - java全栈技术文档，好的文档就是生产力！
+
+*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+
+*   [Benbinbin/TagDown](https://github.com/Benbinbin/TagDown) - A bookmarks manager Chrome extension.
+
+*   [natfrp/wiki](https://github.com/natfrp/wiki) - SakuraFrp 官方帮助文档
+
+*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+
+*   [betterRunner/context-note](https://github.com/betterRunner/context-note) - A note-taking chrome extension: taking notes on the web with their context.
+
+## Kotlin
+
+*   [ldlywt/IdeaMemo](https://github.com/ldlywt/IdeaMemo) - A Beautiful Memo App written with Jetpack Compose.        开源Android闪念笔记App。
+
+*   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
+
+*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+*   [knighthat/Kreate](https://github.com/knighthat/Kreate) - A multilingual YouTube Music frontend for Android, prioritize performance
+
+*   [anthonycr/Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) - A lightweight Android browser with modern navigation
+
+*   [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A simple music app using YouTube Music for backend
+
+*   [gallonyin/worktool](https://github.com/gallonyin/worktool) - 一款安全稳定的Android无障碍服务工具，支持控制企微/微信来运行的无人值守群管理企业微信机器人
+
+*   [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
+
+*   [SkyD666/PodAura](https://github.com/SkyD666/PodAura) - All-in-one Android podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support!
+
+*   [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
+
+*   [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
+
+*   [PierfrancescoSoffritti/android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player) - YouTube Player library for Android and Chromecast, stable and customizable.
+
+*   [crazyqiang/AndroidStudy](https://github.com/crazyqiang/AndroidStudy) - 🔥 Android学习知识点总结 Jetpack、MVVM、MVI、Kotlin、ViewPager2、JUC多线程等，欢迎star！
+
+*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+
+*   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
+
+*   [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.
+
+*   [HighCapable/YukiHookAPI](https://github.com/HighCapable/YukiHookAPI) - ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
+
+*   [intuit/hooks](https://github.com/intuit/hooks) - Hooks is a little module for plugins, in Kotlin
+
+*   [iceCola7/WanAndroid](https://github.com/iceCola7/WanAndroid) - 🔥项目采用 Kotlin 语言，基于 MVP + RxJava + Retrofit + Glide + EventBus 等架构设计，努力打造一款优秀的  \[玩Android] 客户端
+
+*   [czy1121/update](https://github.com/czy1121/update) - 清晰灵活简单易用的应用更新库
+
+*   [fishyer/demo-learn-android](https://github.com/fishyer/demo-learn-android) -
+
+*   [rengwuxian/CourseComposeModifierDraw](https://github.com/rengwuxian/CourseComposeModifierDraw) - 【不是开源项目】扔物线 Compose 课程源码
+
+*   [RicardoJiang/compose-fps](https://github.com/RicardoJiang/compose-fps) -
+
+*   [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
+
+*   [hi-dhl/KtPractice](https://github.com/hi-dhl/KtPractice) - 这个仓库用于实践和测试 Kotlin 、 Java 性能 和 新语法相关的代码案例，正在陆续添加新的案例。欢迎 star
+
+*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
+
+*   [Quyunshuo/AndroidBaseFrameMVVM](https://github.com/Quyunshuo/AndroidBaseFrameMVVM) - 基于 Jetpack + Kotlin 的 Android 组件化 MVVM 框架
+
+*   [iOrchid/android-jetpack-demo](https://github.com/iOrchid/android-jetpack-demo) - 🔥  快速入门Android Jetpack\&Compose 以及相关Kotlin、MVVM/MVI等独立构架App的基础技能
+
+*   [hfhuaizhi/ScaleContainerView](https://github.com/hfhuaizhi/ScaleContainerView) - scale container
+
+*   [zhujiang521/PlayAndroid](https://github.com/zhujiang521/PlayAndroid) - 🔥🔥🔥 Kotlin + MVVM + LCE版玩安卓，暗黑模式、横竖屏、无网、弱网、无数据、加载失败等等各种情况，协程、Room、Hilt、DataStore、LiveData、Retrofit、屏幕适配、本地缓存、多语言切换、多 lib，你想要的我都有！！！
+
+*   [DeweyReed/ClipboardCleaner](https://github.com/DeweyReed/ClipboardCleaner) - Check and clean your clipboard using service, widget, shortcut and quick setting tile.
+
+*   [zrq1060/TestPoint](https://github.com/zrq1060/TestPoint) -
+
+*   [zhujiang521/AndroidAOP](https://github.com/zhujiang521/AndroidAOP) - aop的方式实现防止按钮重复点击，java和kotlin都能使用
+
+*   [javakam/FileOperator](https://github.com/javakam/FileOperator) - 🔥 涵盖了Android系统文件的创建/删除/复制/打开文件(目录)、获取文件(目录)大小、获取常用目录、获取文件名称及后缀、获取MimeType以及MediaStore和SAF的相关操作等常用功能，并且也处理了获取文件Uri/Path的兼容问题、图片压缩和文件选择等功能。
+
+*   [owenlongbo/McImage](https://github.com/owenlongbo/McImage) - Android Gradle Plugin  -- Auto Check big image and compress image in building.
+
+*   [mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics) - Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.
+
+*   [kukyxs/CoroutinesWanAndroid](https://github.com/kukyxs/CoroutinesWanAndroid) - 超完整的「玩 Android」客户端，项目采用 MVVM, Android Jetpack, Retrofit, Kotlin 协程, Koin 编写。如果该项目对你学习过程有用，请给个 star，感谢
+
+*   [minminaya/GenaralRoundLayout](https://github.com/minminaya/GenaralRoundLayout) - kotlin封装的通用圆角布局
+
+*   [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
+
+*   [rarnu/ktfunctional](https://github.com/rarnu/ktfunctional) - a functional library for kotlin(android)
+
+*   [kosi-libs/Kodein](https://github.com/kosi-libs/Kodein) - Painless Kotlin Dependency Injection
+
+*   [kizitonwose/Time](https://github.com/kizitonwose/Time) - Type-safe time calculations in Kotlin, powered by generics.
+
+*   [kittinunf/Fuse](https://github.com/kittinunf/Fuse) - The simple generic LRU memory/disk cache for Android written in Kotlin
+
+*   [kittinunf/fuel](https://github.com/kittinunf/fuel) - The easiest HTTP networking library for Kotlin/Android
+
+*   [cn-ljb/mvp-kotlin](https://github.com/cn-ljb/mvp-kotlin) - android mvp  and auto code
+
+*   [square/kotlinpoet](https://github.com/square/kotlinpoet) - A Kotlin API for generating .kt source files.
+
+*   [thisisqubika/fakeit](https://github.com/thisisqubika/fakeit) - The Kotlin fake data generator library!
+
+*   [MarioAriasC/funKTionale](https://github.com/MarioAriasC/funKTionale) - Functional constructs for Kotlin
+
+*   [didi/booster](https://github.com/didi/booster) - 🚀Optimizer for mobile applications
+
+*   [rarnu/KtGen](https://github.com/rarnu/KtGen) -
+
+*   [panpf/assembly-adapter](https://github.com/panpf/assembly-adapter) - AssemblyAdapter 是 Android 上的一个为各种 Adapter 提供开箱即用实现的库。AssemblyAdapter is a library on Android that provides out-of-the-box implementations for various Adapters.
+
+*   [MarcinMoskala/ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Simple Android Library, that provides easy way to start the Activities with arguments.
+
+*   [7449/Album](https://github.com/7449/Album) - android 图片视频加载库，单选，多选，预览，自定义UI，相机，裁剪...等等 适配10-13
+
+*   [esafirm/android-image-picker](https://github.com/esafirm/android-image-picker) - Image Picker for Android 🤖
+
+*   [XiaoQiWen/KRefreshLayout](https://github.com/XiaoQiWen/KRefreshLayout) - 强大的下拉刷新库，定制任意Header。比官方SwipRefrehLayout处理更加友好(Kotlin、Java双版本)
+
+*   [adisonhuang/awesome-kotlin-android](https://github.com/adisonhuang/awesome-kotlin-android) - 🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源
+
+*   [JakeWharton/retrofit2-kotlin-coroutines-adapter](https://github.com/JakeWharton/retrofit2-kotlin-coroutines-adapter) - A Retrofit 2 adapter for Kotlin coroutine's Deferred type.
+
+*   [mazouri/android-mvp](https://github.com/mazouri/android-mvp) - 使用kotlin实现简单的Android MVP模式Demo
+
+*   [InsertKoinIO/koin](https://github.com/InsertKoinIO/koin) - Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
+
+*   [foolchen/AndroidTracker](https://github.com/foolchen/AndroidTracker) - Android端无埋点统计方案
+
+*   [JakeWharton/timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
+
+*   [nickbutcher/plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design.
+
+*   [kscripting/kscript](https://github.com/kscripting/kscript) - Scripting enhancements for Kotlin
+
+*   [yikousamo/wallpaper](https://github.com/yikousamo/wallpaper) - kotlin版本壁纸应用
+
+*   [ACRA/acra](https://github.com/ACRA/acra) - Application Crash Reports for Android
+
+*   [airbnb/mavericks](https://github.com/airbnb/mavericks) - Mavericks: Android on Autopilot
+
+*   [git-xuhao/KotlinMvp](https://github.com/git-xuhao/KotlinMvp) - :fire: 基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现短视频类小项目，简约风格及详细注释，欢迎 star or fork！
+
+*   [Heapy/awesome-kotlin](https://github.com/Heapy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+
+*   [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+
+*   [facebook/litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
+
+*   [drakeet/MultiType](https://github.com/drakeet/MultiType) - Flexible multiple types for Android RecyclerView.
+
+*   [dumingxin/AndroidDevGuid](https://github.com/dumingxin/AndroidDevGuid) -
+
+*   [ice1000/KitikuMaker](https://github.com/ice1000/KitikuMaker) - An extremely interesting Android app, playing kitiku sounds
+
+*   [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+
+*   [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+
+*   [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - BRVAH:Powerful and flexible RecyclerAdapter
 
 ## Jupyter Notebook
 
@@ -229,158 +455,6 @@
 *   [grpc/grpc-dart](https://github.com/grpc/grpc-dart) - The Dart language implementation of gRPC.
 
 *   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-
-## Kotlin
-
-*   [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
-
-*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
-*   [knighthat/Kreate](https://github.com/knighthat/Kreate) - A multilingual YouTube Music frontend for Android, prioritize performance
-
-*   [anthonycr/Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) - A lightweight Android browser with modern navigation
-
-*   [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A simple music app using YouTube Music for backend
-
-*   [gallonyin/worktool](https://github.com/gallonyin/worktool) - 一款安全稳定的Android无障碍服务工具，支持控制企微/微信来运行的无人值守群管理企业微信机器人
-
-*   [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
-
-*   [SkyD666/PodAura](https://github.com/SkyD666/PodAura) - All-in-one Android podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support!
-
-*   [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
-
-*   [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
-
-*   [PierfrancescoSoffritti/android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player) - YouTube Player library for Android and Chromecast, stable and customizable.
-
-*   [crazyqiang/AndroidStudy](https://github.com/crazyqiang/AndroidStudy) - 🔥 Android学习知识点总结 Jetpack、MVVM、MVI、Kotlin、ViewPager2、JUC多线程等，欢迎star！
-
-*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-
-*   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
-
-*   [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.
-
-*   [HighCapable/YukiHookAPI](https://github.com/HighCapable/YukiHookAPI) - ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
-
-*   [intuit/hooks](https://github.com/intuit/hooks) - Hooks is a little module for plugins, in Kotlin
-
-*   [iceCola7/WanAndroid](https://github.com/iceCola7/WanAndroid) - 🔥项目采用 Kotlin 语言，基于 MVP + RxJava + Retrofit + Glide + EventBus 等架构设计，努力打造一款优秀的  \[玩Android] 客户端
-
-*   [czy1121/update](https://github.com/czy1121/update) - 清晰灵活简单易用的应用更新库
-
-*   [fishyer/demo-learn-android](https://github.com/fishyer/demo-learn-android) -
-
-*   [rengwuxian/CourseComposeModifierDraw](https://github.com/rengwuxian/CourseComposeModifierDraw) - 【不是开源项目】扔物线 Compose 课程源码
-
-*   [RicardoJiang/compose-fps](https://github.com/RicardoJiang/compose-fps) -
-
-*   [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
-
-*   [hi-dhl/KtPractice](https://github.com/hi-dhl/KtPractice) - 这个仓库用于实践和测试 Kotlin 、 Java 性能 和 新语法相关的代码案例，正在陆续添加新的案例。欢迎 star
-
-*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
-
-*   [Quyunshuo/AndroidBaseFrameMVVM](https://github.com/Quyunshuo/AndroidBaseFrameMVVM) - 基于 Jetpack + Kotlin 的 Android 组件化 MVVM 框架
-
-*   [iOrchid/android-jetpack-demo](https://github.com/iOrchid/android-jetpack-demo) - 🔥  快速入门Android Jetpack\&Compose 以及相关Kotlin、MVVM/MVI等独立构架App的基础技能
-
-*   [hfhuaizhi/ScaleContainerView](https://github.com/hfhuaizhi/ScaleContainerView) - scale container
-
-*   [zhujiang521/PlayAndroid](https://github.com/zhujiang521/PlayAndroid) - 🔥🔥🔥 Kotlin + MVVM + LCE版玩安卓，暗黑模式、横竖屏、无网、弱网、无数据、加载失败等等各种情况，协程、Room、Hilt、DataStore、LiveData、Retrofit、屏幕适配、本地缓存、多语言切换、多 lib，你想要的我都有！！！
-
-*   [DeweyReed/ClipboardCleaner](https://github.com/DeweyReed/ClipboardCleaner) - Check and clean your clipboard using service, widget, shortcut and quick setting tile.
-
-*   [zrq1060/TestPoint](https://github.com/zrq1060/TestPoint) -
-
-*   [zhujiang521/AndroidAOP](https://github.com/zhujiang521/AndroidAOP) - aop的方式实现防止按钮重复点击，java和kotlin都能使用
-
-*   [javakam/FileOperator](https://github.com/javakam/FileOperator) - 🔥 涵盖了Android系统文件的创建/删除/复制/打开文件(目录)、获取文件(目录)大小、获取常用目录、获取文件名称及后缀、获取MimeType以及MediaStore和SAF的相关操作等常用功能，并且也处理了获取文件Uri/Path的兼容问题、图片压缩和文件选择等功能。
-
-*   [owenlongbo/McImage](https://github.com/owenlongbo/McImage) - Android Gradle Plugin  -- Auto Check big image and compress image in building.
-
-*   [mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics) - Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.
-
-*   [kukyxs/CoroutinesWanAndroid](https://github.com/kukyxs/CoroutinesWanAndroid) - 超完整的「玩 Android」客户端，项目采用 MVVM, Android Jetpack, Retrofit, Kotlin 协程, Koin 编写。如果该项目对你学习过程有用，请给个 star，感谢
-
-*   [minminaya/GenaralRoundLayout](https://github.com/minminaya/GenaralRoundLayout) - kotlin封装的通用圆角布局
-
-*   [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
-
-*   [rarnu/ktfunctional](https://github.com/rarnu/ktfunctional) - a functional library for kotlin(android)
-
-*   [kosi-libs/Kodein](https://github.com/kosi-libs/Kodein) - Painless Kotlin Dependency Injection
-
-*   [kizitonwose/Time](https://github.com/kizitonwose/Time) - Type-safe time calculations in Kotlin, powered by generics.
-
-*   [kittinunf/Fuse](https://github.com/kittinunf/Fuse) - The simple generic LRU memory/disk cache for Android written in Kotlin
-
-*   [kittinunf/fuel](https://github.com/kittinunf/fuel) - The easiest HTTP networking library for Kotlin/Android
-
-*   [cn-ljb/mvp-kotlin](https://github.com/cn-ljb/mvp-kotlin) - android mvp  and auto code
-
-*   [square/kotlinpoet](https://github.com/square/kotlinpoet) - A Kotlin API for generating .kt source files.
-
-*   [thisisqubika/fakeit](https://github.com/thisisqubika/fakeit) - The Kotlin fake data generator library!
-
-*   [MarioAriasC/funKTionale](https://github.com/MarioAriasC/funKTionale) - Functional constructs for Kotlin
-
-*   [didi/booster](https://github.com/didi/booster) - 🚀Optimizer for mobile applications
-
-*   [rarnu/KtGen](https://github.com/rarnu/KtGen) -
-
-*   [panpf/assembly-adapter](https://github.com/panpf/assembly-adapter) - AssemblyAdapter 是 Android 上的一个为各种 Adapter 提供开箱即用实现的库。AssemblyAdapter is a library on Android that provides out-of-the-box implementations for various Adapters.
-
-*   [MarcinMoskala/ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Simple Android Library, that provides easy way to start the Activities with arguments.
-
-*   [7449/Album](https://github.com/7449/Album) - android 图片视频加载库，单选，多选，预览，自定义UI，相机，裁剪...等等 适配10-13
-
-*   [esafirm/android-image-picker](https://github.com/esafirm/android-image-picker) - Image Picker for Android 🤖
-
-*   [XiaoQiWen/KRefreshLayout](https://github.com/XiaoQiWen/KRefreshLayout) - 强大的下拉刷新库，定制任意Header。比官方SwipRefrehLayout处理更加友好(Kotlin、Java双版本)
-
-*   [adisonhuang/awesome-kotlin-android](https://github.com/adisonhuang/awesome-kotlin-android) - 🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源
-
-*   [JakeWharton/retrofit2-kotlin-coroutines-adapter](https://github.com/JakeWharton/retrofit2-kotlin-coroutines-adapter) - A Retrofit 2 adapter for Kotlin coroutine's Deferred type.
-
-*   [mazouri/android-mvp](https://github.com/mazouri/android-mvp) - 使用kotlin实现简单的Android MVP模式Demo
-
-*   [InsertKoinIO/koin](https://github.com/InsertKoinIO/koin) - Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
-
-*   [foolchen/AndroidTracker](https://github.com/foolchen/AndroidTracker) - Android端无埋点统计方案
-
-*   [JakeWharton/timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
-
-*   [nickbutcher/plaid](https://github.com/nickbutcher/plaid) - An Android app which provides design news & inspiration as well as being an example of implementing material design.
-
-*   [kscripting/kscript](https://github.com/kscripting/kscript) - Scripting enhancements for Kotlin
-
-*   [yikousamo/wallpaper](https://github.com/yikousamo/wallpaper) - kotlin版本壁纸应用
-
-*   [ACRA/acra](https://github.com/ACRA/acra) - Application Crash Reports for Android
-
-*   [airbnb/mavericks](https://github.com/airbnb/mavericks) - Mavericks: Android on Autopilot
-
-*   [git-xuhao/KotlinMvp](https://github.com/git-xuhao/KotlinMvp) - :fire: 基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现短视频类小项目，简约风格及详细注释，欢迎 star or fork！
-
-*   [Heapy/awesome-kotlin](https://github.com/Heapy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
-
-*   [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
-
-*   [facebook/litho](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
-
-*   [drakeet/MultiType](https://github.com/drakeet/MultiType) - Flexible multiple types for Android RecyclerView.
-
-*   [dumingxin/AndroidDevGuid](https://github.com/dumingxin/AndroidDevGuid) -
-
-*   [ice1000/KitikuMaker](https://github.com/ice1000/KitikuMaker) - An extremely interesting Android app, playing kitiku sounds
-
-*   [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
-
-*   [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
-
-*   [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - BRVAH:Powerful and flexible RecyclerAdapter
 
 ## TypeScript
 
@@ -2068,10 +2142,6 @@
 
 *   [android-quick-dev/NonViewUtils](https://github.com/android-quick-dev/NonViewUtils) - 不涉及视图的工具类，逻辑类的集合
 
-*   [zhazhaxin/RestHttp](https://github.com/zhazhaxin/RestHttp) - Android简单易用的网络库，支持 Http，Https，Http 文件上传，图片加载，面向接口的 API 调用方式，轻量的设计
-
-*   [keeganlee/kandroid](https://github.com/keeganlee/kandroid) - KAndroid是一个Android的简单的架构搭建的学习项目。架构上分为了四个层级：模型层、接口层、核心层和应用层。
-
 ## Ruby
 
 *   [lacinoire/workflowy-tg-bot](https://github.com/lacinoire/workflowy-tg-bot) - A Telegram bot to add stuff to Workflowy
@@ -3579,76 +3649,6 @@
 *   [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io) - Jekyll Themes / GitHub Pages 博客模板 / A template repository for Jekyll based blog
 
 *   [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
-
-## Vue
-
-*   [honwhy/md](https://github.com/honwhy/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
-
-*   [mizhexiaoxiao/vue-fastapi-admin](https://github.com/mizhexiaoxiao/vue-fastapi-admin) - ⭐️ 基于 FastAPI+Vue3+Naive UI 的现代化轻量管理平台 A modern and lightweight management platform based on FastAPI, Vue3, and Naive UI.
-
-*   [SAKURA-CAT/notion-vue](https://github.com/SAKURA-CAT/notion-vue) - 基于vue，从零复现notion的交互方式与大致UI
-
-*   [komavideo/LearnTailwindCSS](https://github.com/komavideo/LearnTailwindCSS) - Tailwind CSS 是一个工具集 CSS 框架，助你快速实现定制化的网站设计，让我们一起学习一下把。
-
-*   [arco-design/arco-design-pro-vue](https://github.com/arco-design/arco-design-pro-vue) - An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design.
-
-*   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
-
-*   [sdrpsps/friend-daily](https://github.com/sdrpsps/friend-daily) - Nuxt 朋友圈主题
-
-*   [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。拥有丰富的个性化功能。现已支持：OpenAI，Ollama，谷歌 Gemini，讯飞星火，百度文心，阿里通义，天工，月之暗面，智谱，阶跃星辰，DeepSeek 🎉🎉🎉。A collection of large model capabilities of the client. Has a wealth of personalized functions. English UI support.
-
-*   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
-
-*   [macrozheng/mall-admin-web](https://github.com/macrozheng/mall-admin-web) - mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。
-
-*   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
-
-*   [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) -
-
-*   [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
-
-*   [fishyer/dewhale-new](https://github.com/fishyer/dewhale-new) -
-
-*   [MrHzq/vue3-vite-element-plus-tailwindcss-typescript](https://github.com/MrHzq/vue3-vite-element-plus-tailwindcss-typescript) - vue3 + vite + element-plus + tailwindcss + typescript 演示项目
-
-*   [zxwk1998/vue-admin-arco](https://github.com/zxwk1998/vue-admin-arco) - 🎉🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro vite+typescript+arco.design中后台前端框架，vue3 admin前端框架
-
-*   [youlaitech/vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 vue 3 + vite 6+ typescript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。
-
-*   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
-
-*   [layui-vue/layui-vue](https://github.com/layui-vue/layui-vue) - An enterprise-class UI components based on Layui and Vue.
-
-*   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
-
-*   [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange\_book: 根据 RSS 订阅最新前端技术文章并自动分类
-
-*   [jae-jae/uTools-Finder](https://github.com/jae-jae/uTools-Finder) - uTools 在 MacOS 下的文件搜索插件
-
-*   [fireboomio/case-chatgpt-web](https://github.com/fireboomio/case-chatgpt-web) - 使用ChatGPT开发一个
-
-*   [yangyuji/h5-factory](https://github.com/yangyuji/h5-factory) - h5制作，移动端专题活动页面可视化编辑
-
-*   [vform666/variant-form](https://github.com/vform666/variant-form) - A powerful form designer for Vue.
-
-*   [dromara/go-view](https://github.com/dromara/go-view) - GoView 说明文档，GoView 是一个低代码数据可视化开发平台，将图表或页面元素封装为基础组件，无需编写代码即可完成业务需求。 它的技术栈为：Vue3 + TypeScript4 + Vite2 + NaiveUI + ECharts5 + Axios + Pinia2 + PlopJS
-
-*   [GavinZhuLei/vue-form-making](https://github.com/GavinZhuLei/vue-form-making) - A visual form designer/generator base on Vue.js, make form development simple and efficient.（基于Vue的可视化表单设计器，让表单开发简单而高效。）
-
-*   [jae-jae/Userscript-Plus](https://github.com/jae-jae/Userscript-Plus) - :monkey: Show current site all UserJS，The easier way to install UserJs for Tampermonkey. 显示当前网站的所有可用Tampermonkey脚本
-
-*   [mudfish/java-it-docs](https://github.com/mudfish/java-it-docs) - java全栈技术文档，好的文档就是生产力！
-
-*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
-
-*   [Benbinbin/TagDown](https://github.com/Benbinbin/TagDown) - A bookmarks manager Chrome extension.
-
-*   [natfrp/wiki](https://github.com/natfrp/wiki) - SakuraFrp 官方帮助文档
-
-*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-
-*   [betterRunner/context-note](https://github.com/betterRunner/context-note) - A note-taking chrome extension: taking notes on the web with their context.
 
 ## Svelte
 
