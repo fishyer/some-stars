@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
 *   [TypeScript](#typescript)
@@ -34,7 +35,6 @@
 *   [C#](#c)
 *   [C](#c-1)
 *   [Visual Basic 6.0](#visual-basic-60)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Pug](#pug)
 *   [C++](#c-2)
 *   [EJS](#ejs)
@@ -61,6 +61,22 @@
 *   [RAML](#raml)
 *   [GCC Machine Description](#gcc-machine-description)
 *   [TeX](#tex)
+
+## Jupyter Notebook
+
+*   [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
+
+*   [dibingfa/shanke-machine-learning](https://github.com/dibingfa/shanke-machine-learning) -
+
+*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
+
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+
+*   [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
+
+*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
+
+*   [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 
 ## Dart
 
@@ -2056,8 +2072,6 @@
 
 *   [keeganlee/kandroid](https://github.com/keeganlee/kandroid) - KAndroid是一个Android的简单的架构搭建的学习项目。架构上分为了四个层级：模型层、接口层、核心层和应用层。
 
-*   [taoweiji/DBFlowExample](https://github.com/taoweiji/DBFlowExample) - DBFlow，综合了 ActiveAndroid, Schematic, Ollie,Sprinkles 等库的优点。同时不是基于反射，所以性能也是非常高，效率紧跟greenDAO其后。基于注解，使用apt技术，在编译过程中生成操作类，使用方式和ActiveAndroid高度相似，使用简单。
-
 ## Ruby
 
 *   [lacinoire/workflowy-tg-bot](https://github.com/lacinoire/workflowy-tg-bot) - A Telegram bot to add stuff to Workflowy
@@ -3705,20 +3719,6 @@
 ## Visual Basic 6.0
 
 *   [aa24615/wework-msgaudit](https://github.com/aa24615/wework-msgaudit) - 企业微信-会话内容存档 实时拉取企业微信聊天记录java版SDK
-
-## Jupyter Notebook
-
-*   [dibingfa/shanke-machine-learning](https://github.com/dibingfa/shanke-machine-learning) -
-
-*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-
-*   [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
-
-*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-
-*   [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 
 ## Pug
 
