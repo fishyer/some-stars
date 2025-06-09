@@ -644,7 +644,7 @@
 
 *   [fishyer/fishyer.github.io](https://github.com/fishyer/fishyer.github.io) - fishyer的PKM站点
 
-*   [vancedapps/vanced.net](https://github.com/vancedapps/vanced.net) - Hello and welcome to my official repository.
+*   [vancedapps/vanced.to](https://github.com/vancedapps/vanced.to) - Hello and welcome to my official repository.
 
 *   [huangshiyu13/webtemplate](https://github.com/huangshiyu13/webtemplate) - 收集各种网站前端模板
 
