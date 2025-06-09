@@ -1090,7 +1090,7 @@
 
 *   [lmlx66/snowflake-spring-boot-starter](https://github.com/lmlx66/snowflake-spring-boot-starter) - 雪花算法是一个分布式主键id生成的解决方案，他解决了分布式id生成的痛点问题。 本项目依赖于SnowFlake IdGenerator核心代码，加入springboot自动配置，从而达到开箱即用的效果。该算法在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。并且支持回拨。
 
-*   [getActivity/XXPermissions](https://github.com/getActivity/XXPermissions) - Android 权限请求框架，已适配 Android 15
+*   [getActivity/XXPermissions](https://github.com/getActivity/XXPermissions) - Android Permissions Framework, Adapt to Android 15
 
 *   [dreamlivemeng/HotImg](https://github.com/dreamlivemeng/HotImg) - 图片不规则区域点击事件处理
 
