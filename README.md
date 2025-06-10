@@ -64,6 +64,8 @@
 
 ## TypeScript
 
+*   [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
+
 *   [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 
 *   [lim-f/vue-lim](https://github.com/lim-f/vue-lim) - Make Vue easier to write.
@@ -2217,8 +2219,6 @@
 *   [yangfuhai/ASimpleCache](https://github.com/yangfuhai/ASimpleCache) - a simple cache for android and java
 
 *   [Freelander/Android\_Data](https://github.com/Freelander/Android_Data) - Some Android learning materials, hoping to help you learn Android development.
-
-*   [tiann/understand-plugin-framework](https://github.com/tiann/understand-plugin-framework) - demos to help understand plugin framwork
 
 ## Ruby
 
