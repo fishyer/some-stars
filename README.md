@@ -648,8 +648,6 @@
 
 *   [lucasbordeau/obsidian-tiddlywiki](https://github.com/lucasbordeau/obsidian-tiddlywiki) - Import/export TiddlyWiki tiddler files with Obsidian
 
-*   [fishyer/fishyer.github.io](https://github.com/fishyer/fishyer.github.io) - fishyer的PKM站点
-
 *   [vancedapps/vanced.to](https://github.com/vancedapps/vanced.to) - Hello and welcome to my official repository.
 
 *   [huangshiyu13/webtemplate](https://github.com/huangshiyu13/webtemplate) - 收集各种网站前端模板
@@ -3819,6 +3817,8 @@
 *   [TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - 微信小助手
 
 *   [TKkk-iOSer/WeChatPlugin-iOS](https://github.com/TKkk-iOSer/WeChatPlugin-iOS) -
+
+*   [Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS) - A curated list of delightful iOS resources.
 
 ## Elixir
 
