@@ -2374,7 +2374,7 @@
 
 *   [TheTorProject/gettorbrowser](https://github.com/TheTorProject/gettorbrowser) -
 
-*   [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
+*   [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 
 *   [francistao/LearningNotes](https://github.com/francistao/LearningNotes) - Enjoy Learning.
 
