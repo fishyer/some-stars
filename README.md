@@ -64,6 +64,8 @@
 
 ## TypeScript
 
+*   [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
+
 *   [WebDB-App/app](https://github.com/WebDB-App/app) - Efficient Database IDE
 
 *   [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
@@ -2493,8 +2495,6 @@
 *   [JakeWharton/hugo](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds.
 
 *   [imkarl/CharacterPickerView](https://github.com/imkarl/CharacterPickerView) - 可实现三级联动的选择器，高仿iOS的滚轮控件，字体大小自适应
-
-*   [YancyYe/ImageSelector](https://github.com/YancyYe/ImageSelector) - 项目重构中，地址：https://github.com/YancyYe/GalleryPick
 
 ## Kotlin
 
