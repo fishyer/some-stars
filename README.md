@@ -1010,7 +1010,7 @@
 
 *   [LeekHub/leek-fund](https://github.com/LeekHub/leek-fund) - :chart\_with\_upwards\_trend: 韭菜盒子VSCode插件，可以看股票、基金、期货等实时数据。 Leek box - Monitor the real-time data of stock & fund & future in VSCode, Be the most excellent investment extension.
 
-*   [liyupi/sql-mother](https://github.com/liyupi/sql-mother) - 程序员鱼皮原创项目，免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法、快速学习 SQL 和数据库，纯前端实现，简单易学~
+*   [liyupi/sql-mother](https://github.com/liyupi/sql-mother) - 程序员鱼皮原创项目，免费的闯关交互式 SQL 自学教程网站，从零基础到进阶，带你掌握常用 SQL 语法（MySQL、SQLite、PostgreSQL）、快速学习 SQL 和数据库。支持在线SQL编辑器、实时查询结果、语法高亮、SQL运行广场等功能。纯前端实现，简单易学~
 
 *   [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 
