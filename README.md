@@ -13,11 +13,11 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [Kotlin](#kotlin)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
-*   [C#](#c)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
@@ -61,6 +61,32 @@
 *   [RAML](#raml)
 *   [GCC Machine Description](#gcc-machine-description)
 *   [TeX](#tex)
+
+## C\#
+
+*   [Sunnyliumingsheng/AutoUI](https://github.com/Sunnyliumingsheng/AutoUI) -
+
+*   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
+
+*   [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
+
+*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+
+*   [TeslaFly01/SmartSqlT](https://github.com/TeslaFly01/SmartSqlT) - 🔥🔥🔥 SmartSQL 是一款方便、快捷的数据库文档查询、导出工具！该工具从最初支持CHM文档格式开始，通过不断地探索开发、集思广益和不断改进，又陆续支持Word、Excel、PDF、Html、Xml、Json、MarkDown等文档格式的导出。同时支持SqlServer、MySql、PostgreSQL、SQLite等多种数据库的文档查询和导出功能。
+
+*   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
+
+*   [yiyungent/KnifeHub](https://github.com/yiyungent/KnifeHub) - 🧰 简单易用的效率工具平台
+
+*   [xxxxue/Docsify-Build-Sidebar](https://github.com/xxxxue/Docsify-Build-Sidebar) - Docsify 侧边栏 : 【自动生成 Docsify 的 Sidebar 与 子目录 Sidebar】
+
+*   [hitchao/Jvedio](https://github.com/hitchao/Jvedio) - Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件
+
+*   [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
+
+*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
+
+*   [atemerev/skynet](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark
 
 ## Kotlin
 
@@ -1505,30 +1531,6 @@
 *   [jeneser/ionic-super-bar](https://github.com/jeneser/ionic-super-bar) - Transparent statusBar and awesome toolBar DEMO in ionic
 
 *   [phodal/growth-ionic](https://github.com/phodal/growth-ionic) - \[v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
-
-## C\#
-
-*   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-
-*   [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
-
-*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-
-*   [TeslaFly01/SmartSqlT](https://github.com/TeslaFly01/SmartSqlT) - 🔥🔥🔥 SmartSQL 是一款方便、快捷的数据库文档查询、导出工具！该工具从最初支持CHM文档格式开始，通过不断地探索开发、集思广益和不断改进，又陆续支持Word、Excel、PDF、Html、Xml、Json、MarkDown等文档格式的导出。同时支持SqlServer、MySql、PostgreSQL、SQLite等多种数据库的文档查询和导出功能。
-
-*   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
-
-*   [yiyungent/KnifeHub](https://github.com/yiyungent/KnifeHub) - 🧰 简单易用的效率工具平台
-
-*   [xxxxue/Docsify-Build-Sidebar](https://github.com/xxxxue/Docsify-Build-Sidebar) - Docsify 侧边栏 : 【自动生成 Docsify 的 Sidebar 与 子目录 Sidebar】
-
-*   [hitchao/Jvedio](https://github.com/hitchao/Jvedio) - Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件
-
-*   [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
-
-*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
-
-*   [atemerev/skynet](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark
 
 ## Go
 
@@ -3131,8 +3133,6 @@
 *   [Marswin/MarsDaemon](https://github.com/Marswin/MarsDaemon) - A lite library, you can make your project depend it easily, and your project will be UNDEAD (contains api from 9 to 23, lol).
 
 *   [litesuits/android-lite-async](https://github.com/litesuits/android-lite-async) - Crossbow(LiteAsync) is an ameliorative, enhanced AsyncTask for Android. LiteAsync provides SimpleTask, SafeTask, CachedTask, etc, for rapid development. More convenient is, it has a TaskExcutor that excutes ordered, cyclicbarrier, delayed and timer Task.
-
-*   [D-clock/AndroidStudyCode](https://github.com/D-clock/AndroidStudyCode) - 关于Android的一些原理学习和代码实现
 
 ## HTML
 
