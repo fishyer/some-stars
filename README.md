@@ -1260,7 +1260,7 @@
 
 *   [sertraline/zlibrary](https://github.com/sertraline/zlibrary) - Unofficial Z-Library API
 
-*   [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics.
+*   [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics, like Microsoft's Windows Recall or Rewind.
 
 *   [celery/vine](https://github.com/celery/vine) - Python promises
 
