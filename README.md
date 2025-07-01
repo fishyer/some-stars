@@ -98,8 +98,6 @@
 
 *   [onlyGuo/nginx-gui](https://github.com/onlyGuo/nginx-gui) - Nginx GUI Manager
 
-*   [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2025中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐，访问Chatgpt。
-
 *   [x-dr/tts](https://github.com/x-dr/tts) - 微软azure文本转语音 音频下载
 
 *   [bunkat/later](https://github.com/bunkat/later) - A javascript library for defining recurring schedules and calculating future (or past) occurrences for them.  Includes support for using English phrases and Cron schedules.  Works in Node and in the browser.
@@ -3209,6 +3207,8 @@
 *   [dawsonice/ProMosaic](https://github.com/dawsonice/ProMosaic) - Make mosaic effect on android
 
 *   [shenkaige/andtools](https://github.com/shenkaige/andtools) - Android Develop Tools,widget
+
+*   [QGB/QJSU](https://github.com/QGB/QJSU) - Java's Simplified Utils
 
 ## Vue
 
