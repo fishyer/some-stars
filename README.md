@@ -624,8 +624,6 @@
 
 *   [zkqiang/crawler-chrome-extensions](https://github.com/zkqiang/crawler-chrome-extensions) - 爬虫工程师常用的 Chrome 插件  |  Chrome extensions used by crawler developer
 
-*   [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
-
 *   [mugoc/acme-1key](https://github.com/mugoc/acme-1key) - Acme.sh 域名证书一键申请脚本
 
 *   [xdash/GHacker\_Newsletter](https://github.com/xdash/GHacker_Newsletter) - 增长黑客周刊
@@ -2827,6 +2825,8 @@
 *   [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+*   [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 
 *   [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
 
