@@ -980,6 +980,8 @@
 
 *   [rcy1314/TGTOP](https://github.com/rcy1314/TGTOP) - TG留言区发送自己的文章推送
 
+*   [rcy1314/TGTOP](https://github.com/rcy1314/TGTOP) - TG留言区发送自己的文章推送
+
 *   [jmpinit/github\_stars\_to\_notion](https://github.com/jmpinit/github_stars_to_notion) - Sync GitHub stars to a Notion table
 
 *   [tavily-ai/tavily-python](https://github.com/tavily-ai/tavily-python) - A python wrapper for Tavily search API
@@ -2463,8 +2465,6 @@
 *   [AzimoLabs/AndroidKeyboardWatcher](https://github.com/AzimoLabs/AndroidKeyboardWatcher) - Software keyboard open/close watcher for Android.
 
 *   [UFreedom/YummyTextSwitcher](https://github.com/UFreedom/YummyTextSwitcher) - switch text with cool animation
-
-*   [google/agera](https://github.com/google/agera) - Reactive Programming for Android
 
 ## Go
 
