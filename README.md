@@ -110,7 +110,7 @@
 
 *   [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
 
-*   [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
+*   [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.
 
 *   [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 
