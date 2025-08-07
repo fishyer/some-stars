@@ -2354,7 +2354,7 @@
 
 *   [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 Screenshots, word marking, OCR, AI, translation software || 截图、划词、文字识别、AI、翻译软件
 
-*   [cloudreve/frontend](https://github.com/cloudreve/frontend) - Cloudreve 的前端
+*   [cloudreve/frontend](https://github.com/cloudreve/frontend) - Frontend of Cloudreve.
 
 *   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
