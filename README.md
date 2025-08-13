@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Objective-C](#objective-c)
 *   [Java](#java)
 *   [Kotlin](#kotlin)
 *   [Dart](#dart)
@@ -41,7 +42,6 @@
 *   [Dockerfile](#dockerfile)
 *   [Perl](#perl)
 *   [Zig](#zig)
-*   [Objective-C](#objective-c)
 *   [Elixir](#elixir)
 *   [Clojure](#clojure)
 *   [Lua](#lua)
@@ -61,6 +61,32 @@
 *   [RAML](#raml)
 *   [GCC Machine Description](#gcc-machine-description)
 *   [TeX](#tex)
+
+## Objective-C
+
+*   [xtyzmnchen/ios-autoTool-IPA](https://github.com/xtyzmnchen/ios-autoTool-IPA) - ios自动打包工具
+
+*   [FLEXTool/FLEX](https://github.com/FLEXTool/FLEX) - An in-app debugging and exploration tool for iOS
+
+*   [midoks/mdserver-mac](https://github.com/midoks/mdserver-mac) - mdserver (mac version, secondary development)
+
+*   [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) - 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+
+*   [JackieXie168/skim](https://github.com/JackieXie168/skim) - A PDF Reader and Note-taker for OS X
+
+*   [AppPolice/AppPolice](https://github.com/AppPolice/AppPolice) - MacOS app for quickly limiting CPU usage by running applications
+
+*   [Congee/NetSpeedMonitor](https://github.com/Congee/NetSpeedMonitor) - For OS X
+
+*   [shadowsocks/shadowsocks-iOS](https://github.com/shadowsocks/shadowsocks-iOS) - Removed according to regulations.
+
+*   [zhaoyang21cn/iLiveSDK\_iOS\_Suixinbo](https://github.com/zhaoyang21cn/iLiveSDK_iOS_Suixinbo) -
+
+*   [TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - 微信小助手
+
+*   [TKkk-iOSer/WeChatPlugin-iOS](https://github.com/TKkk-iOSer/WeChatPlugin-iOS) -
+
+*   [Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS) - A curated list of delightful iOS resources.
 
 ## Java
 
@@ -3396,8 +3422,6 @@
 
 *   [Tim9Liu9/TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android) - 自己总结的Android开源项目及库
 
-*   [CharonChui/AndroidNote](https://github.com/CharonChui/AndroidNote) - Android study notes.
-
 ## Rust
 
 *   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
@@ -3995,30 +4019,6 @@
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 *   [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
-
-## Objective-C
-
-*   [FLEXTool/FLEX](https://github.com/FLEXTool/FLEX) - An in-app debugging and exploration tool for iOS
-
-*   [midoks/mdserver-mac](https://github.com/midoks/mdserver-mac) - mdserver (mac version, secondary development)
-
-*   [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) - 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
-
-*   [JackieXie168/skim](https://github.com/JackieXie168/skim) - A PDF Reader and Note-taker for OS X
-
-*   [AppPolice/AppPolice](https://github.com/AppPolice/AppPolice) - MacOS app for quickly limiting CPU usage by running applications
-
-*   [Congee/NetSpeedMonitor](https://github.com/Congee/NetSpeedMonitor) - For OS X
-
-*   [shadowsocks/shadowsocks-iOS](https://github.com/shadowsocks/shadowsocks-iOS) - Removed according to regulations.
-
-*   [zhaoyang21cn/iLiveSDK\_iOS\_Suixinbo](https://github.com/zhaoyang21cn/iLiveSDK_iOS_Suixinbo) -
-
-*   [TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - 微信小助手
-
-*   [TKkk-iOSer/WeChatPlugin-iOS](https://github.com/TKkk-iOSer/WeChatPlugin-iOS) -
-
-*   [Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS) - A curated list of delightful iOS resources.
 
 ## Elixir
 
