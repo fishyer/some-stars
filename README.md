@@ -120,7 +120,7 @@
 
 *   [buqiyuan/nest-admin](https://github.com/buqiyuan/nest-admin) - NestJS CRUD for RESTful API 使用 NestJS + Mysql + Typeorm + Redis + JWT + Swagger 企业中后台管理系统项目RBAC权限管理(细粒度到按钮)、实现单点登录等...
 
-*   [fmhy/edit](https://github.com/fmhy/edit) - https://fmhy.net/
+*   [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 
 *   [Yuiffy/BiliGPT](https://github.com/Yuiffy/BiliGPT) - BiliGPT 哔哩哔哩 · 视频内容一键总结
 
