@@ -33,6 +33,7 @@
 *   [Shell](#shell)
 *   [CSS](#css)
 *   [Roff](#roff)
+*   [YAML](#yaml)
 *   [PHP](#php)
 *   [Svelte](#svelte)
 *   [Visual Basic 6.0](#visual-basic-60)
@@ -3500,8 +3501,6 @@
 
 *   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 
-*   [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-
 *   [deft-ui/deft](https://github.com/deft-ui/deft) - Build cross-platform applications with Rust and JavaScript
 
 *   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -3875,6 +3874,10 @@
 ## Roff
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
+
+## YAML
+
+*   [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
 ## PHP
 
