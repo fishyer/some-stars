@@ -234,7 +234,7 @@
 
 *   [YoKeyword/Fragmentation](https://github.com/YoKeyword/Fragmentation) - \[DEPRECATED] A powerful library that manage Fragment for Android
 
-*   [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) - 难得一见 Jetpack MVVM 最佳实践！在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解！
+*   [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) - 难得一见 Jetpack MVVM 最佳实践。在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解。
 
 *   [KunMinX/UnPeek-LiveData](https://github.com/KunMinX/UnPeek-LiveData) - LiveData 数据倒灌：别问，问就是不可预期 - Perfect alternative to SingleLiveEvent, supporting multiple observers.
 
