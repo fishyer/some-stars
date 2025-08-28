@@ -352,6 +352,8 @@
 
 *   [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.
 
+*   [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
+
 *   [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 
 *   [b-yp/logseq-notion-sync](https://github.com/b-yp/logseq-notion-sync) - Sync Logseq content to Notion
@@ -657,8 +659,6 @@
 *   [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 
 *   [zkqiang/crawler-chrome-extensions](https://github.com/zkqiang/crawler-chrome-extensions) - 爬虫工程师常用的 Chrome 插件  |  Chrome extensions used by crawler developer
-
-*   [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 
 *   [mugoc/acme-1key](https://github.com/mugoc/acme-1key) - Acme.sh 域名证书一键申请脚本
 
