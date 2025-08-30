@@ -110,7 +110,7 @@
 
 *   [tnfe/clean-state](https://github.com/tnfe/clean-state) - 🐻 A pure and compact state manager, using React-hooks native implementation, automatically connect the module organization architecture. 🍋
 
-*   [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
+*   [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
 
 *   [dgarrett/phone-to-roam-to-obsidian](https://github.com/dgarrett/phone-to-roam-to-obsidian) - Unofficial phonetoroam.com plugin for Obsidian
 
