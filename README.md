@@ -1856,7 +1856,7 @@
 
 *   [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 开屏跳过-安卓系统的开屏广告自动跳过助手
 
-*   [fushengqian/fuint](https://github.com/fushengqian/fuint) - fuint会员营销系统是一款实体店铺会员管理、积分商城、营销系统。基于Java SpringBoot、Vue、Uniapp，包含前台微信小程序、h5、后台管理收银端。具有优惠券、预存卡、实体卡、集次（计次卡）、储值卡、电子券，会员积分体系，会员等级等营销功能。适合各类实体店铺结合线上电商系统，如：零售超市、汽车4S店、花店、甜品店、餐饮等。本系统可当成收银系统使用，打通了线下收银系统和线上会员小程序商城。
+*   [fushengqian/fuint](https://github.com/fushengqian/fuint) - fuint门店会员营销系统是一款集店铺收银、积分商城、营销一体的系统。基于Java SpringBoot、Vue、Uniapp，含微信小程序、h5、后台管理。具有优惠券、预存卡、实体卡、集次（计次卡）、储值卡、电子券，会员积分体系，会员等级等营销功能。适合各类实体店铺结合线上电商系统，如：零售超市、汽车4S店、花店、甜品店、餐饮等。可以当收银系统使用，打通了线下收银系统和线上商城。
 
 *   [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android
 
