@@ -1892,8 +1892,6 @@
 
 *   [spring-guides/gs-serving-web-content](https://github.com/spring-guides/gs-serving-web-content) - Serving Web Content with Spring MVC :: Learn how to create a web page with Spring MVC and Thymeleaf.
 
-*   [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
-
 *   [jveverka/file-server](https://github.com/jveverka/file-server) - Simple file server providing REST APIs to access remote file system.
 
 *   [LeeLulin/ToDoList](https://github.com/LeeLulin/ToDoList) - Android时间管理App--待办事项提醒，番茄时钟
@@ -3143,6 +3141,8 @@
 *   [HighCapable/YukiHookAPI](https://github.com/HighCapable/YukiHookAPI) - ⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.
 
 *   [intuit/hooks](https://github.com/intuit/hooks) - Hooks is a little module for plugins, in Kotlin
+
+*   [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 
 *   [iceCola7/WanAndroid](https://github.com/iceCola7/WanAndroid) - 🔥项目采用 Kotlin 语言，基于 MVP + RxJava + Retrofit + Glide + EventBus 等架构设计，努力打造一款优秀的  \[玩Android] 客户端
 
