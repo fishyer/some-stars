@@ -1826,7 +1826,7 @@
 
 *   [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
 
-*   [Oli51467/rabbix](https://github.com/Oli51467/rabbix) - 基于RabbitMQ/本地消息表实现的分布式事务框架
+*   [Oli51467/rabbix](https://github.com/Oli51467/rabbix) - 基于RabbitMQ和本地消息表实现的分布式事务框架
 
 *   [chinayin/WeworkChatSDK](https://github.com/chinayin/WeworkChatSDK) - WeworkChatSDK企业微信会话存档服务，提供一键接入java版sdk
 
