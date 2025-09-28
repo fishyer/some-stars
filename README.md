@@ -3538,7 +3538,7 @@
 
 *   [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
 
-*   [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
+*   [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 
 *   [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for thousands of SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
 
