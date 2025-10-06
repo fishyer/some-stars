@@ -1400,8 +1400,6 @@
 
 *   [phith0n/py-wget](https://github.com/phith0n/py-wget) - small wget by python
 
-*   [huaisha1224/zhihuCollection\_Save](https://github.com/huaisha1224/zhihuCollection_Save) - 一键保存知乎收藏到Evernote/印象笔记/OneNote/有道云笔记
-
 *   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 
 *   [mmin18/LayoutCast](https://github.com/mmin18/LayoutCast) - Cast android code and resource changes to the running application through ADB.
@@ -3689,6 +3687,8 @@
 *   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 
 *   [atemerev/skynet](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark
+
+*   [huaisha1224/StardewValleyMODManager](https://github.com/huaisha1224/StardewValleyMODManager) - 中文版星露谷物语MOD安装器,An installer for StardewValley mods for Chinese
 
 ## Vue
 
