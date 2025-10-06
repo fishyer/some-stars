@@ -1248,6 +1248,8 @@
 
 *   [refraction-ray/xalpha](https://github.com/refraction-ray/xalpha) - 基金投资管理回测引擎
 
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+
 *   [wizyoung/googletranslate.popclipext](https://github.com/wizyoung/googletranslate.popclipext) - (Unofficial) A free and easy-to-use Google Translate PopClip Extension (macOS). 一个免费的谷歌翻译 PopClip 插件 (macOS)。
 
 *   [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
@@ -3769,8 +3771,6 @@
 *   [dibingfa/shanke-machine-learning](https://github.com/dibingfa/shanke-machine-learning) -
 
 *   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 
 *   [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 
