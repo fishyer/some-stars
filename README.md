@@ -1728,7 +1728,7 @@
 
 *   [oiuv/WeWorkFinanceSdk](https://github.com/oiuv/WeWorkFinanceSdk) - 自动存档企业微信会话（文本、图片、语音、视频、文件），方便功能开发
 
-*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源自动更新平台『✨可实现秒播级体验🚀』：每日自动更新两次；拥有丰富的个性化配置、结果生成规则；自定义频道；订阅源/组播源/酒店源/本地源；RTMP推流；IPv4/IPv6；归属地/运营商；接口测速验效，将结果地址输入播放器进行观看；支持工作流、Docker、命令行、GUI多种运行方式 | IPTV live TV source update project
+*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新平台『✨可实现秒播级体验🚀』：每日自动更新两次，提供免费结果订阅，输入播放器即可观看；拥有丰富的个性化配置、结果生成规则；自定义频道；订阅源/组播源/酒店源/本地源；RTMP推流；IPv4/IPv6；归属地/运营商；接口测速验效；工作流、Docker、命令行、GUI多种部署方式 | IPTV live TV source automatic update platform
 
 *   [fishyer/MyLogseq](https://github.com/fishyer/MyLogseq) - 产物仓库
 
