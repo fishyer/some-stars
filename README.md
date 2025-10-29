@@ -13,10 +13,10 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
+*   [Python](#python)
 *   [Go](#go)
 *   [Dart](#dart)
-*   [Python](#python)
-*   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
@@ -62,309 +62,489 @@
 *   [GCC Machine Description](#gcc-machine-description)
 *   [TeX](#tex)
 
-## Go
+## TypeScript
 
-*   [runs-on/cli](https://github.com/runs-on/cli) - CLI for RunsOn
+*   [dongguaguaguagua/zhihu\_obsidian](https://github.com/dongguaguaguagua/zhihu_obsidian) - Zhihu on Obsidian | 知乎 Obsidian 插件
 
-*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - 一个用于管理和切换 Claude Code 和 Codex 不同供应商配置的桌面应用
 
-*   [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) - Save Telegram files to multiple storage 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content.
+*   [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 
-*   [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
+*   [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 
-*   [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
+*   [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 
-*   [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for thousands of SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
+*   [jacksteamdev/obsidian-mcp-tools](https://github.com/jacksteamdev/obsidian-mcp-tools) - Add Obsidian integrations like semantic search and custom Templater prompts to Claude or any MCP client.
 
-*   [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip) - cursor IDE enjoy VIP
+*   [danield137/mcp-workflowy](https://github.com/danield137/mcp-workflowy) - An MCP server for workflowy
 
-*   [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
+*   [thesamim/TickTickSync](https://github.com/thesamim/TickTickSync) -
 
-*   [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
+*   [fabien0102/ts-to-zod](https://github.com/fabien0102/ts-to-zod) - Generate zod schemas from typescript types/interfaces
 
-*   [usememos/telegram-integration](https://github.com/usememos/telegram-integration) - Memogram is an easy to use integration service for syncing messages and images from a Telegram bot into your Memos.
+*   [ZH1754629545/dida365-mcp-servers](https://github.com/ZH1754629545/dida365-mcp-servers) - 基于滴答官方文档生成的日程待办增删改查MCP服务
 
-*   [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
+*   [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
 
-*   [whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - 企业微信/微信 安全使用的 LLM 个人助手/客服, 也支持 dify 工作流
+*   [Hzao/PocketChest](https://github.com/Hzao/PocketChest) - Secure, serverless file and text sharing built on Cloudflare with large file support.
 
-*   [saucer-man/wepush](https://github.com/saucer-man/wepush) - 利用企业微信应用消息向微信发送通知 https://saucer-man.com/operation\_and\_maintenance/707.html
+*   [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 
-*   [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
+*   [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
-*   [Yohann0617/tgNetDisc](https://github.com/Yohann0617/tgNetDisc) - 🤖基于Telegram API，无限容量，不限制文件格式，不限制文件内容😏，文件都存储在Telegram☁云端，轻巧方便。上传成功会生成HTML、Markdown、BBCode三种形式的外链🔗，可以用来当做图床、文件下载url。
+*   [akrava/gmail-tg-notifications](https://github.com/akrava/gmail-tg-notifications) - Simple telegram bot to forward emails from Gmail to any chat, channel or private group
 
-*   [pwh-pwh/aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel) - 使用vercel的functions，将ai功能加入微信公众号
+*   [weiqinke/react-admin-nest](https://github.com/weiqinke/react-admin-nest) - React和Ant Design和 Nest.js 和 Mysql 构建的后台通用管理系统。持续更新。
 
-*   [ultrazg/xyz](https://github.com/ultrazg/xyz) - 小宇宙FM API
+*   [artuncolak/nest-react-admin](https://github.com/artuncolak/nest-react-admin) - Admin panel project made with NestJS & React
 
-*   [lw396/ChatCopilot](https://github.com/lw396/ChatCopilot) - ChatCopilot 是一款用 golang 实现的获取微信聊天记录并支持实时存储到数据库的工具，支持在 MacOS 上运行
+*   [buqiyuan/nest-admin](https://github.com/buqiyuan/nest-admin) - NestJS CRUD for RESTful API 使用 NestJS + Mysql + Typeorm + Redis + JWT + Swagger 企业中后台管理系统项目RBAC权限管理(细粒度到按钮)、实现单点登录等...
 
-*   [dong9205/wechat\_hook](https://github.com/dong9205/wechat_hook) - 通过HTTP接口微信发送消息
+*   [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 
-*   [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
+*   [Yuiffy/BiliGPT](https://github.com/Yuiffy/BiliGPT) - BiliGPT 哔哩哔哩 · 视频内容一键总结
 
-*   [ceph/ceph-csi](https://github.com/ceph/ceph-csi) - CSI driver for Ceph
+*   [yyong008/fastapi-antd-admin](https://github.com/yyong008/fastapi-antd-admin) - 🚀 fast-antd-admin is a website building solution based on Python FastAPI、Antd、SQLAchemly. (WIP)
 
-*   [radondb/radondb-mysql-kubernetes](https://github.com/radondb/radondb-mysql-kubernetes) - Open Source，High Availability Cluster，based on MySQL
+*   [binkuolo/fastapi-ui-ant](https://github.com/binkuolo/fastapi-ui-ant) - fastapi后台前端react项目，基于Ant Design Pro实现
 
-*   [datacharmer/dbdeployer](https://github.com/datacharmer/dbdeployer) - DBdeployer is a tool that deploys MySQL database servers easily.
+*   [metisjs/metis-ui](https://github.com/metisjs/metis-ui) - A React Tailwind UI Component Library
 
-*   [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes environments.
+*   [europeana/metis-ui](https://github.com/europeana/metis-ui) - Metis frontend UI
 
-*   [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in < 60s 🚀
+*   [lc0rp/KeepSidian](https://github.com/lc0rp/KeepSidian) -
 
-*   [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
+*   [daledesilva/obsidian\_google-keep-import](https://github.com/daledesilva/obsidian_google-keep-import) - Imports Google Keep backup files
 
-*   [uouuou/clash-tracing](https://github.com/uouuou/clash-tracing) -
+*   [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
 
-*   [yangchuansheng/clash-tracing](https://github.com/yangchuansheng/clash-tracing) - Clash Tracing Dashboard
+*   [WebDB-App/app](https://github.com/WebDB-App/app) - Efficient Database IDE
 
-*   [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+*   [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
 
-*   [butoften/array](https://github.com/butoften/array) - develop golang，similar to javascript es6+
+*   [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
 
-*   [HuanMeng233/weread\_downloader](https://github.com/HuanMeng233/weread_downloader) - 学习
+*   [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 
-*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+*   [lim-f/vue-lim](https://github.com/lim-f/vue-lim) - Make Vue easier to write.
 
-*   [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+*   [tnfe/clean-state](https://github.com/tnfe/clean-state) - 🐻 A pure and compact state manager, using React-hooks native implementation, automatically connect the module organization architecture. 🍋
 
-*   [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code
+*   [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
 
-*   [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
+*   [dgarrett/phone-to-roam-to-obsidian](https://github.com/dgarrett/phone-to-roam-to-obsidian) - Unofficial phonetoroam.com plugin for Obsidian
 
-*   [KDF5000/nomo](https://github.com/KDF5000/nomo) - Not only Memon, store your memo into Notion or Lark Doc with lark bot
+*   [shady2k/logseq-inbox-telegram-plugin](https://github.com/shady2k/logseq-inbox-telegram-plugin) -
 
-*   [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
+*   [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) -
 
-*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+*   [zyjGraphein/Obsidian-EagleBridge](https://github.com/zyjGraphein/Obsidian-EagleBridge) - Obsidian-EagleBridge is a plugin for Obsidian that allows you to connect to the Eagle.  This plugin includes the following functionalities:  - Quick eagle attachment navigation in Obsidian - Tag synchronization - File viewing - Attachment management
 
-*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - Browser-based management platform of machine, database (mysql pgsql oracle sqlserver Gauss sqlite), redis(standalone sentinel cluster), mongo, Es unified management and operation platform. (web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo、Es统一管理操作平台)
+*   [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug) - A DAP-compatible JavaScript debugger. Used in VS Code, VS, + more
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
+*   [yenche123/liubai](https://github.com/yenche123/liubai) - Supercharge yourself!
 
-*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
-*   [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
+*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
-*   [iwannay/jiacrontab](https://github.com/iwannay/jiacrontab) - 简单可信赖的任务管理工具
+*   [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - All-In-One Full-Stack Environment Management Tool. Help developers quickly set up a local development environment. Core Modules: Ollama, DeepSeek, Apache, Nginx, Caddy, Tomcat. MySQL, MariaDB, PostgreSQL, MongoDB. Mailpit. PHP, Java, NodeJS, Python, Go, Rust, Erlang, Ruby. Redis, RabbitMQ. Elasticsearch. DNS Server, FTP Server
 
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+*   [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 
-*   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
+*   [ajnart/dcm](https://github.com/ajnart/dcm) - DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clicks!
 
-*   [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
 
-*   [brahma-adshonor/gohook](https://github.com/brahma-adshonor/gohook) - a funny library to hook golang function at runtime
+*   [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
 
-*   [yasuo11/JVM-Implemented-by-Go](https://github.com/yasuo11/JVM-Implemented-by-Go) - 从0开始用Go语言实现一个简易版的Java虚拟机
+*   [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 
-*   [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+*   [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles, shells, and terminals.
 
-*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+*   [codercup/unibest](https://github.com/codercup/unibest) - unibest - 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。
 
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+*   [lkxian888/postcss-px-to-viewport-8-plugin](https://github.com/lkxian888/postcss-px-to-viewport-8-plugin) - 解决 postcss-px-to-viewport 控制台输出: postcss.plugin was deprecated. Migration guide:
 
-*   [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
+*   [baiy/Ctool](https://github.com/baiy/Ctool) - 程序开发常用工具 chrome / edge / firefox / utools / windows / linux / mac
 
-*   [parkomat/parkomat](https://github.com/parkomat/parkomat) - DNS + Web + WebDav server in one package.
+*   [hymhub/css-to-tailwind](https://github.com/hymhub/css-to-tailwind) - Convert CSS code to Tailwindcss syntax in real time
 
-*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+*   [ant-design/x](https://github.com/ant-design/x) - Craft AI-driven interface effortlessly🤖
 
-*   [indes/flowerss-bot](https://github.com/indes/flowerss-bot) - A telegram bot  for rss reader. 一个支持应用内阅读的 Telegram RSS Bot。
+*   [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
 
-*   [indes/telepush](https://github.com/indes/telepush) - 可一键部署的Vercel Telegram消息推送机器人
+*   [trentlee0/mverything-plus](https://github.com/trentlee0/mverything-plus) - 一个文件搜索的 uTools 插件，Mac 上的文件查找工具
 
-*   [archive-go/ArchiveBot](https://github.com/archive-go/ArchiveBot) - 一个用来备份链接内容的 Telegram Bot
+*   [udecode/zustand-x](https://github.com/udecode/zustand-x) - Zustand store factory for a best-in-class developer experience.
 
-*   [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+*   [lim-f/react-lim](https://github.com/lim-f/react-lim) - Make React easier to write.
 
-*   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 
-*   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+*   [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for https://github.com/fatedier/frp server and client management, which makes this project a Cloudflare Tunnel/Tailscale Funnel/Ngork platform and agent open source alternative
 
-*   [CodisLabs/codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
+*   [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
 
-*   [yoozoo/protoapi](https://github.com/yoozoo/protoapi) - High productivity API framework with error handling in mind
+*   [xun082/create-neat](https://github.com/xun082/create-neat) - 🚀🚀🚀 Developed a front-end scaffold based on PNPM and Turborepo, aimed at quickly creating various types of projects for users.
 
-*   [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+*   [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 
-*   [qintongbaba/jvm](https://github.com/qintongbaba/jvm) -
+*   [EasyChris/obsidian-to-notion](https://github.com/EasyChris/obsidian-to-notion) - Share obsidian markdown file to notion and generate notion share link    同步obsdian文件到notion，并生成notion分享链接，可以方便的分享obsidian的文件。
 
-*   [huichen/wukong](https://github.com/huichen/wukong) - 高度可定制的全文搜索引擎
+*   [emeraldwalk/vscode-runonsave](https://github.com/emeraldwalk/vscode-runonsave) - Visual Studio Code extension to run commands whenever a file is saved.
 
-*   [httprunner/httprunner](https://github.com/httprunner/httprunner) - HttpRunner 是一款开源的 API/UI 测试框架，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。
+*   [terwer/siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher) - ✈️ Publish articles from siyuan-note to platforms such as Yuque, etc.Free and open source. 将思源笔记的文章发布到语雀等平台，开源免费。
 
-*   [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+*   [wenqiyun/nest-admin](https://github.com/wenqiyun/nest-admin) - 采用nestjs typeorm vue开发的一套权限管理系统
 
-## Dart
+*   [LeekHub/leek-fund](https://github.com/LeekHub/leek-fund) - :chart\_with\_upwards\_trend: 韭菜盒子VSCode插件，可以看股票、基金、期货等实时数据。 Leek box - Monitor the real-time data of stock & fund & future in VSCode, Be the most excellent investment extension.
 
-*   [bytedance/flutter\_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance
+*   [liyupi/sql-mother](https://github.com/liyupi/sql-mother) - 程序员鱼皮原创项目，免费的闯关交互式 SQL 自学教程网站，从零基础到进阶，带你掌握常用 SQL 语法（MySQL、SQLite、PostgreSQL）、快速学习 SQL 和数据库。支持在线SQL编辑器、实时查询结果、语法高亮、SQL运行广场等功能。纯前端实现，简单易学~
 
-*   [Chevey339/kelivo](https://github.com/Chevey339/kelivo) - A Flutter LLM Chat Client. Support Android & iOS & Harmony Next.
+*   [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 
-*   [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
+*   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 
-*   [ionicfirebaseapp/getwidget](https://github.com/ionicfirebaseapp/getwidget) - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
+*   [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 
-*   [fluttersdk/wind](https://github.com/fluttersdk/wind) - A Flutter plugin designed with a utility-first approach, inspired by Tailwind CSS, for building responsive, modular, and efficient UI components.
+*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
-*   [Tencent/mxflutter](https://github.com/Tencent/mxflutter) - 使用 TypeScript/JavaScript 来开发 Flutter 应用的框架。
+*   [FightingDesign/fighting-design](https://github.com/FightingDesign/fighting-design) - 🌈 Fighting Design 可在 vue3 应用程序中快速构建交互界面，看起来还不错。(🌈 Fighting design can quickly build interactive interfaces in vue3 applications, which looks good.)
 
-*   [Demizo/Daily\_You](https://github.com/Demizo/Daily_You) - Every day is worth remembering...
+*   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 
-*   [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
+*   [Tyh2001/vitepress-template](https://github.com/Tyh2001/vitepress-template) - 🍀 Vitepress 模板，开箱即用，快速搭建你的静态网站和博客。（🍀 Vitepress template, out of the box, quickly build your static website and blog.）
 
-*   [nightmare-space/code\_lfa](https://github.com/nightmare-space/code_lfa) - Port VS Code to Android and support local operation
+*   [karelklima/workflowy](https://github.com/karelklima/workflowy) - WorkFlowy API for Deno and Node
 
-*   [BFWXKJGS/AlistClient](https://github.com/BFWXKJGS/AlistClient) - AList Client for iOS and Android. / 基于 AList api 开发的 Android 和 iOS 客户端
+*   [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Template for Obsidian community plugins with build configuration and development best practices.
 
-*   [lollipopkit/flutter\_server\_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
+*   [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
-*   [Xiang-cd/THU-downloader](https://github.com/Xiang-cd/THU-downloader) - 一个支持UI界面的清华云盘个人仓库批量下载, 链接批量下载，邮箱邮件批量下载工具，为毕业生批量迁移清华云盘内容和备份邮箱提供便利。
+*   [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 
-*   [yuexunshi/todo](https://github.com/yuexunshi/todo) - 基于玩安卓api的todo
+*   [leonmeka/sortql-cli](https://github.com/leonmeka/sortql-cli) - A file management automation tool with SQL-like syntax.
 
-*   [TolyFx/toly\_ui](https://github.com/TolyFx/toly_ui) - The All-Platform Responsive UI Library For Flutter.
+*   [sunls24/nextai](https://github.com/sunls24/nextai) - 一个简单而优雅的 AI 聊天程序
 
-*   [Yuzopro/opengit\_flutter](https://github.com/Yuzopro/opengit_flutter) - OpenGit基于Flutter的Github客户端，支持Android和iOS。项目中涉及到BloC、Redux、国际化、多主题以及Github相关信息的查看等。
+*   [kahosan/acgn-collection](https://github.com/kahosan/acgn-collection) - 使用 Bangumi API 的第三方便捷收藏夹
 
-*   [springeye/fterm](https://github.com/springeye/fterm) - fterm是一款基于Flutter开发的跨平台终端工具
+*   [Azzellz/pomelo](https://github.com/Azzellz/pomelo) - Based on Bunjs/Nodejs and Aria2 resource download tool , flexible configuration , support for custom resource parsing and some built-in resource parsing such as RSS
 
-*   [crazycodeboy/openai\_flutter](https://github.com/crazycodeboy/openai_flutter) - A openai library for flutter,it works on iOS,Android,Web,macOS and Windows.
+*   [Victor-Sava/LuminaPay](https://github.com/Victor-Sava/LuminaPay) - LuminaPay is an innovative cryptocurrency payment platform designed to provide comprehensive payment solutions for businesses and individual users. It supports various cryptocurrencies, offers detailed financial reporting, and includes wallet blacklist management. LuminaPay is open source and encourages community contributions to enhance its featur
 
-*   [fishyer/demo-flutter](https://github.com/fishyer/demo-flutter) -
+*   [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
 
-*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+*   [OpenAssistantGPT/OpenAssistantGPT](https://github.com/OpenAssistantGPT/OpenAssistantGPT) - A Community Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
 
-*   [rrousselGit/provider](https://github.com/rrousselGit/provider) - InheritedWidgets, but simple
+*   [appdev/siyuan-unlock](https://github.com/appdev/siyuan-unlock) - 思源笔记免登录版本；可以不登录使用同步功能
 
-*   [boeledi/Streams-Block-Reactive-Programming-in-Flutter](https://github.com/boeledi/Streams-Block-Reactive-Programming-in-Flutter) - Sample application to illustrate the notions of Streams, BLoC and Reactive Programming in Flutter
+*   [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 好用的 Canvas 引擎。Easy-to-Use Canvas Engine.
 
-*   [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 
-*   [xuelongqy/flutter\_easy\_refresh](https://github.com/xuelongqy/flutter_easy_refresh) - A flutter widget that provides pull-down refresh and pull-up load.
+*   [TheGreatBonnie/AIPoweredUIComponentsGenerator](https://github.com/TheGreatBonnie/AIPoweredUIComponentsGenerator) -
 
-*   [fluttercandies/extended\_image](https://github.com/fluttercandies/extended_image) - A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc.
+*   [lzwme/git-repo-sync](https://github.com/lzwme/git-repo-sync) -
 
-*   [cfug/flutter.cn](https://github.com/cfug/flutter.cn) - Flutter CN docs translation plan, get started from the wiki: https://github.com/cfug/flutter.cn/wiki
+*   [meteorlxy/vssue](https://github.com/meteorlxy/vssue) - :mailbox: A Vue-powered Issue-based Comment Plugin
 
-*   [nutspet/findmydog](https://github.com/nutspet/findmydog) - 寻狗小程序的Flutter原生版本，完全开源，已经在苹果和安卓市场上架。
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 
-*   [JadenZhong/wechat-flutter](https://github.com/JadenZhong/wechat-flutter) - 撸一款Flutter版『微信』
+*   [yanzhangshuai/lightweight-deploy-blogs](https://github.com/yanzhangshuai/lightweight-deploy-blogs) -
 
-*   [alibaba/fish-redux](https://github.com/alibaba/fish-redux) - An assembled flutter application framework.
+*   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
-*   [best-flutter/flutter\_swiper](https://github.com/best-flutter/flutter_swiper) - The best swiper for flutter , with multiple layouts, infinite loop. Compatible with Android & iOS.
+*   [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 
-*   [jayden320/flutter\_shuqi](https://github.com/jayden320/flutter_shuqi) - 高仿书旗小说 Flutter版，支持iOS、Android
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
 
-*   [HWHUAN/Flutter\_bwkd](https://github.com/HWHUAN/Flutter_bwkd) - 本项目主要是用Flutter去实现“百万看点”app
+*   [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
-*   [toly1994328/Flutter\_Seven\_Day](https://github.com/toly1994328/Flutter_Seven_Day) - Flutter七日游
+*   [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 
-*   [javiercbk/json\_to\_dart](https://github.com/javiercbk/json_to_dart) - Library that generates dart classes from json strings
+*   [red0orange/obsidian-webdav-file-explorer](https://github.com/red0orange/obsidian-webdav-file-explorer) -
 
-*   [CarGuo/gsy\_github\_app\_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex    、同款React Native版本 ： https://github.com/CarGuo/GSYGithubApp 、原生 kotlin 版本 https://github.com/CarGuo/GSYGithubAppKotlin
+*   [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
 
-*   [iampawan/PokemonApp](https://github.com/iampawan/PokemonApp) - Pokemon App with animations and beautiful UI
+*   [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 Screenshots, word marking, OCR, AI, translation software || 截图、划词、文字识别、AI、翻译软件
 
-*   [iampawan/Flutter-Instagram-UI-Clone](https://github.com/iampawan/Flutter-Instagram-UI-Clone) - Instagram Ui Clone made using Flutter.
+*   [cloudreve/frontend](https://github.com/cloudreve/frontend) - Frontend of Cloudreve.
 
-*   [iampawan/FlutterWhatsAppClone](https://github.com/iampawan/FlutterWhatsAppClone) - Building a WhatsApp Clone in Flutter.
+*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
-*   [iampawan/FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) - \[Example APPS] Basic Flutter apps, for flutter devs.
+*   [Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale) - GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.
 
-*   [aicareles/GitClub-Flutter](https://github.com/aicareles/GitClub-Flutter) - 极客日报的flutter版本
+*   [collabnix/redisinsight-docker-extension](https://github.com/collabnix/redisinsight-docker-extension) - Running Redis GUI using RedisInsight Docker Extension
 
-*   [yubo725/flutter-osc](https://github.com/yubo725/flutter-osc) - 基于Google Flutter的开源中国客户端，支持Android和iOS。
+*   [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、探索版、K1思考模型、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
 
-*   [aaronoe/FlutterCinematic](https://github.com/aaronoe/FlutterCinematic) - Flutter clone of my "Cinematic" App
+*   [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 
-*   [xujiyou/zhihu-flutter](https://github.com/xujiyou/zhihu-flutter) - Flutter 高仿知乎 UI，非常漂亮，也非常流畅。
+*   [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 
-*   [CodemateLtd/FlutterMates](https://github.com/CodemateLtd/FlutterMates) - A quick sample app on how to implement a friend list and a profile page in Flutter.
+*   [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 
-*   [trentpiercy/trace](https://github.com/trentpiercy/trace) - Modern crypto portfolio & market explorer. Built with @Flutter
+*   [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 
-*   [jesusrp98/spacex-go](https://github.com/jesusrp98/spacex-go) - Simple yet powerful, open-source SpaceX launch tracker.
+*   [GarinZ/link-map](https://github.com/GarinZ/link-map) - Tree style tab mananger for Chrome and Edge, Tabs Outliner alternative
 
-*   [wakahuula/xkcdViewer](https://github.com/wakahuula/xkcdViewer) - A beautiful xkcd viewer app written with Flutter
+*   [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 
-*   [RafaelBarbosatec/flutter\_news](https://github.com/RafaelBarbosatec/flutter_news) - News application developed for practice, learning and testing the potential of this powerful Framework Flutter.
+*   [webfansplz/vite-plugin-vue-devtools](https://github.com/webfansplz/vite-plugin-vue-devtools) - Vite + Vue DevTools = DX  🔥
 
-*   [MSzalek-Mobile/weight\_tracker](https://github.com/MSzalek-Mobile/weight_tracker) -
+*   [labring/laf](https://github.com/labring/laf) - Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring innovative ideas to life with ease.
 
-*   [huextrat/CryptoShadow](https://github.com/huextrat/CryptoShadow) - CryptoCurrency Tracker for Android & iOS built with @flutter
+*   [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 
-*   [huextrat/Taskist](https://github.com/huextrat/Taskist) - Flutter ToDo App with Firebase
+*   [labring/sealos](https://github.com/labring/sealos) - The Intelligent Cloud OS. Use AI to automate the full lifecycle of your development and production environments, from provisioning custom dev stacks and deploying self-optimizing databases (MySQL, PostgreSQL, Redis, MongoDB) to running any Dockerized service.
 
-*   [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
+*   [niudai/VSCode-Zhihu](https://github.com/niudai/VSCode-Zhihu) - Zhihu extension built on vscode.
 
-*   [akindone/flutterMarquee](https://github.com/akindone/flutterMarquee) -
+*   [alangrainger/obsidian-frontmatter-modified-date](https://github.com/alangrainger/obsidian-frontmatter-modified-date) - Automatically update a frontmatter/YAML modified date field
 
-*   [OpenFlutter/flutter\_navigation\_bar](https://github.com/OpenFlutter/flutter_navigation_bar) - 解决官方例子会不停销毁重建的问题
+*   [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
 
-*   [OpenFlutter/mmkv\_flutter](https://github.com/OpenFlutter/mmkv_flutter) - get or set persistent storage value based on MMKV framework.
+*   [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 
-*   [OpenFlutter/flutter\_gesture\_password](https://github.com/OpenFlutter/flutter_gesture_password) - flutter\_gesture\_password
+*   [Redwinam/obsidian-cubox](https://github.com/Redwinam/obsidian-cubox) -
 
-*   [OpenFlutter/flutter\_screenutil](https://github.com/OpenFlutter/flutter_screenutil) - Flutter screen adaptation, font adaptation, get screen information
+*   [LostPaul/obsidian-folder-notes](https://github.com/LostPaul/obsidian-folder-notes) - Create notes within folders that can be accessed without collapsing the folder, similar to the functionality offered in Notion.
 
-*   [OpenFlutter/PullToRefresh](https://github.com/OpenFlutter/PullToRefresh) - Flutter相关的项目QQ:277155832 Email:277155832@qq.com
+*   [Tasin5541/NextJs-Messenger-Clone](https://github.com/Tasin5541/NextJs-Messenger-Clone) - A messenger clone built with NextJs 13 (app router), MongoDB, Prisma, Tailwind CSS, Pusher and Next-Auth
 
-*   [fluttercandies/flutter\_image\_compress](https://github.com/fluttercandies/flutter_image_compress) - flutter image compress
+*   [HiDeoo/starlight-obsidian](https://github.com/HiDeoo/starlight-obsidian) - Starlight plugin to publish Obsidian vaults
 
-*   [OpenFlutter/fluwx](https://github.com/OpenFlutter/fluwx) - Flutter版微信SDK.WeChat SDK for flutter.
+*   [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 
-*   [OpenFlutter/flutter\_ok\_image](https://github.com/OpenFlutter/flutter_ok_image) - a flutter image widget to load image.
+*   [pwwang/vscode-gptcommit](https://github.com/pwwang/vscode-gptcommit) - Automated git commit messages using GPT models via gptcommit for VS Code.
 
-*   [OpenFlutter/flutter\_listview\_loadmore](https://github.com/OpenFlutter/flutter_listview_loadmore) - flutter loadmore demos
+*   [everettjf/vscode-filter-line](https://github.com/everettjf/vscode-filter-line) - vscode extension for filter line by strings or regular expressions
 
-*   [OpenFlutter/flutter\_oktoast](https://github.com/OpenFlutter/flutter_oktoast) - Toast library for Flutter.
+*   [Rnbsov/Omnivore-Telegram-Bot](https://github.com/Rnbsov/Omnivore-Telegram-Bot) - Telegram bot to help you with your findings 🚀
 
-*   [google/protobuf.dart](https://github.com/google/protobuf.dart) - Runtime library for Dart protobufs
+*   [iyjian/dev-raven](https://github.com/iyjian/dev-raven) - dev raven
 
-*   [lukepighetti/fluro](https://github.com/lukepighetti/fluro) - Fluro is a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear route definitions.
+*   [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
 
-*   [2d-inc/HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything) - Flutter Launch Timeline Demo
+*   [fedtop/dev-go](https://github.com/fedtop/dev-go) - 🤖 一个专属于开发者的超级无敌浏览器扩展插件。(A super unbeatable browser extension plugin for developers.)💪
 
-*   [luhenchang/flutter\_study](https://github.com/luhenchang/flutter_study) - 三天学会Flutter
+*   [gnattu/BBFever](https://github.com/gnattu/BBFever) - 通过RSS订阅聚合器自动/批量下载Bilibili视频
 
-*   [songxiaoliang/visitor-flutter](https://github.com/songxiaoliang/visitor-flutter) - flutter 视频类客户端
+*   [connectshark/telegram-bot-vercel-serverless-template](https://github.com/connectshark/telegram-bot-vercel-serverless-template) - Here is a simple Telegram bot template specifically designed for beginners
 
-*   [alibaba/flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
+*   [emilast/vscode-logfile-highlighter](https://github.com/emilast/vscode-logfile-highlighter) - A Visual Studio Code extension for color highlighting log files
 
-*   [AweiLoveAndroid/Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning) - :octocat::fire: :+1:  :star2:  :star: :star::star: Flutter all you want.Flutter install,flutter samples,Flutter projects,Flutter plugin,Flutter problems,Dart codes,etc.Flutter安装和配置，Flutter开发遇到的难题，Flutter示例代码和模板，Flutter项目实战，Dart语言学习示例代码。
+*   [twilio/twilio-node](https://github.com/twilio/twilio-node) - Node.js helper library
 
-*   [OpenFlutter/Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) - FlutterDemo合集，今天你fu了吗
+*   [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
 
-*   [HxBreak/new\_trend](https://github.com/HxBreak/new_trend) - 又一个Flutter App，涵盖常见技术点。
+*   [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 
-*   [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapters, etc.
+*   [edrlab/thorium-reader](https://github.com/edrlab/thorium-reader) - A cross platform desktop reading app, based on the Readium Desktop toolkit
 
-*   [brianegan/scoped\_model](https://github.com/brianegan/scoped_model) - A Widget that passes a Reactive Model to all of it's children
+*   [jonstodle/obsius-obsidian-plugin](https://github.com/jonstodle/obsius-obsidian-plugin) - Easily publish notes to the web  This plugin integrates with obsius.site to publish markdown notes on the web.
 
-*   [hanxu317317/flutter\_plan\_demo](https://github.com/hanxu317317/flutter_plan_demo) - flutter\_plan\_demo
+*   [eightHundreds/obsidian-dida-sync](https://github.com/eightHundreds/obsidian-dida-sync) - 滴答清单同步到obsidian(ticktick sync to obsidian)
 
-*   [heruijun/flutter\_boss](https://github.com/heruijun/flutter_boss) - flutter仿BOSS直聘（二），大前端技术实现
+*   [xiaoguyu/wechatDownload](https://github.com/xiaoguyu/wechatDownload) - 微信公号文章下载工具
 
-*   [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
-*   [MissYoung/Flutter\_shop](https://github.com/MissYoung/Flutter_shop) - 全网最全flutter 学习案例 仿闲鱼（开源版）
+*   [lazyloong/obsidian-fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese) -
 
-*   [xumaohuai/Flutter-CuriosityApp](https://github.com/xumaohuai/Flutter-CuriosityApp) - Flutter高仿好奇心日报
+*   [sollidy/telegram-bot-vercel-boilerplate](https://github.com/sollidy/telegram-bot-vercel-boilerplate) - 📦 Telegram Bot Starter kit based on Node.js and Telegraf for deploying on Vercel.
 
-*   [flutterchina/flukit](https://github.com/flutterchina/flukit) -  A Flutter UI Kit（一个 Flutter UI组件库），包含 ScaleView, Swiper, PullRefresh, WaterMark, GradientCircularProgressIndicator...
+*   [AprilNEA/AChat](https://github.com/AprilNEA/AChat) - 🌊 AChat - An open-source/self-hosted/local-first AI platform, designed for enterprises and teams, perfectly combining powerful local processing capabilities with seamless remote synchronization.
 
-*   [Sky24n/flutter\_wanandroid](https://github.com/Sky24n/flutter_wanandroid) - 🔥🔥🔥  基于Google Flutter的WanAndroid客户端，支持Android和iOS。包括BLoC、RxDart 、国际化、主题色、启动页、引导页！
+*   [meetqy/rao-pics](https://github.com/meetqy/rao-pics) - :electron: 帮助你远程访问 Eagle 的素材库。
 
-*   [grpc/grpc-dart](https://github.com/grpc/grpc-dart) - The Dart language implementation of gRPC.
+*   [phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
 
-*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+*   [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor, open-source Web rich text editor 开源 Web 富文本编辑器
+
+*   [SebastianMC/obsidian-custom-sort](https://github.com/SebastianMC/obsidian-custom-sort) - Take full control over the order and sorting of folders and notes in File Explorer in Obsidian
+
+*   [xpgo/obsidian-folder-note-plugin](https://github.com/xpgo/obsidian-folder-note-plugin) - Plugin to add description note to a folder for Obsidian.
+
+*   [aidenlx/alx-folder-note](https://github.com/aidenlx/alx-folder-note) - Add description, summary, and more info to folders with folder notes.
+
+*   [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.
+
+*   [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
+
+*   [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
+
+*   [b-yp/logseq-notion-sync](https://github.com/b-yp/logseq-notion-sync) - Sync Logseq content to Notion
+
+*   [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
+
+*   [aisuda/amis-editor-demo](https://github.com/aisuda/amis-editor-demo) - amis 可视化编辑器示例 https://aisuda.github.io/amis-editor-demo
+
+*   [alibaba/lowcode-demo](https://github.com/alibaba/lowcode-demo) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
+
+*   [staringos/mtbird](https://github.com/staringos/mtbird) - 💻 无代码编辑器，无需代码生成小程序、H5页面和网站 ，拖拽操作、样式配置快速生成页面应用，数据可视化接入，支持定制业务拓展插件. StaringOS MtBird is a low-code platform for HTML Pages 、 Websites. We help users build pages without code or less code.
+
+*   [Tencent/tmagic-editor](https://github.com/Tencent/tmagic-editor) -
+
+*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+
+*   [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
+
+*   [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+
+*   [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+
+*   [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).
+
+*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
+
+*   [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
+
+*   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
+
+*   [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) - BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
+
+*   [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) -
+
+*   [s0/git-publish-subdir-action](https://github.com/s0/git-publish-subdir-action) - GitHub Action to push a subdirectory as a branch to any git repo (e.g. for GitHub Pages)
+
+*   [EINDEX/logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) - Logseq plugin for sync Memos to logseq.
+
+*   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
+
+*   [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
+
+*   [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - AI PDF chatbot agent built with LangChain & LangGraph
+
+*   [fishyer/code-xingqiu](https://github.com/fishyer/code-xingqiu) - 🪐 编程导航知识星球，帮助你学习编程的小圈子。配置公开，大家可以参考该项目做出自己的文档网站。
+
+*   [liyupi/code-xingqiu](https://github.com/liyupi/code-xingqiu) - 🪐 编程导航知识星球，帮助你学习编程的小圈子。配置公开，大家可以参考该项目做出自己的文档网站。
+
+*   [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+
+*   [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL, MongoDB, MSSQL, Rest API, Hugging Face, Redis, etc. Automate workflows with schedule or webhook. Open source Retool.
+
+*   [lcjnil/github-notion-star](https://github.com/lcjnil/github-notion-star) -
+
+*   [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
+
+*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+
+*   [xudaolong/memos-desktop](https://github.com/xudaolong/memos-desktop) - Memos client built on electron cross-end framework
+
+*   [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
+
+*   [prompt-engineering/chat-flow](https://github.com/prompt-engineering/chat-flow) -  ChatFlow  - AI-based chat flow framework, personalize your ChatGPT workflows and build the road to automation。ChatFlow —— 打造个性化 ChatGPT 流程，构建自动化之路
+
+*   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
+
+*   [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+
+*   [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
+
+*   [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+
+*   [bramses/chatgpt-md](https://github.com/bramses/chatgpt-md) - A (nearly) seamless integration of ChatGPT into Obsidian.
+
+*   [joethei/obsidian-rss](https://github.com/joethei/obsidian-rss) - Read RSS Feeds from inside Obsidian
+
+*   [JimmyLv/telegroam](https://github.com/JimmyLv/telegroam) -  Telegroam: a bridge between Roam and Telegram. 🤩 When Roam Research receives one message, it automatically returns a previously random note 😁, based on https://github.com/mbrock/telegroam
+
+*   [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - Unlock your automation needs by interacting with your notes in Obsidian over a secure REST API.
+
+*   [PicGo/vs-picgo](https://github.com/PicGo/vs-picgo) - A VSCode plugin of PicGo
+
+*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
+
+*   [AlexW00/obsidian-note-linker](https://github.com/AlexW00/obsidian-note-linker) - 🔗 Automatically link your Obsidian notes.
+
+*   [PicGo/picgo-plugin-pic-migrater](https://github.com/PicGo/picgo-plugin-pic-migrater) - :truck:A PicGo plugin for pictures in markdown files migrating from one picBed to another one.
+
+*   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
+
+*   [yabostone/picgo-plugin-rclone](https://github.com/yabostone/picgo-plugin-rclone) - 调用rclone命令实现上传
+
+*   [FallenMax/smart-toc](https://github.com/FallenMax/smart-toc) - A Chrome extension for auto-generating a table of contents
+
+*   [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
+
+*   [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
+
+*   [zaki-yama/copy-title-and-url-as-markdown](https://github.com/zaki-yama/copy-title-and-url-as-markdown) - Chrome Extension: Quickly copy the title & url of current tab as Markdown style
+
+*   [fishyer/project-nextjs-blog](https://github.com/fishyer/project-nextjs-blog) -
+
+*   [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
+
+*   [GodDown1V4/obsidian-yaml-database](https://github.com/GodDown1V4/obsidian-yaml-database) - 像notion database一样浏览编辑文档的YAML属性
+
+*   [zhaohongxuan/obsidian-weread-plugin](https://github.com/zhaohongxuan/obsidian-weread-plugin) - Obsidian Weread Plugin is a plugin to sync Weread(微信读书) hightlights and annotations into your Obsidian Vault.
+
+*   [yesmeck/waque](https://github.com/yesmeck/waque) - \[不再维护]同步本地 Markdown 文档到语雀
+
+*   [chick26/obsidian-sync-yuque](https://github.com/chick26/obsidian-sync-yuque) - Obsidian Sync Yuque \[obsidian 同步文档到语雀插件]
+
+*   [unix/aliyun-logs](https://github.com/unix/aliyun-logs) - 阿里云日志服务 SDK
+
+*   [H5-Dooring/dooringx](https://github.com/H5-Dooring/dooringx) - 快速高效搭建可视化拖拽平台
+
+*   [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
+
+*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+
+*   [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian.
+
+*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+
+*   [vanadium23/obsidian-advanced-new-file](https://github.com/vanadium23/obsidian-advanced-new-file) - Create file in chosen folder
+
+*   [mohuishou/utools](https://github.com/mohuishou/utools) - utools 插件，utools api, chrome历史记录搜索、vscode历史项目搜索、otp两步验证，iconfont图标搜索下载、语雀搜索等
+
+*   [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
+
+*   [Quorafind/Memos-Extension](https://github.com/Quorafind/Memos-Extension) - A Google Chrome plugin for Obsidian Memos
+
+*   [coddingtonbear/obsidian-web](https://github.com/coddingtonbear/obsidian-web) - Connect your web browser with your notes in Obsidian.
+
+*   [akosbalasko/yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
+
+*   [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - TidGi is an privacy-in-mind, automated, auto-git-backup, freely-deployed knowledge management Desktop note app, based on Tiddlywiki, with REST API for web-clipping and Anki connect. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details)
+
+*   [hyrijk/logseq-plugin-block-to-page](https://github.com/hyrijk/logseq-plugin-block-to-page) -
+
+*   [OBKoro1/autoCommit](https://github.com/OBKoro1/autoCommit) - 这是一个可以在任意时间范围自动提交commit的VSCode插件觉得插件不错的话，点击右上角给个Star⭐️呀~
+
+*   [aleksey-rezvov/obsidian-local-images](https://github.com/aleksey-rezvov/obsidian-local-images) -
+
+*   [kometenstaub/metadata-extractor](https://github.com/kometenstaub/metadata-extractor) - Obsidian Plugin that provides metadata export for use with third-party apps.
+
+*   [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri) - Advanced modes for Obsidian URI
+
+*   [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
+
+*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
+
+*   [rowthan/pagenote](https://github.com/rowthan/pagenote) - 超简单的网页关键词高亮、标注SDK、能把笔记留在网页里。
+
+*   [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
+
+*   [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
+
+*   [YaoZeyuan/zhihuhelp](https://github.com/YaoZeyuan/zhihuhelp) - 基于node\&typescript重写知乎助手
+
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+
+*   [thx/rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
+
+*   [jeneser/ionic-super-bar](https://github.com/jeneser/ionic-super-bar) - Transparent statusBar and awesome toolBar DEMO in ionic
+
+*   [phodal/growth-ionic](https://github.com/phodal/growth-ionic) - \[v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
 
 ## Python
+
+*   [xgzlucario/githubhunt](https://github.com/xgzlucario/githubhunt) - 基于 AI Agent 的自然语言 Github 仓库搜索工具
 
 *   [vladzima/workflowy-mcp](https://github.com/vladzima/workflowy-mcp) - A Model Context Protocol (MCP) server that integrates WorkFlowy's outline and task management capabilities with LLM applications.
 
@@ -870,483 +1050,307 @@
 
 *   [mmin18/LayoutCast](https://github.com/mmin18/LayoutCast) - Cast android code and resource changes to the running application through ADB.
 
-## TypeScript
+## Go
 
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - 一个用于管理和切换 Claude Code 和 Codex 不同供应商配置的桌面应用
+*   [runs-on/cli](https://github.com/runs-on/cli) - CLI for RunsOn
 
-*   [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
+*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 
-*   [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
+*   [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) - Save Telegram files to multiple storage 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content.
 
-*   [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+*   [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
 
-*   [jacksteamdev/obsidian-mcp-tools](https://github.com/jacksteamdev/obsidian-mcp-tools) - Add Obsidian integrations like semantic search and custom Templater prompts to Claude or any MCP client.
+*   [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 
-*   [danield137/mcp-workflowy](https://github.com/danield137/mcp-workflowy) - An MCP server for workflowy
+*   [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for thousands of SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
 
-*   [thesamim/TickTickSync](https://github.com/thesamim/TickTickSync) -
+*   [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip) - cursor IDE enjoy VIP
 
-*   [fabien0102/ts-to-zod](https://github.com/fabien0102/ts-to-zod) - Generate zod schemas from typescript types/interfaces
+*   [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 
-*   [ZH1754629545/dida365-mcp-servers](https://github.com/ZH1754629545/dida365-mcp-servers) - 基于滴答官方文档生成的日程待办增删改查MCP服务
+*   [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 
-*   [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
+*   [usememos/telegram-integration](https://github.com/usememos/telegram-integration) - Memogram is an easy to use integration service for syncing messages and images from a Telegram bot into your Memos.
 
-*   [Hzao/PocketChest](https://github.com/Hzao/PocketChest) - Secure, serverless file and text sharing built on Cloudflare with large file support.
+*   [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
 
-*   [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+*   [whyiyhw/chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - 企业微信/微信 安全使用的 LLM 个人助手/客服, 也支持 dify 工作流
 
-*   [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+*   [saucer-man/wepush](https://github.com/saucer-man/wepush) - 利用企业微信应用消息向微信发送通知 https://saucer-man.com/operation\_and\_maintenance/707.html
 
-*   [akrava/gmail-tg-notifications](https://github.com/akrava/gmail-tg-notifications) - Simple telegram bot to forward emails from Gmail to any chat, channel or private group
+*   [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 
-*   [weiqinke/react-admin-nest](https://github.com/weiqinke/react-admin-nest) - React和Ant Design和 Nest.js 和 Mysql 构建的后台通用管理系统。持续更新。
+*   [Yohann0617/tgNetDisc](https://github.com/Yohann0617/tgNetDisc) - 🤖基于Telegram API，无限容量，不限制文件格式，不限制文件内容😏，文件都存储在Telegram☁云端，轻巧方便。上传成功会生成HTML、Markdown、BBCode三种形式的外链🔗，可以用来当做图床、文件下载url。
 
-*   [artuncolak/nest-react-admin](https://github.com/artuncolak/nest-react-admin) - Admin panel project made with NestJS & React
+*   [pwh-pwh/aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel) - 使用vercel的functions，将ai功能加入微信公众号
 
-*   [buqiyuan/nest-admin](https://github.com/buqiyuan/nest-admin) - NestJS CRUD for RESTful API 使用 NestJS + Mysql + Typeorm + Redis + JWT + Swagger 企业中后台管理系统项目RBAC权限管理(细粒度到按钮)、实现单点登录等...
+*   [ultrazg/xyz](https://github.com/ultrazg/xyz) - 小宇宙FM API
 
-*   [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
+*   [lw396/ChatCopilot](https://github.com/lw396/ChatCopilot) - ChatCopilot 是一款用 golang 实现的获取微信聊天记录并支持实时存储到数据库的工具，支持在 MacOS 上运行
 
-*   [Yuiffy/BiliGPT](https://github.com/Yuiffy/BiliGPT) - BiliGPT 哔哩哔哩 · 视频内容一键总结
+*   [dong9205/wechat\_hook](https://github.com/dong9205/wechat_hook) - 通过HTTP接口微信发送消息
 
-*   [yyong008/fastapi-antd-admin](https://github.com/yyong008/fastapi-antd-admin) - 🚀 fast-antd-admin is a website building solution based on Python FastAPI、Antd、SQLAchemly. (WIP)
+*   [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 
-*   [binkuolo/fastapi-ui-ant](https://github.com/binkuolo/fastapi-ui-ant) - fastapi后台前端react项目，基于Ant Design Pro实现
+*   [ceph/ceph-csi](https://github.com/ceph/ceph-csi) - CSI driver for Ceph
 
-*   [metisjs/metis-ui](https://github.com/metisjs/metis-ui) - A React Tailwind UI Component Library
+*   [radondb/radondb-mysql-kubernetes](https://github.com/radondb/radondb-mysql-kubernetes) - Open Source，High Availability Cluster，based on MySQL
 
-*   [europeana/metis-ui](https://github.com/europeana/metis-ui) - Metis frontend UI
+*   [datacharmer/dbdeployer](https://github.com/datacharmer/dbdeployer) - DBdeployer is a tool that deploys MySQL database servers easily.
 
-*   [lc0rp/KeepSidian](https://github.com/lc0rp/KeepSidian) -
+*   [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes environments.
 
-*   [daledesilva/obsidian\_google-keep-import](https://github.com/daledesilva/obsidian_google-keep-import) - Imports Google Keep backup files
+*   [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in < 60s 🚀
 
-*   [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
+*   [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 
-*   [WebDB-App/app](https://github.com/WebDB-App/app) - Efficient Database IDE
+*   [uouuou/clash-tracing](https://github.com/uouuou/clash-tracing) -
 
-*   [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
+*   [yangchuansheng/clash-tracing](https://github.com/yangchuansheng/clash-tracing) - Clash Tracing Dashboard
 
-*   [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
+*   [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 
-*   [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
+*   [butoften/array](https://github.com/butoften/array) - develop golang，similar to javascript es6+
 
-*   [lim-f/vue-lim](https://github.com/lim-f/vue-lim) - Make Vue easier to write.
+*   [HuanMeng233/weread\_downloader](https://github.com/HuanMeng233/weread_downloader) - 学习
 
-*   [tnfe/clean-state](https://github.com/tnfe/clean-state) - 🐻 A pure and compact state manager, using React-hooks native implementation, automatically connect the module organization architecture. 🍋
+*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 
-*   [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
+*   [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 
-*   [dgarrett/phone-to-roam-to-obsidian](https://github.com/dgarrett/phone-to-roam-to-obsidian) - Unofficial phonetoroam.com plugin for Obsidian
+*   [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code
 
-*   [shady2k/logseq-inbox-telegram-plugin](https://github.com/shady2k/logseq-inbox-telegram-plugin) -
+*   [tickstep/aliyunpan](https://github.com/tickstep/aliyunpan) - 阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
 
-*   [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) -
+*   [KDF5000/nomo](https://github.com/KDF5000/nomo) - Not only Memon, store your memo into Notion or Lark Doc with lark bot
 
-*   [zyjGraphein/Obsidian-EagleBridge](https://github.com/zyjGraphein/Obsidian-EagleBridge) - Obsidian-EagleBridge is a plugin for Obsidian that allows you to connect to the Eagle.  This plugin includes the following functionalities:  - Quick eagle attachment navigation in Obsidian - Tag synchronization - File viewing - Attachment management
+*   [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 
-*   [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug) - A DAP-compatible JavaScript debugger. Used in VS Code, VS, + more
+*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 
-*   [yenche123/liubai](https://github.com/yenche123/liubai) - Supercharge yourself!
+*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - Browser-based management platform of machine, database (mysql pgsql oracle sqlserver Gauss sqlite), redis(standalone sentinel cluster), mongo, Es unified management and operation platform. (web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo、Es统一管理操作平台)
 
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 
-*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 
-*   [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - All-In-One Full-Stack Environment Management Tool. Help developers quickly set up a local development environment. Core Modules: Ollama, DeepSeek, Apache, Nginx, Caddy, Tomcat. MySQL, MariaDB, PostgreSQL, MongoDB. Mailpit. PHP, Java, NodeJS, Python, Go, Rust, Erlang, Ruby. Redis, RabbitMQ. Elasticsearch. DNS Server, FTP Server
+*   [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 
-*   [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+*   [iwannay/jiacrontab](https://github.com/iwannay/jiacrontab) - 简单可信赖的任务管理工具
 
-*   [ajnart/dcm](https://github.com/ajnart/dcm) - DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clicks!
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 
-*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
+*   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 
-*   [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
+*   [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 
-*   [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
+*   [brahma-adshonor/gohook](https://github.com/brahma-adshonor/gohook) - a funny library to hook golang function at runtime
 
-*   [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles, shells, and terminals.
+*   [yasuo11/JVM-Implemented-by-Go](https://github.com/yasuo11/JVM-Implemented-by-Go) - 从0开始用Go语言实现一个简易版的Java虚拟机
 
-*   [codercup/unibest](https://github.com/codercup/unibest) - unibest - 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。
+*   [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 
-*   [lkxian888/postcss-px-to-viewport-8-plugin](https://github.com/lkxian888/postcss-px-to-viewport-8-plugin) - 解决 postcss-px-to-viewport 控制台输出: postcss.plugin was deprecated. Migration guide:
+*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 
-*   [baiy/Ctool](https://github.com/baiy/Ctool) - 程序开发常用工具 chrome / edge / firefox / utools / windows / linux / mac
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
-*   [hymhub/css-to-tailwind](https://github.com/hymhub/css-to-tailwind) - Convert CSS code to Tailwindcss syntax in real time
+*   [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
 
-*   [ant-design/x](https://github.com/ant-design/x) - Craft AI-driven interface effortlessly🤖
+*   [parkomat/parkomat](https://github.com/parkomat/parkomat) - DNS + Web + WebDav server in one package.
 
-*   [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
+*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 
-*   [trentlee0/mverything-plus](https://github.com/trentlee0/mverything-plus) - 一个文件搜索的 uTools 插件，Mac 上的文件查找工具
+*   [indes/flowerss-bot](https://github.com/indes/flowerss-bot) - A telegram bot  for rss reader. 一个支持应用内阅读的 Telegram RSS Bot。
 
-*   [udecode/zustand-x](https://github.com/udecode/zustand-x) - Zustand store factory for a best-in-class developer experience.
+*   [indes/telepush](https://github.com/indes/telepush) - 可一键部署的Vercel Telegram消息推送机器人
 
-*   [lim-f/react-lim](https://github.com/lim-f/react-lim) - Make React easier to write.
+*   [archive-go/ArchiveBot](https://github.com/archive-go/ArchiveBot) - 一个用来备份链接内容的 Telegram Bot
 
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
+*   [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 
-*   [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for https://github.com/fatedier/frp server and client management, which makes this project a Cloudflare Tunnel/Tailscale Funnel/Ngork platform and agent open source alternative
+*   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 
-*   [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
+*   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 
-*   [xun082/create-neat](https://github.com/xun082/create-neat) - 🚀🚀🚀 Developed a front-end scaffold based on PNPM and Turborepo, aimed at quickly creating various types of projects for users.
+*   [CodisLabs/codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
 
-*   [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+*   [yoozoo/protoapi](https://github.com/yoozoo/protoapi) - High productivity API framework with error handling in mind
 
-*   [EasyChris/obsidian-to-notion](https://github.com/EasyChris/obsidian-to-notion) - Share obsidian markdown file to notion and generate notion share link    同步obsdian文件到notion，并生成notion分享链接，可以方便的分享obsidian的文件。
+*   [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 
-*   [emeraldwalk/vscode-runonsave](https://github.com/emeraldwalk/vscode-runonsave) - Visual Studio Code extension to run commands whenever a file is saved.
+*   [qintongbaba/jvm](https://github.com/qintongbaba/jvm) -
 
-*   [terwer/siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher) - ✈️ Publish articles from siyuan-note to platforms such as Yuque, etc.Free and open source. 将思源笔记的文章发布到语雀等平台，开源免费。
+*   [huichen/wukong](https://github.com/huichen/wukong) - 高度可定制的全文搜索引擎
 
-*   [wenqiyun/nest-admin](https://github.com/wenqiyun/nest-admin) - 采用nestjs typeorm vue开发的一套权限管理系统
+*   [httprunner/httprunner](https://github.com/httprunner/httprunner) - HttpRunner 是一款开源的 API/UI 测试框架，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。
 
-*   [LeekHub/leek-fund](https://github.com/LeekHub/leek-fund) - :chart\_with\_upwards\_trend: 韭菜盒子VSCode插件，可以看股票、基金、期货等实时数据。 Leek box - Monitor the real-time data of stock & fund & future in VSCode, Be the most excellent investment extension.
+*   [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
 
-*   [liyupi/sql-mother](https://github.com/liyupi/sql-mother) - 程序员鱼皮原创项目，免费的闯关交互式 SQL 自学教程网站，从零基础到进阶，带你掌握常用 SQL 语法（MySQL、SQLite、PostgreSQL）、快速学习 SQL 和数据库。支持在线SQL编辑器、实时查询结果、语法高亮、SQL运行广场等功能。纯前端实现，简单易学~
+## Dart
 
-*   [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
+*   [bytedance/flutter\_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance
 
-*   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+*   [Chevey339/kelivo](https://github.com/Chevey339/kelivo) - A Flutter LLM Chat Client. Support Android & iOS & Harmony Next.
 
-*   [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
+*   [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
 
-*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+*   [ionicfirebaseapp/getwidget](https://github.com/ionicfirebaseapp/getwidget) - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
 
-*   [FightingDesign/fighting-design](https://github.com/FightingDesign/fighting-design) - 🌈 Fighting Design 可在 vue3 应用程序中快速构建交互界面，看起来还不错。(🌈 Fighting design can quickly build interactive interfaces in vue3 applications, which looks good.)
+*   [fluttersdk/wind](https://github.com/fluttersdk/wind) - A Flutter plugin designed with a utility-first approach, inspired by Tailwind CSS, for building responsive, modular, and efficient UI components.
 
-*   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
+*   [Tencent/mxflutter](https://github.com/Tencent/mxflutter) - 使用 TypeScript/JavaScript 来开发 Flutter 应用的框架。
 
-*   [Tyh2001/vitepress-template](https://github.com/Tyh2001/vitepress-template) - 🍀 Vitepress 模板，开箱即用，快速搭建你的静态网站和博客。（🍀 Vitepress template, out of the box, quickly build your static website and blog.）
+*   [Demizo/Daily\_You](https://github.com/Demizo/Daily_You) - Every day is worth remembering...
 
-*   [karelklima/workflowy](https://github.com/karelklima/workflowy) - WorkFlowy API for Deno and Node
+*   [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 
-*   [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Template for Obsidian community plugins with build configuration and development best practices.
+*   [nightmare-space/code\_lfa](https://github.com/nightmare-space/code_lfa) - Port VS Code to Android and support local operation
 
-*   [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+*   [BFWXKJGS/AlistClient](https://github.com/BFWXKJGS/AlistClient) - AList Client for iOS and Android. / 基于 AList api 开发的 Android 和 iOS 客户端
 
-*   [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
+*   [lollipopkit/flutter\_server\_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 
-*   [leonmeka/sortql-cli](https://github.com/leonmeka/sortql-cli) - A file management automation tool with SQL-like syntax.
+*   [Xiang-cd/THU-downloader](https://github.com/Xiang-cd/THU-downloader) - 一个支持UI界面的清华云盘个人仓库批量下载, 链接批量下载，邮箱邮件批量下载工具，为毕业生批量迁移清华云盘内容和备份邮箱提供便利。
 
-*   [sunls24/nextai](https://github.com/sunls24/nextai) - 一个简单而优雅的 AI 聊天程序
+*   [yuexunshi/todo](https://github.com/yuexunshi/todo) - 基于玩安卓api的todo
 
-*   [kahosan/acgn-collection](https://github.com/kahosan/acgn-collection) - 使用 Bangumi API 的第三方便捷收藏夹
+*   [TolyFx/toly\_ui](https://github.com/TolyFx/toly_ui) - The All-Platform Responsive UI Library For Flutter.
 
-*   [Azzellz/pomelo](https://github.com/Azzellz/pomelo) - Based on Bunjs/Nodejs and Aria2 resource download tool , flexible configuration , support for custom resource parsing and some built-in resource parsing such as RSS
+*   [Yuzopro/opengit\_flutter](https://github.com/Yuzopro/opengit_flutter) - OpenGit基于Flutter的Github客户端，支持Android和iOS。项目中涉及到BloC、Redux、国际化、多主题以及Github相关信息的查看等。
 
-*   [Victor-Sava/LuminaPay](https://github.com/Victor-Sava/LuminaPay) - LuminaPay is an innovative cryptocurrency payment platform designed to provide comprehensive payment solutions for businesses and individual users. It supports various cryptocurrencies, offers detailed financial reporting, and includes wallet blacklist management. LuminaPay is open source and encourages community contributions to enhance its featur
+*   [springeye/fterm](https://github.com/springeye/fterm) - fterm是一款基于Flutter开发的跨平台终端工具
 
-*   [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
+*   [crazycodeboy/openai\_flutter](https://github.com/crazycodeboy/openai_flutter) - A openai library for flutter,it works on iOS,Android,Web,macOS and Windows.
 
-*   [OpenAssistantGPT/OpenAssistantGPT](https://github.com/OpenAssistantGPT/OpenAssistantGPT) - A Community Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
+*   [fishyer/demo-flutter](https://github.com/fishyer/demo-flutter) -
 
-*   [appdev/siyuan-unlock](https://github.com/appdev/siyuan-unlock) - 思源笔记免登录版本；可以不登录使用同步功能
+*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
-*   [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 好用的 Canvas 引擎。Easy-to-Use Canvas Engine.
+*   [rrousselGit/provider](https://github.com/rrousselGit/provider) - InheritedWidgets, but simple
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+*   [boeledi/Streams-Block-Reactive-Programming-in-Flutter](https://github.com/boeledi/Streams-Block-Reactive-Programming-in-Flutter) - Sample application to illustrate the notions of Streams, BLoC and Reactive Programming in Flutter
 
-*   [TheGreatBonnie/AIPoweredUIComponentsGenerator](https://github.com/TheGreatBonnie/AIPoweredUIComponentsGenerator) -
+*   [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
 
-*   [lzwme/git-repo-sync](https://github.com/lzwme/git-repo-sync) -
+*   [xuelongqy/flutter\_easy\_refresh](https://github.com/xuelongqy/flutter_easy_refresh) - A flutter widget that provides pull-down refresh and pull-up load.
 
-*   [meteorlxy/vssue](https://github.com/meteorlxy/vssue) - :mailbox: A Vue-powered Issue-based Comment Plugin
+*   [fluttercandies/extended\_image](https://github.com/fluttercandies/extended_image) - A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc.
 
-*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
+*   [cfug/flutter.cn](https://github.com/cfug/flutter.cn) - Flutter CN docs translation plan, get started from the wiki: https://github.com/cfug/flutter.cn/wiki
 
-*   [yanzhangshuai/lightweight-deploy-blogs](https://github.com/yanzhangshuai/lightweight-deploy-blogs) -
+*   [nutspet/findmydog](https://github.com/nutspet/findmydog) - 寻狗小程序的Flutter原生版本，完全开源，已经在苹果和安卓市场上架。
 
-*   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+*   [JadenZhong/wechat-flutter](https://github.com/JadenZhong/wechat-flutter) - 撸一款Flutter版『微信』
 
-*   [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+*   [alibaba/fish-redux](https://github.com/alibaba/fish-redux) - An assembled flutter application framework.
 
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds\_
+*   [best-flutter/flutter\_swiper](https://github.com/best-flutter/flutter_swiper) - The best swiper for flutter , with multiple layouts, infinite loop. Compatible with Android & iOS.
 
-*   [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+*   [jayden320/flutter\_shuqi](https://github.com/jayden320/flutter_shuqi) - 高仿书旗小说 Flutter版，支持iOS、Android
 
-*   [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
+*   [HWHUAN/Flutter\_bwkd](https://github.com/HWHUAN/Flutter_bwkd) - 本项目主要是用Flutter去实现“百万看点”app
 
-*   [red0orange/obsidian-webdav-file-explorer](https://github.com/red0orange/obsidian-webdav-file-explorer) -
+*   [toly1994328/Flutter\_Seven\_Day](https://github.com/toly1994328/Flutter_Seven_Day) - Flutter七日游
 
-*   [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
+*   [javiercbk/json\_to\_dart](https://github.com/javiercbk/json_to_dart) - Library that generates dart classes from json strings
 
-*   [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 Screenshots, word marking, OCR, AI, translation software || 截图、划词、文字识别、AI、翻译软件
+*   [CarGuo/gsy\_github\_app\_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex    、同款React Native版本 ： https://github.com/CarGuo/GSYGithubApp 、原生 kotlin 版本 https://github.com/CarGuo/GSYGithubAppKotlin
 
-*   [cloudreve/frontend](https://github.com/cloudreve/frontend) - Frontend of Cloudreve.
+*   [iampawan/PokemonApp](https://github.com/iampawan/PokemonApp) - Pokemon App with animations and beautiful UI
 
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+*   [iampawan/Flutter-Instagram-UI-Clone](https://github.com/iampawan/Flutter-Instagram-UI-Clone) - Instagram Ui Clone made using Flutter.
 
-*   [Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale) - GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.
+*   [iampawan/FlutterWhatsAppClone](https://github.com/iampawan/FlutterWhatsAppClone) - Building a WhatsApp Clone in Flutter.
 
-*   [collabnix/redisinsight-docker-extension](https://github.com/collabnix/redisinsight-docker-extension) - Running Redis GUI using RedisInsight Docker Extension
+*   [iampawan/FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) - \[Example APPS] Basic Flutter apps, for flutter devs.
 
-*   [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、探索版、K1思考模型、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
+*   [aicareles/GitClub-Flutter](https://github.com/aicareles/GitClub-Flutter) - 极客日报的flutter版本
 
-*   [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
+*   [yubo725/flutter-osc](https://github.com/yubo725/flutter-osc) - 基于Google Flutter的开源中国客户端，支持Android和iOS。
 
-*   [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
+*   [aaronoe/FlutterCinematic](https://github.com/aaronoe/FlutterCinematic) - Flutter clone of my "Cinematic" App
 
-*   [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+*   [xujiyou/zhihu-flutter](https://github.com/xujiyou/zhihu-flutter) - Flutter 高仿知乎 UI，非常漂亮，也非常流畅。
 
-*   [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
+*   [CodemateLtd/FlutterMates](https://github.com/CodemateLtd/FlutterMates) - A quick sample app on how to implement a friend list and a profile page in Flutter.
 
-*   [GarinZ/link-map](https://github.com/GarinZ/link-map) - Tree style tab mananger for Chrome and Edge, Tabs Outliner alternative
+*   [trentpiercy/trace](https://github.com/trentpiercy/trace) - Modern crypto portfolio & market explorer. Built with @Flutter
 
-*   [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+*   [jesusrp98/spacex-go](https://github.com/jesusrp98/spacex-go) - Simple yet powerful, open-source SpaceX launch tracker.
 
-*   [webfansplz/vite-plugin-vue-devtools](https://github.com/webfansplz/vite-plugin-vue-devtools) - Vite + Vue DevTools = DX  🔥
+*   [wakahuula/xkcdViewer](https://github.com/wakahuula/xkcdViewer) - A beautiful xkcd viewer app written with Flutter
 
-*   [labring/laf](https://github.com/labring/laf) - Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring innovative ideas to life with ease.
+*   [RafaelBarbosatec/flutter\_news](https://github.com/RafaelBarbosatec/flutter_news) - News application developed for practice, learning and testing the potential of this powerful Framework Flutter.
 
-*   [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+*   [MSzalek-Mobile/weight\_tracker](https://github.com/MSzalek-Mobile/weight_tracker) -
 
-*   [labring/sealos](https://github.com/labring/sealos) - The Intelligent Cloud OS. Use AI to automate the full lifecycle of your development and production environments, from provisioning custom dev stacks and deploying self-optimizing databases (MySQL, PostgreSQL, Redis, MongoDB) to running any Dockerized service.
+*   [huextrat/CryptoShadow](https://github.com/huextrat/CryptoShadow) - CryptoCurrency Tracker for Android & iOS built with @flutter
 
-*   [niudai/VSCode-Zhihu](https://github.com/niudai/VSCode-Zhihu) - Zhihu extension built on vscode.
+*   [huextrat/Taskist](https://github.com/huextrat/Taskist) - Flutter ToDo App with Firebase
 
-*   [alangrainger/obsidian-frontmatter-modified-date](https://github.com/alangrainger/obsidian-frontmatter-modified-date) - Automatically update a frontmatter/YAML modified date field
+*   [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
 
-*   [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
+*   [akindone/flutterMarquee](https://github.com/akindone/flutterMarquee) -
 
-*   [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
+*   [OpenFlutter/flutter\_navigation\_bar](https://github.com/OpenFlutter/flutter_navigation_bar) - 解决官方例子会不停销毁重建的问题
 
-*   [Redwinam/obsidian-cubox](https://github.com/Redwinam/obsidian-cubox) -
+*   [OpenFlutter/mmkv\_flutter](https://github.com/OpenFlutter/mmkv_flutter) - get or set persistent storage value based on MMKV framework.
 
-*   [LostPaul/obsidian-folder-notes](https://github.com/LostPaul/obsidian-folder-notes) - Create notes within folders that can be accessed without collapsing the folder, similar to the functionality offered in Notion.
+*   [OpenFlutter/flutter\_gesture\_password](https://github.com/OpenFlutter/flutter_gesture_password) - flutter\_gesture\_password
 
-*   [Tasin5541/NextJs-Messenger-Clone](https://github.com/Tasin5541/NextJs-Messenger-Clone) - A messenger clone built with NextJs 13 (app router), MongoDB, Prisma, Tailwind CSS, Pusher and Next-Auth
+*   [OpenFlutter/flutter\_screenutil](https://github.com/OpenFlutter/flutter_screenutil) - Flutter screen adaptation, font adaptation, get screen information
 
-*   [HiDeoo/starlight-obsidian](https://github.com/HiDeoo/starlight-obsidian) - Starlight plugin to publish Obsidian vaults
+*   [OpenFlutter/PullToRefresh](https://github.com/OpenFlutter/PullToRefresh) - Flutter相关的项目QQ:277155832 Email:277155832@qq.com
 
-*   [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
+*   [fluttercandies/flutter\_image\_compress](https://github.com/fluttercandies/flutter_image_compress) - flutter image compress
 
-*   [pwwang/vscode-gptcommit](https://github.com/pwwang/vscode-gptcommit) - Automated git commit messages using GPT models via gptcommit for VS Code.
+*   [OpenFlutter/fluwx](https://github.com/OpenFlutter/fluwx) - Flutter版微信SDK.WeChat SDK for flutter.
 
-*   [everettjf/vscode-filter-line](https://github.com/everettjf/vscode-filter-line) - vscode extension for filter line by strings or regular expressions
+*   [OpenFlutter/flutter\_ok\_image](https://github.com/OpenFlutter/flutter_ok_image) - a flutter image widget to load image.
 
-*   [Rnbsov/Omnivore-Telegram-Bot](https://github.com/Rnbsov/Omnivore-Telegram-Bot) - Telegram bot to help you with your findings 🚀
+*   [OpenFlutter/flutter\_listview\_loadmore](https://github.com/OpenFlutter/flutter_listview_loadmore) - flutter loadmore demos
 
-*   [iyjian/dev-raven](https://github.com/iyjian/dev-raven) - dev raven
+*   [OpenFlutter/flutter\_oktoast](https://github.com/OpenFlutter/flutter_oktoast) - Toast library for Flutter.
 
-*   [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
+*   [google/protobuf.dart](https://github.com/google/protobuf.dart) - Runtime library for Dart protobufs
 
-*   [fedtop/dev-go](https://github.com/fedtop/dev-go) - 🤖 一个专属于开发者的超级无敌浏览器扩展插件。(A super unbeatable browser extension plugin for developers.)💪
+*   [lukepighetti/fluro](https://github.com/lukepighetti/fluro) - Fluro is a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear route definitions.
 
-*   [gnattu/BBFever](https://github.com/gnattu/BBFever) - 通过RSS订阅聚合器自动/批量下载Bilibili视频
+*   [2d-inc/HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything) - Flutter Launch Timeline Demo
 
-*   [connectshark/telegram-bot-vercel-serverless-template](https://github.com/connectshark/telegram-bot-vercel-serverless-template) - Here is a simple Telegram bot template specifically designed for beginners
+*   [luhenchang/flutter\_study](https://github.com/luhenchang/flutter_study) - 三天学会Flutter
 
-*   [emilast/vscode-logfile-highlighter](https://github.com/emilast/vscode-logfile-highlighter) - A Visual Studio Code extension for color highlighting log files
+*   [songxiaoliang/visitor-flutter](https://github.com/songxiaoliang/visitor-flutter) - flutter 视频类客户端
 
-*   [twilio/twilio-node](https://github.com/twilio/twilio-node) - Node.js helper library
+*   [alibaba/flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
 
-*   [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
+*   [AweiLoveAndroid/Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning) - :octocat::fire: :+1:  :star2:  :star: :star::star: Flutter all you want.Flutter install,flutter samples,Flutter projects,Flutter plugin,Flutter problems,Dart codes,etc.Flutter安装和配置，Flutter开发遇到的难题，Flutter示例代码和模板，Flutter项目实战，Dart语言学习示例代码。
 
-*   [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
+*   [OpenFlutter/Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) - FlutterDemo合集，今天你fu了吗
 
-*   [edrlab/thorium-reader](https://github.com/edrlab/thorium-reader) - A cross platform desktop reading app, based on the Readium Desktop toolkit
+*   [HxBreak/new\_trend](https://github.com/HxBreak/new_trend) - 又一个Flutter App，涵盖常见技术点。
 
-*   [jonstodle/obsius-obsidian-plugin](https://github.com/jonstodle/obsius-obsidian-plugin) - Easily publish notes to the web  This plugin integrates with obsius.site to publish markdown notes on the web.
+*   [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapters, etc.
 
-*   [eightHundreds/obsidian-dida-sync](https://github.com/eightHundreds/obsidian-dida-sync) - 滴答清单同步到obsidian(ticktick sync to obsidian)
+*   [brianegan/scoped\_model](https://github.com/brianegan/scoped_model) - A Widget that passes a Reactive Model to all of it's children
 
-*   [xiaoguyu/wechatDownload](https://github.com/xiaoguyu/wechatDownload) - 微信公号文章下载工具
+*   [hanxu317317/flutter\_plan\_demo](https://github.com/hanxu317317/flutter_plan_demo) - flutter\_plan\_demo
 
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [heruijun/flutter\_boss](https://github.com/heruijun/flutter_boss) - flutter仿BOSS直聘（二），大前端技术实现
 
-*   [lazyloong/obsidian-fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese) -
+*   [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
-*   [sollidy/telegram-bot-vercel-boilerplate](https://github.com/sollidy/telegram-bot-vercel-boilerplate) - 📦 Telegram Bot Starter kit based on Node.js and Telegraf for deploying on Vercel.
+*   [MissYoung/Flutter\_shop](https://github.com/MissYoung/Flutter_shop) - 全网最全flutter 学习案例 仿闲鱼（开源版）
 
-*   [AprilNEA/AChat](https://github.com/AprilNEA/AChat) - 🌊 AChat - An open-source/self-hosted/local-first AI platform, designed for enterprises and teams, perfectly combining powerful local processing capabilities with seamless remote synchronization.
+*   [xumaohuai/Flutter-CuriosityApp](https://github.com/xumaohuai/Flutter-CuriosityApp) - Flutter高仿好奇心日报
 
-*   [meetqy/rao-pics](https://github.com/meetqy/rao-pics) - :electron: 帮助你远程访问 Eagle 的素材库。
+*   [flutterchina/flukit](https://github.com/flutterchina/flukit) -  A Flutter UI Kit（一个 Flutter UI组件库），包含 ScaleView, Swiper, PullRefresh, WaterMark, GradientCircularProgressIndicator...
 
-*   [phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
+*   [Sky24n/flutter\_wanandroid](https://github.com/Sky24n/flutter_wanandroid) - 🔥🔥🔥  基于Google Flutter的WanAndroid客户端，支持Android和iOS。包括BLoC、RxDart 、国际化、主题色、启动页、引导页！
 
-*   [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor, open-source Web rich text editor 开源 Web 富文本编辑器
+*   [grpc/grpc-dart](https://github.com/grpc/grpc-dart) - The Dart language implementation of gRPC.
 
-*   [SebastianMC/obsidian-custom-sort](https://github.com/SebastianMC/obsidian-custom-sort) - Take full control over the order and sorting of folders and notes in File Explorer in Obsidian
-
-*   [xpgo/obsidian-folder-note-plugin](https://github.com/xpgo/obsidian-folder-note-plugin) - Plugin to add description note to a folder for Obsidian.
-
-*   [aidenlx/alx-folder-note](https://github.com/aidenlx/alx-folder-note) - Add description, summary, and more info to folders with folder notes.
-
-*   [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.
-
-*   [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
-
-*   [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
-
-*   [b-yp/logseq-notion-sync](https://github.com/b-yp/logseq-notion-sync) - Sync Logseq content to Notion
-
-*   [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
-
-*   [aisuda/amis-editor-demo](https://github.com/aisuda/amis-editor-demo) - amis 可视化编辑器示例 https://aisuda.github.io/amis-editor-demo
-
-*   [alibaba/lowcode-demo](https://github.com/alibaba/lowcode-demo) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
-
-*   [staringos/mtbird](https://github.com/staringos/mtbird) - 💻 无代码编辑器，无需代码生成小程序、H5页面和网站 ，拖拽操作、样式配置快速生成页面应用，数据可视化接入，支持定制业务拓展插件. StaringOS MtBird is a low-code platform for HTML Pages 、 Websites. We help users build pages without code or less code.
-
-*   [Tencent/tmagic-editor](https://github.com/Tencent/tmagic-editor) -
-
-*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-
-*   [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
-
-*   [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-
-*   [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-
-*   [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).
-
-*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
-
-*   [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
-
-*   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
-
-*   [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) - BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
-
-*   [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) -
-
-*   [s0/git-publish-subdir-action](https://github.com/s0/git-publish-subdir-action) - GitHub Action to push a subdirectory as a branch to any git repo (e.g. for GitHub Pages)
-
-*   [EINDEX/logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) - Logseq plugin for sync Memos to logseq.
-
-*   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
-
-*   [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
-
-*   [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - AI PDF chatbot agent built with LangChain & LangGraph
-
-*   [fishyer/code-xingqiu](https://github.com/fishyer/code-xingqiu) - 🪐 编程导航知识星球，帮助你学习编程的小圈子。配置公开，大家可以参考该项目做出自己的文档网站。
-
-*   [liyupi/code-xingqiu](https://github.com/liyupi/code-xingqiu) - 🪐 编程导航知识星球，帮助你学习编程的小圈子。配置公开，大家可以参考该项目做出自己的文档网站。
-
-*   [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-
-*   [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL, MongoDB, MSSQL, Rest API, Hugging Face, Redis, etc. Automate workflows with schedule or webhook. Open source Retool.
-
-*   [lcjnil/github-notion-star](https://github.com/lcjnil/github-notion-star) -
-
-*   [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
-
-*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-
-*   [xudaolong/memos-desktop](https://github.com/xudaolong/memos-desktop) - Memos client built on electron cross-end framework
-
-*   [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
-
-*   [prompt-engineering/chat-flow](https://github.com/prompt-engineering/chat-flow) -  ChatFlow  - AI-based chat flow framework, personalize your ChatGPT workflows and build the road to automation。ChatFlow —— 打造个性化 ChatGPT 流程，构建自动化之路
-
-*   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
-
-*   [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
-
-*   [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
-
-*   [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-
-*   [bramses/chatgpt-md](https://github.com/bramses/chatgpt-md) - A (nearly) seamless integration of ChatGPT into Obsidian.
-
-*   [joethei/obsidian-rss](https://github.com/joethei/obsidian-rss) - Read RSS Feeds from inside Obsidian
-
-*   [JimmyLv/telegroam](https://github.com/JimmyLv/telegroam) -  Telegroam: a bridge between Roam and Telegram. 🤩 When Roam Research receives one message, it automatically returns a previously random note 😁, based on https://github.com/mbrock/telegroam
-
-*   [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - Unlock your automation needs by interacting with your notes in Obsidian over a secure REST API.
-
-*   [PicGo/vs-picgo](https://github.com/PicGo/vs-picgo) - A VSCode plugin of PicGo
-
-*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-
-*   [AlexW00/obsidian-note-linker](https://github.com/AlexW00/obsidian-note-linker) - 🔗 Automatically link your Obsidian notes.
-
-*   [PicGo/picgo-plugin-pic-migrater](https://github.com/PicGo/picgo-plugin-pic-migrater) - :truck:A PicGo plugin for pictures in markdown files migrating from one picBed to another one.
-
-*   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-
-*   [yabostone/picgo-plugin-rclone](https://github.com/yabostone/picgo-plugin-rclone) - 调用rclone命令实现上传
-
-*   [FallenMax/smart-toc](https://github.com/FallenMax/smart-toc) - A Chrome extension for auto-generating a table of contents
-
-*   [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
-
-*   [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
-
-*   [zaki-yama/copy-title-and-url-as-markdown](https://github.com/zaki-yama/copy-title-and-url-as-markdown) - Chrome Extension: Quickly copy the title & url of current tab as Markdown style
-
-*   [fishyer/project-nextjs-blog](https://github.com/fishyer/project-nextjs-blog) -
-
-*   [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
-
-*   [GodDown1V4/obsidian-yaml-database](https://github.com/GodDown1V4/obsidian-yaml-database) - 像notion database一样浏览编辑文档的YAML属性
-
-*   [zhaohongxuan/obsidian-weread-plugin](https://github.com/zhaohongxuan/obsidian-weread-plugin) - Obsidian Weread Plugin is a plugin to sync Weread(微信读书) hightlights and annotations into your Obsidian Vault.
-
-*   [yesmeck/waque](https://github.com/yesmeck/waque) - \[不再维护]同步本地 Markdown 文档到语雀
-
-*   [chick26/obsidian-sync-yuque](https://github.com/chick26/obsidian-sync-yuque) - Obsidian Sync Yuque \[obsidian 同步文档到语雀插件]
-
-*   [unix/aliyun-logs](https://github.com/unix/aliyun-logs) - 阿里云日志服务 SDK
-
-*   [H5-Dooring/dooringx](https://github.com/H5-Dooring/dooringx) - 快速高效搭建可视化拖拽平台
-
-*   [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
-
-*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-
-*   [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian.
-
-*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
-
-*   [vanadium23/obsidian-advanced-new-file](https://github.com/vanadium23/obsidian-advanced-new-file) - Create file in chosen folder
-
-*   [mohuishou/utools](https://github.com/mohuishou/utools) - utools 插件，utools api, chrome历史记录搜索、vscode历史项目搜索、otp两步验证，iconfont图标搜索下载、语雀搜索等
-
-*   [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
-
-*   [Quorafind/Memos-Extension](https://github.com/Quorafind/Memos-Extension) - A Google Chrome plugin for Obsidian Memos
-
-*   [coddingtonbear/obsidian-web](https://github.com/coddingtonbear/obsidian-web) - Connect your web browser with your notes in Obsidian.
-
-*   [akosbalasko/yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
-
-*   [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - TidGi is an privacy-in-mind, automated, auto-git-backup, freely-deployed knowledge management Desktop note app, based on Tiddlywiki, with REST API for web-clipping and Anki connect. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details)
-
-*   [hyrijk/logseq-plugin-block-to-page](https://github.com/hyrijk/logseq-plugin-block-to-page) -
-
-*   [OBKoro1/autoCommit](https://github.com/OBKoro1/autoCommit) - 这是一个可以在任意时间范围自动提交commit的VSCode插件觉得插件不错的话，点击右上角给个Star⭐️呀~
-
-*   [aleksey-rezvov/obsidian-local-images](https://github.com/aleksey-rezvov/obsidian-local-images) -
-
-*   [kometenstaub/metadata-extractor](https://github.com/kometenstaub/metadata-extractor) - Obsidian Plugin that provides metadata export for use with third-party apps.
-
-*   [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri) - Advanced modes for Obsidian URI
-
-*   [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
-
-*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
-
-*   [rowthan/pagenote](https://github.com/rowthan/pagenote) - 超简单的网页关键词高亮、标注SDK、能把笔记留在网页里。
-
-*   [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
-
-*   [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
-
-*   [YaoZeyuan/zhihuhelp](https://github.com/YaoZeyuan/zhihuhelp) - 基于node\&typescript重写知乎助手
-
-*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
-
-*   [thx/rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
-
-*   [jeneser/ionic-super-bar](https://github.com/jeneser/ionic-super-bar) - Transparent statusBar and awesome toolBar DEMO in ionic
-
-*   [phodal/growth-ionic](https://github.com/phodal/growth-ionic) - \[v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
+*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Kotlin
 
@@ -3593,10 +3597,6 @@
 *   [Freelander/Android\_Data](https://github.com/Freelander/Android_Data) - Some Android learning materials, hoping to help you learn Android development.
 
 *   [tiann/understand-plugin-framework](https://github.com/tiann/understand-plugin-framework) - demos to help understand plugin framwork
-
-*   [android-cn/android-open-project-demo](https://github.com/android-cn/android-open-project-demo) - Demo of android open source project, 微信公众号:codekk, 网站:
-
-*   [cglib/cglib](https://github.com/cglib/cglib) - cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access.
 
 ## Swift
 
