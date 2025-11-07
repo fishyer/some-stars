@@ -462,7 +462,7 @@
 
 *   [dongguaguaguagua/zhihu\_obsidian](https://github.com/dongguaguaguagua/zhihu_obsidian) - Zhihu on Obsidian | 知乎 Obsidian 插件
 
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - 一个用于管理和切换 Claude Code 和 Codex 不同供应商配置的桌面应用
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop app for managing and switching provider configurations & MCP servers for Claude Code and Codex.
 
 *   [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 
