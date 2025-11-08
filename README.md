@@ -3890,7 +3890,7 @@
 
 *   [Abner1995/OmniPlatform](https://github.com/Abner1995/OmniPlatform) - 提供一个统一的接口来处理不同平台（如微信、抖音、快手）的SDK集成。
 
-*   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full stack applications and 280+ one-click services on your own servers.
+*   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
 *   [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 
