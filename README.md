@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [MDX](#mdx)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [miscellaneous](#miscellaneous)
@@ -51,7 +52,6 @@
 *   [Astro](#astro)
 *   [Makefile](#makefile)
 *   [Batchfile](#batchfile)
-*   [MDX](#mdx)
 *   [SCSS](#scss)
 *   [IDL](#idl)
 *   [Groovy](#groovy)
@@ -61,6 +61,14 @@
 *   [RAML](#raml)
 *   [GCC Machine Description](#gcc-machine-description)
 *   [TeX](#tex)
+
+## MDX
+
+*   [mixpanel/docs](https://github.com/mixpanel/docs) - Mixpanel's Official Documentation
+
+*   [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+
+*   [yujinyan/blog](https://github.com/yujinyan/blog) - Personal blog by Yu Jinyan.
 
 ## Python
 
@@ -3638,8 +3646,6 @@
 
 *   [litesuits/android-lite-async](https://github.com/litesuits/android-lite-async) - Crossbow(LiteAsync) is an ameliorative, enhanced AsyncTask for Android. LiteAsync provides SimpleTask, SafeTask, CachedTask, etc, for rapid development. More convenient is, it has a TaskExcutor that excutes ordered, cyclicbarrier, delayed and timer Task.
 
-*   [D-clock/AndroidStudyCode](https://github.com/D-clock/AndroidStudyCode) - 关于Android的一些原理学习和代码实现
-
 ## Swift
 
 *   [PRNDcompany/StatusBarStyling](https://github.com/PRNDcompany/StatusBarStyling) - StatusBarStyling is an iOS library that makes it easy to style the status bar on SwiftUI views.
@@ -4067,12 +4073,6 @@
 ## Batchfile
 
 *   [snomiao/calibre-utf8-path](https://github.com/snomiao/calibre-utf8-path) - Switch my calibre library from ascii path to plain utf8(unicode ) path. 将我的书库从拼音目录切换至中文命名
-
-## MDX
-
-*   [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-
-*   [yujinyan/blog](https://github.com/yujinyan/blog) - Personal blog by Yu Jinyan.
 
 ## SCSS
 
