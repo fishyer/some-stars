@@ -20,15 +20,15 @@
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [HTML](#html)
-*   [C#](#c)
 *   [Kotlin](#kotlin)
 *   [Dart](#dart)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
-*   [C](#c-1)
+*   [C](#c)
 *   [Java](#java)
 *   [Swift](#swift)
 *   [Objective-C](#objective-c)
+*   [C#](#c-1)
 *   [Vue](#vue)
 *   [Ruby](#ruby)
 *   [Shell](#shell)
@@ -982,6 +982,8 @@
 
 *   [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 
+*   [ahpxex/Aictionary](https://github.com/ahpxex/Aictionary) - 一个桌面词典：快速、简洁，并且真的让你学会英语
+
 *   [nashaofu/shell360](https://github.com/nashaofu/shell360) - Shell360 is a cross-platform SSH and SFTP client.
 
 *   [dongguaguaguagua/zhihu\_obsidian](https://github.com/dongguaguaguagua/zhihu_obsidian) - Zhihu on Obsidian | 知乎 Obsidian 插件
@@ -1683,34 +1685,6 @@
 *   [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io) - Jekyll Themes / GitHub Pages 博客模板 / A template repository for Jekyll based blog
 
 *   [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
-
-## C\#
-
-*   [ahpxex/Aictionary](https://github.com/ahpxex/Aictionary) - 一个桌面词典：快速、简洁，并且真的让你学会英语
-
-*   [Sunnyliumingsheng/AutoUI](https://github.com/Sunnyliumingsheng/AutoUI) -
-
-*   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-
-*   [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
-
-*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-
-*   [TeslaFly01/SmartSqlT](https://github.com/TeslaFly01/SmartSqlT) - 🔥🔥🔥 SmartSQL 是一款方便、快捷的数据库文档查询、导出工具！该工具从最初支持CHM文档格式开始，通过不断地探索开发、集思广益和不断改进，又陆续支持Word、Excel、PDF、Html、Xml、Json、MarkDown等文档格式的导出。同时支持SqlServer、MySql、PostgreSQL、SQLite等多种数据库的文档查询和导出功能。
-
-*   [yiyungent/KnifeHub](https://github.com/yiyungent/KnifeHub) - 🧰 简单易用的效率工具平台
-
-*   [xxxxue/Docsify-Build-Sidebar](https://github.com/xxxxue/Docsify-Build-Sidebar) - Docsify 侧边栏 : 【自动生成 Docsify 的 Sidebar 与 子目录 Sidebar】
-
-*   [hitchao/Jvedio](https://github.com/hitchao/Jvedio) - Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件
-
-*   [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
-
-*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
-
-*   [atemerev/skynet](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark
-
-*   [huaisha1224/StardewValleyMODManager](https://github.com/huaisha1224/StardewValleyMODManager) - 中文版星露谷物语MOD安装器,An installer for StardewValley mods for Chinese
 
 ## Kotlin
 
@@ -3711,6 +3685,32 @@
 *   [TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - 微信小助手
 
 *   [TKkk-iOSer/WeChatPlugin-iOS](https://github.com/TKkk-iOSer/WeChatPlugin-iOS) -
+
+## C\#
+
+*   [Sunnyliumingsheng/AutoUI](https://github.com/Sunnyliumingsheng/AutoUI) -
+
+*   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
+
+*   [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
+
+*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+
+*   [TeslaFly01/SmartSqlT](https://github.com/TeslaFly01/SmartSqlT) - 🔥🔥🔥 SmartSQL 是一款方便、快捷的数据库文档查询、导出工具！该工具从最初支持CHM文档格式开始，通过不断地探索开发、集思广益和不断改进，又陆续支持Word、Excel、PDF、Html、Xml、Json、MarkDown等文档格式的导出。同时支持SqlServer、MySql、PostgreSQL、SQLite等多种数据库的文档查询和导出功能。
+
+*   [yiyungent/KnifeHub](https://github.com/yiyungent/KnifeHub) - 🧰 简单易用的效率工具平台
+
+*   [xxxxue/Docsify-Build-Sidebar](https://github.com/xxxxue/Docsify-Build-Sidebar) - Docsify 侧边栏 : 【自动生成 Docsify 的 Sidebar 与 子目录 Sidebar】
+
+*   [hitchao/Jvedio](https://github.com/hitchao/Jvedio) - Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件
+
+*   [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
+
+*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
+
+*   [atemerev/skynet](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark
+
+*   [huaisha1224/StardewValleyMODManager](https://github.com/huaisha1224/StardewValleyMODManager) - 中文版星露谷物语MOD安装器,An installer for StardewValley mods for Chinese
 
 ## Vue
 
