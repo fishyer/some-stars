@@ -1714,7 +1714,7 @@
 
 ## Kotlin
 
-*   [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is a Android APP that supports for multiple LLM providers.
+*   [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
 
 *   [getditto/react-in-mobile](https://github.com/getditto/react-in-mobile) - Bundle and run a React web app inside of iOS and Android
 
