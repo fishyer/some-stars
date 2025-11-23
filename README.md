@@ -1642,7 +1642,7 @@
 
 *   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 
-*   [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) - Save Telegram files to multiple storage 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content.
+*   [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) - Save any Telegram file, anywhere 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content and beyond telegram.
 
 *   [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
 
