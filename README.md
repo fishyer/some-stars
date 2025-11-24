@@ -64,6 +64,8 @@
 
 ## Python
 
+*   [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
+
 *   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills
 
 *   [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
@@ -3617,8 +3619,6 @@
 *   [shenkaige/andtools](https://github.com/shenkaige/andtools) - Android Develop Tools,widget
 
 *   [QGB/QJSU](https://github.com/QGB/QJSU) - Java's Simplified Utils
-
-*   [google/guava](https://github.com/google/guava) - Google core libraries for Java
 
 ## Swift
 
