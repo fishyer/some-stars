@@ -1882,7 +1882,7 @@
 
 *   [anthonycr/Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) - A lightweight Android browser with modern navigation
 
-*   [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A simple music app using YouTube Music for backend
+*   [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A cross-platform music app using YouTube Music for backend
 
 *   [gallonyin/worktool](https://github.com/gallonyin/worktool) - 一款安全稳定的Android无障碍服务工具，支持控制企微/微信来运行的无人值守群管理企业微信机器人
 
