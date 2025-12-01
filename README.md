@@ -2506,7 +2506,7 @@
 
 *   [BunnyMaster/bunny-admin-server](https://github.com/BunnyMaster/bunny-admin-server) -  基于 Spring Security 6 的 RBAC 权限系统，支持 URL 及按钮级控制，匹配 Ant 路径。依赖 MySQL+Redis，文件存储可选 Minio/本地/第三方OSS等。
 
-*   [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+*   [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 
 *   [NewCasino/browser](https://github.com/NewCasino/browser) - 优分享浏览器是安卓平台下的一个多标签的简洁移动网页浏览器源代码全部开放，你可以自由改进它或者基于它制作一些独特的工具，也可以嵌入到你的APP中提供移动网页浏览或分享功能。你可以点击页面中的图片以便分享该图片到社交网络。
 
