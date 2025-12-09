@@ -1350,8 +1350,6 @@
 
 *   [Jackpopc/DevWeekly](https://github.com/Jackpopc/DevWeekly) - 每周五发布，精选优质开发者内容，包括开源项目、工具资源、技术文章等方面。
 
-*   [jackvale/rectg](https://github.com/jackvale/rectg) - 收录并持续精选 10,000+ 个 Telegram 频道、群组与机器人，分类清晰，搜索即得，帮你省下自己找资源的时间。
-
 *   [Lizhen0628/siyuan-ai](https://github.com/Lizhen0628/siyuan-ai) -
 
 *   [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
@@ -2121,6 +2119,8 @@
 *   [evrone/postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport) - A plugin for PostCSS that generates viewport units (vw, vh, vmin, vmax) from pixel units. The best choice to create a scalable interface on different displays by one design size.
 
 *   [anthonygauthier/axios-curlirize](https://github.com/anthonygauthier/axios-curlirize) - axios plugin converting requests to cURL commands, saving and logging them.
+
+*   [jackvale/rectg](https://github.com/jackvale/rectg) - 收录并持续精选 10,000+ 个 Telegram 频道、群组与机器人，分类清晰，搜索即得，帮你省下自己找资源的时间。
 
 *   [lim-f/create-lim](https://github.com/lim-f/create-lim) -
 
