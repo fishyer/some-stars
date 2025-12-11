@@ -1154,6 +1154,8 @@
 
 *   [s0/git-publish-subdir-action](https://github.com/s0/git-publish-subdir-action) - GitHub Action to push a subdirectory as a branch to any git repo (e.g. for GitHub Pages)
 
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+
 *   [EINDEX/logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) - Logseq plugin for sync Memos to logseq.
 
 *   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
@@ -1771,8 +1773,6 @@
 *   [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 
 *   [iwannay/jiacrontab](https://github.com/iwannay/jiacrontab) - 简单可信赖的任务管理工具
-
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 
 *   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 
