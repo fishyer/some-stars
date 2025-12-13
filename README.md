@@ -588,7 +588,7 @@
 
 *   [debuggerx01/JSONFormat4Flutter](https://github.com/debuggerx01/JSONFormat4Flutter) - 受zzz40500/GsonFormat启发，将JSONObject格式的String解析成dart语言的实体类
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
@@ -2422,6 +2422,8 @@
 
 *   [ipython-contrib/jupyter\_contrib\_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
 
+*   [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
+
 *   [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 
 *   [phobal/ivideo](https://github.com/phobal/ivideo) - 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
@@ -3973,8 +3975,6 @@
 *   [Level/leveldown](https://github.com/Level/leveldown) - Superseded by classic-level. Pure C++ Node.js LevelDB binding. An abstract-leveldown compliant store.
 
 *   [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
-
-*   [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
 
 *   [AndroidAdvanceWithGeektime/JVMTI\_Sample](https://github.com/AndroidAdvanceWithGeektime/JVMTI_Sample) - JVMTI Sample
 
