@@ -256,6 +256,8 @@
 
 *   [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 
+*   [Cay-Zhang/RSSBud](https://github.com/Cay-Zhang/RSSBud) - An RSS feed discovery app for iOS/macOS that works particularly well with RSSHub, a popular feed generation service. Available on the App Store.
+
 *   [OpenFlutter/flutter\_share\_me](https://github.com/OpenFlutter/flutter_share_me) - Flutter Plugin for sharing contents to social media.  You can use it share to Facebook , WhatsApp , Twitter And System Share UI. Support Url and Text.
 
 *   [wojteklu/Watchdog](https://github.com/wojteklu/Watchdog) - Class for logging excessive blocking on the main thread
@@ -758,7 +760,7 @@
 
 *   [debuggerx01/JSONFormat4Flutter](https://github.com/debuggerx01/JSONFormat4Flutter) - 受zzz40500/GsonFormat启发，将JSONObject格式的String解析成dart语言的实体类
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
@@ -2403,8 +2405,6 @@
 *   [ineo6/git-master](https://github.com/ineo6/git-master) - Git Master Extension for git file tree, support GitHub、GitLab 、 Gitee、Gitea、Gogs
 
 *   [charlieMonroe/DownieExtensions](https://github.com/charlieMonroe/DownieExtensions) - Browser Extensions used in Downie (https://software.charliemonroe.net/downie/).
-
-*   [Cay-Zhang/RSSBud](https://github.com/Cay-Zhang/RSSBud) - An RSS feed discovery app for iOS/macOS that works particularly well with RSSHub, a popular feed generation service. Available on the App Store.
 
 *   [heruijun/react-native-lagou](https://github.com/heruijun/react-native-lagou) - 用react native写的仿拉勾ios版本demo
 
