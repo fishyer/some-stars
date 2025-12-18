@@ -64,6 +64,8 @@
 
 ## Dart
 
+*   [Milad-Akarie/auto\_route\_library](https://github.com/Milad-Akarie/auto_route_library) - Flutter route generator
+
 *   [wang-bin/fvp](https://github.com/wang-bin/fvp) - Flutter video player plugin for all desktop+mobile platforms. download prebuilt examples from github actions. https://pub.dev/packages/fvp
 
 *   [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
@@ -3625,8 +3627,6 @@
 *   [wenhuaijun/EasyTagDragView](https://github.com/wenhuaijun/EasyTagDragView) - 仿网易新闻app下拉标签选择菜单，长按拖动排序，点击增删标签控件
 
 *   [android-cjj/Android-MaterialRefreshLayout](https://github.com/android-cjj/Android-MaterialRefreshLayout) - This is a drop-down control, it is more beautiful and powerful than SwipeRefreshLayout
-
-*   [dawsonice/ProMosaic](https://github.com/dawsonice/ProMosaic) - Make mosaic effect on android
 
 ## C
 
