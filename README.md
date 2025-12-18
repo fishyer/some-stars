@@ -626,8 +626,6 @@
 
 *   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
-*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/hysteria2/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙-科学上网-梯子
-
 *   [ciuzaak/Claude-Telegram-Bot](https://github.com/ciuzaak/Claude-Telegram-Bot) - Anthropic Claude & Google Bard Bot for Telegram.
 
 *   [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) -
@@ -3627,6 +3625,8 @@
 *   [nhaarman/ListViewAnimations](https://github.com/nhaarman/ListViewAnimations) - \[DEPRECATED] An Android library which allows developers to easily add animations to ListView items
 
 *   [wenhuaijun/EasyTagDragView](https://github.com/wenhuaijun/EasyTagDragView) - 仿网易新闻app下拉标签选择菜单，长按拖动排序，点击增删标签控件
+
+*   [android-cjj/Android-MaterialRefreshLayout](https://github.com/android-cjj/Android-MaterialRefreshLayout) - This is a drop-down control, it is more beautiful and powerful than SwipeRefreshLayout
 
 ## C
 
