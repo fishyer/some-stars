@@ -80,7 +80,7 @@
 
 *   [ionicfirebaseapp/getwidget](https://github.com/ionicfirebaseapp/getwidget) - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
 
-*   [anilcancakir/wind](https://github.com/anilcancakir/wind) - A Flutter plugin designed with a utility-first approach, inspired by Tailwind CSS, for building responsive, modular, and efficient UI components.
+*   [fluttersdk/wind](https://github.com/fluttersdk/wind) - A Flutter plugin designed with a utility-first approach, inspired by Tailwind CSS, for building responsive, modular, and efficient UI components.
 
 *   [Tencent/mxflutter](https://github.com/Tencent/mxflutter) - 使用 TypeScript/JavaScript 来开发 Flutter 应用的框架。
 
