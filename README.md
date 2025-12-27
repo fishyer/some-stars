@@ -858,6 +858,8 @@
 
 *   [europeana/metis-ui](https://github.com/europeana/metis-ui) - Metis frontend UI
 
+*   [lc0rp/KeepSidian](https://github.com/lc0rp/KeepSidian) -
+
 *   [daledesilva/obsidian\_google-keep-import](https://github.com/daledesilva/obsidian_google-keep-import) - Imports Google Keep backup files
 
 *   [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
@@ -2095,8 +2097,6 @@
 *   [baranbingol1/fastapi-react-admin-panel](https://github.com/baranbingol1/fastapi-react-admin-panel) - Admin Panel App in FastAPI and React.
 
 *   [krasimir/EventBus](https://github.com/krasimir/EventBus) - Simple JavaScript class for managing events
-
-*   [lc0rp/KeepSidian](https://github.com/lc0rp/KeepSidian) -
 
 *   [codemyhappy/swagger-typescript-parser](https://github.com/codemyhappy/swagger-typescript-parser) - 只需要一个命令，自动将swagger文档转换为typescript的interface、api。支持参数的代码提示，支持自定义http库
 
