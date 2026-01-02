@@ -3112,7 +3112,7 @@
 
 *   [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
 
-*   [freshworks/hotline-android](https://github.com/freshworks/hotline-android) - Android SDK for Hotline
+*   [freshworks-oss/hotline-android](https://github.com/freshworks-oss/hotline-android) - Android SDK for Hotline
 
 *   [adjust/android\_sdk](https://github.com/adjust/android_sdk) - This is the Android SDK of
 
