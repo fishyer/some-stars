@@ -3058,7 +3058,7 @@
 
 *   [LiCola-Exist/ReverseSuper](https://github.com/LiCola-Exist/ReverseSuper) - 一键生成代码，目标实现类，反向生成接口/抽象类
 
-*   [BaronZ88/MinimalistWeather](https://github.com/BaronZ88/MinimalistWeather) - Android 平台开源天气 App，采用 MVP、RxJava、Retrofit2、OKHttp3、Dagger2、RetroLambda 等开源库来实现。
+*   [byronz88/MinimalistWeather](https://github.com/byronz88/MinimalistWeather) - Android 平台开源天气 App，采用 MVP、RxJava、Retrofit2、OKHttp3、Dagger2、RetroLambda 等开源库来实现。
 
 *   [yanzhenjie/SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView) - :melon: RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，HeaderView，FooterView，Item分组黏贴。
 
