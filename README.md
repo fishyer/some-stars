@@ -686,6 +686,8 @@
 
 *   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
+*   [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
+
 *   [vanadium23/obsidian-advanced-new-file](https://github.com/vanadium23/obsidian-advanced-new-file) - Create file in chosen folder
 
 *   [mohuishou/utools](https://github.com/mohuishou/utools) - utools 插件，utools api, chrome历史记录搜索、vscode历史项目搜索、otp两步验证，iconfont图标搜索下载、语雀搜索等
@@ -2451,8 +2453,6 @@
 *   [yuki-xin/picgo-plugin-web-uploader](https://github.com/yuki-xin/picgo-plugin-web-uploader) -
 
 *   [cjlm/send-to-workflowy](https://github.com/cjlm/send-to-workflowy) - Unofficial API to send to Workflowy
-
-*   [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 
 *   [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 
