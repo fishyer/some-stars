@@ -936,7 +936,7 @@
 
 *   [xiaoguyu/wechatDownload](https://github.com/xiaoguyu/wechatDownload) - 微信公号文章下载工具
 
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 *   [lazyloong/obsidian-fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese) -
 
