@@ -1096,7 +1096,7 @@
 
 *   [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
 
-*   [Quorafind/Memos-Extension](https://github.com/Quorafind/Memos-Extension) - A Google Chrome plugin for Obsidian Memos
+*   [Quorafind/Memos-Extension](https://github.com/Quorafind/Memos-Extension) - \[UNMAINTAINED] A Google Chrome plugin for Obsidian Memos
 
 *   [coddingtonbear/obsidian-web](https://github.com/coddingtonbear/obsidian-web) - Connect your web browser with your notes in Obsidian.
 
