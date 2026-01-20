@@ -794,6 +794,8 @@
 
 *   [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 
+*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+
 *   [FightingDesign/fighting-design](https://github.com/FightingDesign/fighting-design) - 🌈 Fighting Design 可在 vue3 应用程序中快速构建交互界面，看起来还不错。(🌈 Fighting design can quickly build interactive interfaces in vue3 applications, which looks good.)
 
 *   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
@@ -1241,8 +1243,6 @@
 *   [oiuv/WeWorkFinanceSdk](https://github.com/oiuv/WeWorkFinanceSdk) - 自动存档企业微信会话（文本、图片、语音、视频、文件），方便功能开发
 
 *   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - ⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
-
-*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
 *   [fishyer/MyLogseq](https://github.com/fishyer/MyLogseq) - 产物仓库
 
@@ -2154,7 +2154,7 @@
 
 *   [ultrazg/xyz](https://github.com/ultrazg/xyz) - 小宇宙FM API
 
-*   [lw396/ChatCopilot](https://github.com/lw396/ChatCopilot) - ChatCopilot 是一款用 golang 实现的获取微信聊天记录并支持实时存储到数据库的工具，支持在 MacOS 上运行
+*   [lw396/ChatCopilot](https://github.com/lw396/ChatCopilot) - ChatCopilot 是一款用 golang 实现的获取聊天记录并支持实时存储到数据库的工具，支持在 MacOS 上运行
 
 *   [dong9205/wechat\_hook](https://github.com/dong9205/wechat_hook) - 通过HTTP接口微信发送消息
 
