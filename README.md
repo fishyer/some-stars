@@ -32,7 +32,6 @@
 *   [Vue](#vue)
 *   [Ruby](#ruby)
 *   [Shell](#shell)
-*   [CSS](#css)
 *   [Roff](#roff)
 *   [PHP](#php)
 *   [Svelte](#svelte)
@@ -43,6 +42,7 @@
 *   [Dockerfile](#dockerfile)
 *   [Perl](#perl)
 *   [Zig](#zig)
+*   [CSS](#css)
 *   [Elixir](#elixir)
 *   [Clojure](#clojure)
 *   [Lua](#lua)
@@ -1654,7 +1654,7 @@
 
 *   [debuggerx01/JSONFormat4Flutter](https://github.com/debuggerx01/JSONFormat4Flutter) - 受zzz40500/GsonFormat启发，将JSONObject格式的String解析成dart语言的实体类
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 
 *   [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
@@ -3796,6 +3796,8 @@
 
 *   [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 
+*   [shinokada/macgnu](https://github.com/shinokada/macgnu) - Transform the macOS CLI into a fresh GNU/Linux CLI experience by installing missing GNU programs, updating outdated GNU programs, replacing pre-installed BSD programs with their preferred GNU implementation.
+
 *   [pkill37/linuxify](https://github.com/pkill37/linuxify) - 🍏🐧 Transparently transform the macOS CLI into a fresh GNU/Linux CLI experience.
 
 *   [n8n-io/n8n-hosting](https://github.com/n8n-io/n8n-hosting) - Example of self-hosting n8n in various environments like docker, kubernetes, etc.
@@ -3849,36 +3851,6 @@
 *   [zzhanghub/alfred-template-file](https://github.com/zzhanghub/alfred-template-file) - New file or dir using templates.
 
 *   [wyntau/dotfiles](https://github.com/wyntau/dotfiles) - Setup git, vim, zsh, tmux etc. using one command
-
-## CSS
-
-*   [shinokada/macgnu](https://github.com/shinokada/macgnu) - Transform the macOS CLI into a fresh GNU/Linux CLI experience by installing missing GNU programs, updating outdated GNU programs, replacing pre-installed BSD programs with their preferred GNU implementation.
-
-*   [ddrsql/Test](https://github.com/ddrsql/Test) -
-
-*   [tabler/tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme.
-
-*   [fireboomio/amis-admin](https://github.com/fireboomio/amis-admin) - A Full-Stack Development Framework for Visual Backend Platforms Based on Fireboom and Baidu Amis.
-
-*   [billie66/TLCL](https://github.com/billie66/TLCL) - 《快乐的 Linux 命令行》
-
-*   [cyddgh/obsidian-chinese-help](https://github.com/cyddgh/obsidian-chinese-help) - 本文档是本人关于obsidian软件使用的心得汇总，用于obsidian群（QQ群号：774176839）的分享。
-
-*   [liyinchigithub/xpath2css](https://github.com/liyinchigithub/xpath2css) - Xpath与CSS Selector 转换工具
-
-*   [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) - A sample Spring-based application
-
-*   [teedoc/teedoc](https://github.com/teedoc/teedoc) - wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具
-
-*   [fishyer/MyObsidian-230806](https://github.com/fishyer/MyObsidian-230806) - 我的个人知识管理系统
-
-*   [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
-
-*   [EnhWeb/pdman](https://github.com/EnhWeb/pdman) - PDMan是一款开源免费的数据库模型建模工具，支持Windows,Mac,Linux等操作系统，是PowerDesigner之外，更好的免费的替代方案。他具有颜值高，使用简单的特点。包含数据库建模，灵活自动的自动生成代码模板，自动生成文档等多种开发人员实用的功能。 https://my.oschina.net/skymozn/blog/1821184  https://gitee.com/robergroup/pdman.git
-
-*   [insanum/obsidian\_gruvbox](https://github.com/insanum/obsidian_gruvbox) - A gruvbox theme for Obsidian
-
-*   [wizardforcel/think-dast-zh](https://github.com/wizardforcel/think-dast-zh) - :book: \[译] 数据结构思维
 
 ## Roff
 
@@ -4025,6 +3997,34 @@
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 *   [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
+
+## CSS
+
+*   [ddrsql/Test](https://github.com/ddrsql/Test) -
+
+*   [tabler/tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme.
+
+*   [fireboomio/amis-admin](https://github.com/fireboomio/amis-admin) - A Full-Stack Development Framework for Visual Backend Platforms Based on Fireboom and Baidu Amis.
+
+*   [billie66/TLCL](https://github.com/billie66/TLCL) - 《快乐的 Linux 命令行》
+
+*   [cyddgh/obsidian-chinese-help](https://github.com/cyddgh/obsidian-chinese-help) - 本文档是本人关于obsidian软件使用的心得汇总，用于obsidian群（QQ群号：774176839）的分享。
+
+*   [liyinchigithub/xpath2css](https://github.com/liyinchigithub/xpath2css) - Xpath与CSS Selector 转换工具
+
+*   [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) - A sample Spring-based application
+
+*   [teedoc/teedoc](https://github.com/teedoc/teedoc) - wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具
+
+*   [fishyer/MyObsidian-230806](https://github.com/fishyer/MyObsidian-230806) - 我的个人知识管理系统
+
+*   [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
+
+*   [EnhWeb/pdman](https://github.com/EnhWeb/pdman) - PDMan是一款开源免费的数据库模型建模工具，支持Windows,Mac,Linux等操作系统，是PowerDesigner之外，更好的免费的替代方案。他具有颜值高，使用简单的特点。包含数据库建模，灵活自动的自动生成代码模板，自动生成文档等多种开发人员实用的功能。 https://my.oschina.net/skymozn/blog/1821184  https://gitee.com/robergroup/pdman.git
+
+*   [insanum/obsidian\_gruvbox](https://github.com/insanum/obsidian_gruvbox) - A gruvbox theme for Obsidian
+
+*   [wizardforcel/think-dast-zh](https://github.com/wizardforcel/think-dast-zh) - :book: \[译] 数据结构思维
 
 ## Elixir
 
