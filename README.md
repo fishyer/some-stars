@@ -924,8 +924,6 @@
 
 *   [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
 
-*   [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
-
 *   [edrlab/thorium-reader](https://github.com/edrlab/thorium-reader) - A cross platform desktop reading app, based on the Readium Desktop toolkit
 
 *   [jonstodle/obsius-obsidian-plugin](https://github.com/jonstodle/obsius-obsidian-plugin) - Easily publish notes to the web  This plugin integrates with obsius.site to publish markdown notes on the web.
@@ -2299,6 +2297,8 @@
 *   [x-dr/tts](https://github.com/x-dr/tts) - 微软azure文本转语音 音频下载
 
 *   [bunkat/later](https://github.com/bunkat/later) - A javascript library for defining recurring schedules and calculating future (or past) occurrences for them.  Includes support for using English phrases and Cron schedules.  Works in Node and in the browser.
+
+*   [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 
 *   [souying/vercel-api-proxy](https://github.com/souying/vercel-api-proxy) - vercel反向代理。完全免费，万能代理，可代理全网一切接口，包括openai、github、google、Telegram、全面代理ai项目一键安装
 
