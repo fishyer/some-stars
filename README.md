@@ -456,8 +456,6 @@
 
 *   [xiehui999/SmallAppForQQ](https://github.com/xiehui999/SmallAppForQQ) - 微信小程序(微信应用号)微信小程序官方demo,官方文档,开发工具，高仿手机QQ应用程序,持续更新中...
 
-*   [benoitgrelard/github-stars-tagger](https://github.com/benoitgrelard/github-stars-tagger) - A Google Chrome extension that lets you add tags to your starred repositories directly on GitHub
-
 *   [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
 
 ## Dart
@@ -2115,6 +2113,8 @@
 *   [larryzhao/jianshu.io](https://github.com/larryzhao/jianshu.io) - 『简书』
 
 *   [mcxiaoke/RxDocs](https://github.com/mcxiaoke/RxDocs) - Rx和RxJava文档中文翻译项目
+
+*   [sinaweibosdk/weibo\_android\_sdk](https://github.com/sinaweibosdk/weibo_android_sdk) - 新浪微博 Android SDK
 
 ## Go
 
