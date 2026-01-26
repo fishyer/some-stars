@@ -158,7 +158,7 @@
 
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
-*   [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - ⚡️ Lightweight Native Full-Stack Environment Management Tool for Windows, macOS & Linux. Run local server, PHP, Node.js, Python & Databases without Docker. The faster, modular alternative to XAMPP
+*   [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Full-Stack Environment Management GUI Tool for Windows, macOS & Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ/Mailpit/Elasticsearch without Docker. The faster, modular alternative to XAMPP/MAMP/Laravel Herd/NVM/FNM/PHPStudy...
 
 *   [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 
