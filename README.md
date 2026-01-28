@@ -716,6 +716,8 @@
 
 *   [rahiel/archiveror](https://github.com/rahiel/archiveror) - Archiveror will help you preserve the webpages you love. 💾
 
+*   [rahiel/archiveror](https://github.com/rahiel/archiveror) - Archiveror will help you preserve the webpages you love. 💾
+
 *   [pjeby/hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
 
 *   [fishyer/lnmp-crm](https://github.com/fishyer/lnmp-crm) -
@@ -3649,8 +3651,6 @@
 *   [Jude95/RollViewPager](https://github.com/Jude95/RollViewPager) - A ViewPager can auto play and loop
 
 *   [Skykai521/ECTranslation](https://github.com/Skykai521/ECTranslation) - Android Studio Plugin,Translate English to Chinese. Android Studio 翻译插件,可以将英文翻译为中文.
-
-*   [WuXiaolong/AndroidUtils](https://github.com/WuXiaolong/AndroidUtils) - Android常用工具类
 
 ## C
 
