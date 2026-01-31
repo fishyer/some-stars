@@ -1422,7 +1422,7 @@
 
 *   [yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
 
-*   [layui-vue/layui-vue](https://github.com/layui-vue/layui-vue) - An enterprise-class UI components based on Layui and Vue.
+*   [lunar-landing/layui-vue](https://github.com/lunar-landing/layui-vue) - An enterprise-class UI components based on Layui and Vue.
 
 *   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 
