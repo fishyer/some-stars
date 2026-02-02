@@ -124,8 +124,6 @@
 
 *   [buqiyuan/nest-admin](https://github.com/buqiyuan/nest-admin) - NestJS CRUD for RESTful API 使用 NestJS + Mysql + Typeorm + Redis + JWT + Swagger 企业中后台管理系统项目RBAC权限管理(细粒度到按钮)、实现单点登录等...
 
-*   [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
-
 *   [Yuiffy/BiliGPT](https://github.com/Yuiffy/BiliGPT) - BiliGPT 哔哩哔哩 · 视频内容一键总结
 
 *   [yyong008/fastapi-antd-admin](https://github.com/yyong008/fastapi-antd-admin) - 🚀 fast-antd-admin is a website building solution based on Python FastAPI、Antd、SQLAchemly. (WIP)
@@ -1753,6 +1751,8 @@
 *   [olivierloverde/gmail-agent](https://github.com/olivierloverde/gmail-agent) - AI-based Telegram agent with memory that will help you reach inbox 0 in no time.
 
 *   [KeyRotate/LibreTV-App](https://github.com/KeyRotate/LibreTV-App) - LibreTV 跨平台客户端（Android, Windows, Linux, MacOS等），直装免部署
+
+*   [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 
 *   [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 
