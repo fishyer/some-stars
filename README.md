@@ -472,8 +472,6 @@
 
 *   [bramses/chatgpt-md](https://github.com/bramses/chatgpt-md) - A (nearly) seamless integration of ChatGPT into Obsidian.
 
-*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-
 *   [joethei/obsidian-rss](https://github.com/joethei/obsidian-rss) - Read RSS Feeds from inside Obsidian
 
 *   [JimmyLv/telegroam](https://github.com/JimmyLv/telegroam) -  Telegroam: a bridge between Roam and Telegram. 🤩 When Roam Research receives one message, it automatically returns a previously random note 😁, based on https://github.com/mbrock/telegroam
@@ -2315,6 +2313,8 @@
 *   [mixpanel/docs](https://github.com/mixpanel/docs) - Mixpanel's Official Documentation
 
 *   [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 *   [yujinyan/blog](https://github.com/yujinyan/blog) - Personal blog by Yu Jinyan.
 
