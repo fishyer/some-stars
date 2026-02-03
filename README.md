@@ -1896,8 +1896,6 @@
 
 *   [gohutool/docker.ui](https://github.com/gohutool/docker.ui) -
 
-*   [HCLonely/awesome-bilibili-extra](https://github.com/HCLonely/awesome-bilibili-extra) - 收集一些让我们在使用B站时更加方便的浏览器扩展/脚本/程序【月底更新】
-
 *   [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
 
 *   [listen1/listen1\_chrome\_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
@@ -4033,6 +4031,8 @@
 *   [KeepSafe/dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) - A Gradle plugin to report the number of method references in your APK on every build.
 
 *   [ZhaoKaiQiang/ScrollerDemo](https://github.com/ZhaoKaiQiang/ScrollerDemo) - 是一个Scroller的演示demo
+
+*   [campusappcn/AndRouter](https://github.com/campusappcn/AndRouter) - A android router framework used to map url to activities or actions.
 
 ## C
 
