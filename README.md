@@ -958,7 +958,7 @@
 
 *   [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 
-*   [uknownothingsnow/Awesome-RxJava](https://github.com/uknownothingsnow/Awesome-RxJava) - RxJava resources
+*   [happydog-intj/Awesome-RxJava](https://github.com/happydog-intj/Awesome-RxJava) - RxJava resources
 
 *   [xirong/my-git](https://github.com/xirong/my-git) - Individual collecting material of learning git（有关 git 的学习资料）
 
@@ -3736,7 +3736,7 @@
 
 *   [jdsjlzx/LRecyclerView](https://github.com/jdsjlzx/LRecyclerView) - RecyclerView下拉刷新，自动加载更多；仿IOS侧滑Item删除菜单（盼望大家扩展更多功能）
 
-*   [uknownothingsnow/SwipeLayout](https://github.com/uknownothingsnow/SwipeLayout) - android swipe gesture detector layout
+*   [happydog-intj/SwipeLayout](https://github.com/happydog-intj/SwipeLayout) - android swipe gesture detector layout
 
 *   [hanhailong/base-adapter-helper-recyclerview](https://github.com/hanhailong/base-adapter-helper-recyclerview) - 基于base-adapter-helper改造用来支持recyclerview的适配器
 
