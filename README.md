@@ -1270,6 +1270,8 @@
 
 *   [zhulinyv/Semi-Auto-NovelAI-to-Pixiv](https://github.com/zhulinyv/Semi-Auto-NovelAI-to-Pixiv) - 带有 WebUI 的 NovelAI 量产工具, 实现了批量文生图; 批量图生图; 视频转绘; 分块重绘; 批量 Vibe; 批量局部重绘; 批量超分降噪; 批量自动打码; 批量添加水印; 批量上传 Pixiv; 图片筛选; 批量抹除, 还原或导出生成信息; 法术解析; 多模型反推提示词; ChatGPT; 动态加载插件; 自动 roll 画风串; 批量 Enhance; tag选择器; 涂鸦重绘; 图片压缩整理; 批量AI工具; wildcard; ...
 
+*   [worldwonderer/promptdoc](https://github.com/worldwonderer/promptdoc) - Designed to manage a collection of Prompt templates for multiple versions, scenarios, and applicable models.
+
 *   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 
 *   [yinan-c/RSSbrew](https://github.com/yinan-c/RSSbrew) - Self-hosted, easy-to-deploy RSS tool - Aggregate, filter, digest and AI summarize articles in RSS feeds.
@@ -2509,8 +2511,6 @@
 *   [fishyer/MyNote](https://github.com/fishyer/MyNote) - MyLogseq
 
 *   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
-
-*   [worldwonderer/promptdoc](https://github.com/worldwonderer/promptdoc) - Designed to manage a collection of Prompt templates for multiple versions, scenarios, and applicable models.
 
 *   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
