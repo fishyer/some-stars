@@ -34,6 +34,7 @@
 *   [Objective-C](#objective-c)
 *   [C#](#c-2)
 *   [Ruby](#ruby)
+*   [Go Template](#go-template)
 *   [Roff](#roff)
 *   [PHP](#php)
 *   [Svelte](#svelte)
@@ -2226,8 +2227,6 @@
 
 *   [pkill37/linuxify](https://github.com/pkill37/linuxify) - 🍏🐧 Transparently transform the macOS CLI into a fresh GNU/Linux CLI experience.
 
-*   [n8n-io/n8n-hosting](https://github.com/n8n-io/n8n-hosting) - Example of self-hosting n8n in various environments like docker, kubernetes, etc.
-
 *   [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 
 *   [fishyer/ytdlp-downloader](https://github.com/fishyer/ytdlp-downloader) -
@@ -4103,6 +4102,10 @@
 *   [lacinoire/workflowy-tg-bot](https://github.com/lacinoire/workflowy-tg-bot) - A Telegram bot to add stuff to Workflowy
 
 *   [cesarferreira/dryrun](https://github.com/cesarferreira/dryrun) - ☁️ Try the demo project of any Android Library
+
+## Go Template
+
+*   [n8n-io/n8n-hosting](https://github.com/n8n-io/n8n-hosting) - Example of self-hosting n8n in various environments like docker, kubernetes, etc.
 
 ## Roff
 
