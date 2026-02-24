@@ -64,6 +64,8 @@
 
 ## TypeScript
 
+*   [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) -
+
 *   [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) - Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.
 
 *   [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
@@ -4005,8 +4007,6 @@
 *   [kymjs/RxVolley](https://github.com/kymjs/RxVolley) - RxVolley = Volley + RxJava + OkHttp
 
 *   [Bigkoo/Android-PickerView](https://github.com/Bigkoo/Android-PickerView) - This is a picker view for android , support linkage effect, timepicker and optionspicker.（时间选择器、省市区三级联动）
-
-*   [bumptech/glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 
 ## C
 
