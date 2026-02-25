@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -22,11 +23,10 @@
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [Shell](#shell)
+*   [Go](#go)
 *   [Swift](#swift)
 *   [MDX](#mdx)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [Go](#go)
-*   [HTML](#html)
 *   [Kotlin](#kotlin)
 *   [Rust](#rust)
 *   [Java](#java)
@@ -62,6 +62,92 @@
 *   [RAML](#raml)
 *   [GCC Machine Description](#gcc-machine-description)
 *   [TeX](#tex)
+
+## HTML
+
+*   [knownsec/aipyapp](https://github.com/knownsec/aipyapp) - AI-Powered Python & Python-Powered AI (Python-Use)
+
+*   [rango886/FreeBili](https://github.com/rango886/FreeBili) - 自由哔站是一个高性能、使用方便的影视聚合搜索和播放工具
+
+*   [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar) - 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用
+
+*   [littlemagic8/littlemagic8.github.io](https://github.com/littlemagic8/littlemagic8.github.io) - BY Blog ->
+
+*   [rehiy/touch-js](https://github.com/rehiy/touch-js) - 面向移动端的手势类库
+
+*   [wushufen/wui](https://github.com/wushufen/wui) - 无依赖，支持vue和react的ui框架
+
+*   [lucasbordeau/obsidian-tiddlywiki](https://github.com/lucasbordeau/obsidian-tiddlywiki) - Import/export TiddlyWiki tiddler files with Obsidian
+
+*   [huangshiyu13/webtemplate](https://github.com/huangshiyu13/webtemplate) - 收集各种网站前端模板
+
+*   [luolin-ai/Enterprise-WeChat-GPTbot](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot) - 基于企微gpt知识库的bot机器人，能够自动回复企业微信中收到的消息。这个机器人能够处理私聊和群聊，还可以记住与用户的聊天内容，从而做出更加贴合上下文的回应。此外，您还可以设置白名单来控制机器人与哪些用户或群组交互。
+
+*   [phodal/toolbox](https://github.com/phodal/toolbox) - Phodal's Toolbox
+
+*   [fishyer/MyNote](https://github.com/fishyer/MyNote) - MyLogseq
+
+*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+
+*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
+*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+
+*   [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
+
+*   [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ The Open Research Copilot. Build high-perf Portfolios, Lab Sites & Docs in Markdown + Jupyter. 100% Data Control. 🦫 数据科学家的开源 Copilot。一键部署 👇
+
+*   [fishyer/MyPKM](https://github.com/fishyer/MyPKM) -
+
+*   [yuxiaoy1/chatfairy](https://github.com/yuxiaoy1/chatfairy) - A minimal chat application built with no deps but Flask!
+
+*   [onlyGuo/nginx-gui](https://github.com/onlyGuo/nginx-gui) - Nginx GUI Manager
+
+*   [x-dr/tts](https://github.com/x-dr/tts) - 微软azure文本转语音 音频下载
+
+*   [bunkat/later](https://github.com/bunkat/later) - A javascript library for defining recurring schedules and calculating future (or past) occurrences for them.  Includes support for using English phrases and Cron schedules.  Works in Node and in the browser.
+
+*   [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
+
+*   [souying/vercel-api-proxy](https://github.com/souying/vercel-api-proxy) - vercel反向代理。完全免费，万能代理，可代理全网一切接口，包括openai、github、google、Telegram、全面代理ai项目一键安装
+
+*   [wayne0332/utools-hashcode-plugin](https://github.com/wayne0332/utools-hashcode-plugin) -
+
+*   [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
+
+*   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
+
+*   [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
+
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
+*   [zshell-zhang/zshell-zhang.github.io](https://github.com/zshell-zhang/zshell-zhang.github.io) - 个人 github page 博客内容存储仓库
+
+*   [marcorichetta/fastapi-vercel](https://github.com/marcorichetta/fastapi-vercel) - A FastAPI example app deployed on Vercel
+
+*   [PureWriter/writer.drakeet.com](https://github.com/PureWriter/writer.drakeet.com) -
+
+*   [fishyer/demo-kotlin](https://github.com/fishyer/demo-kotlin) - Kotlin学习笔记
+
+*   [fishyer/MyLogseq-Bak](https://github.com/fishyer/MyLogseq-Bak) -
+
+*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+
+*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
+
+*   [zkwlx/DroidTelescope](https://github.com/zkwlx/DroidTelescope) - DroidTelescope（DT），Android端App性能监控框架
+
+*   [open-power-workgroup/Hospital](https://github.com/open-power-workgroup/Hospital) - OpenPower工作组收集汇总的医院开放数据
+
+*   [alibaba/alpha](https://github.com/alibaba/alpha) - Alpha是一个基于PERT图构建的Android异步启动框架，它简单，高效，功能完善。 在应用启动的时候，我们通常会有很多工作需要做，为了提高启动速度，我们会尽可能让这些工作并发进行。但这些工作之间可能存在前后依赖的关系，所以我们又需要想办法保证他们执行顺序的正确性。Alpha就是为此而设计的，使用者只需定义好自己的task，并描述它依赖的task，将它添加到Project中。框架会自动并发有序地执行这些task，并将执行的结果抛出来。
+
+*   [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
+
+*   [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io) - Jekyll Themes / GitHub Pages 博客模板 / A template repository for Jekyll based blog
+
+*   [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
+
+*   [iamjoel/front-end-note](https://github.com/iamjoel/front-end-note) - :memo: Web前端洞见。有深度的Web 前端内容。
 
 ## TypeScript
 
@@ -1751,8 +1837,6 @@
 
 *   [yued-fe/lulu](https://github.com/yued-fe/lulu) - 跨端跨框架的原生 UI 组件库，即插即用
 
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
-
 *   [ThinkingXuan/GithubActionLearning](https://github.com/ThinkingXuan/GithubActionLearning) - 🥨学习使用github的Action的使用https://thinkingxuan.github.io/GithubActionLearning/🥨
 
 *   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
@@ -2281,77 +2365,9 @@
 
 *   [ik0r/dotfiles](https://github.com/ik0r/dotfiles) - Setup git, vim, zsh, tmux etc. using one command
 
-## Swift
-
-*   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
-
-*   [PRNDcompany/StatusBarStyling](https://github.com/PRNDcompany/StatusBarStyling) - StatusBarStyling is an iOS library that makes it easy to style the status bar on SwiftUI views.
-
-*   [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) - Universal API for request permission and get its statuses.
-
-*   [bin64/Clash-Dash](https://github.com/bin64/Clash-Dash) - 原生 SwiftUI 开发的 OpenClash/Nikki(MihomoTProxy) 管理工具
-
-*   [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
-
-*   [even-cheng/ECSigner](https://github.com/even-cheng/ECSigner) - iOS签名Mac客户端，iPhone客户端，网页签名，一键签名，网络地址直签，多文件同步签，自动区分企业签名和个人证书，一键Assets.car生成、解压导出和替换,自动注册设备并更新下载签名证书和签名文件进行签名，支持动态库注入。支持最新iOS15，并向下兼容。
-
-*   [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
-
-*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
-
-*   [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.
-
-*   [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
-
-*   [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
-
-*   [OpenFlutter/flutter\_share\_me](https://github.com/OpenFlutter/flutter_share_me) - Flutter Plugin for sharing contents to social media.  You can use it share to Facebook , WhatsApp , Twitter And System Share UI. Support Url and Text.
-
-*   [wojteklu/Watchdog](https://github.com/wojteklu/Watchdog) - Class for logging excessive blocking on the main thread
-
-*   [objcio/app-architecture](https://github.com/objcio/app-architecture) - Sample Code of the App Architecture Book
-
-*   [JohnSundell/Files](https://github.com/JohnSundell/Files) - A nicer way to handle files & folders in Swift
-
-*   [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
-
-*   [realm/RealmContent](https://github.com/realm/RealmContent) - Light Realm-powered content management system
-
-*   [cythb/TomatoThings](https://github.com/cythb/TomatoThings) -
-
-*   [fancymax/12306ForMac](https://github.com/fancymax/12306ForMac) - An unofficial 12306 Client for Mac
-
-*   [KrisYu/Water](https://github.com/KrisYu/Water) - Simple calculation to render cheap water effects.
-
-*   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
-
-## MDX
-
-*   [mixpanel/docs](https://github.com/mixpanel/docs) - Mixpanel's Official Documentation
-
-*   [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-
-*   [yujinyan/blog](https://github.com/yujinyan/blog) - Personal blog by Yu Jinyan.
-
-## Jupyter Notebook
-
-*   [MLNLP-World/LLMs-from-scratch-CN](https://github.com/MLNLP-World/LLMs-from-scratch-CN) - LLMs-from-scratch项目中文翻译
-
-*   [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
-
-*   [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-
-*   [dibingfa/shanke-machine-learning](https://github.com/dibingfa/shanke-machine-learning) -
-
-*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-
-*   [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
-
-*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-
-*   [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
-
 ## Go
+
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
 
 *   [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 
@@ -2491,89 +2507,75 @@
 
 *   [RichesJson/gopush-cluster](https://github.com/RichesJson/gopush-cluster) - Golang push server cluster
 
-## HTML
+## Swift
 
-*   [rango886/FreeBili](https://github.com/rango886/FreeBili) - 自由哔站是一个高性能、使用方便的影视聚合搜索和播放工具
+*   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 
-*   [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar) - 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用
+*   [PRNDcompany/StatusBarStyling](https://github.com/PRNDcompany/StatusBarStyling) - StatusBarStyling is an iOS library that makes it easy to style the status bar on SwiftUI views.
 
-*   [littlemagic8/littlemagic8.github.io](https://github.com/littlemagic8/littlemagic8.github.io) - BY Blog ->
+*   [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) - Universal API for request permission and get its statuses.
 
-*   [rehiy/touch-js](https://github.com/rehiy/touch-js) - 面向移动端的手势类库
+*   [bin64/Clash-Dash](https://github.com/bin64/Clash-Dash) - 原生 SwiftUI 开发的 OpenClash/Nikki(MihomoTProxy) 管理工具
 
-*   [wushufen/wui](https://github.com/wushufen/wui) - 无依赖，支持vue和react的ui框架
+*   [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
 
-*   [lucasbordeau/obsidian-tiddlywiki](https://github.com/lucasbordeau/obsidian-tiddlywiki) - Import/export TiddlyWiki tiddler files with Obsidian
+*   [even-cheng/ECSigner](https://github.com/even-cheng/ECSigner) - iOS签名Mac客户端，iPhone客户端，网页签名，一键签名，网络地址直签，多文件同步签，自动区分企业签名和个人证书，一键Assets.car生成、解压导出和替换,自动注册设备并更新下载签名证书和签名文件进行签名，支持动态库注入。支持最新iOS15，并向下兼容。
 
-*   [huangshiyu13/webtemplate](https://github.com/huangshiyu13/webtemplate) - 收集各种网站前端模板
+*   [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 
-*   [luolin-ai/Enterprise-WeChat-GPTbot](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot) - 基于企微gpt知识库的bot机器人，能够自动回复企业微信中收到的消息。这个机器人能够处理私聊和群聊，还可以记住与用户的聊天内容，从而做出更加贴合上下文的回应。此外，您还可以设置白名单来控制机器人与哪些用户或群组交互。
+*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 
-*   [phodal/toolbox](https://github.com/phodal/toolbox) - Phodal's Toolbox
+*   [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.
 
-*   [fishyer/MyNote](https://github.com/fishyer/MyNote) - MyLogseq
+*   [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 
-*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+*   [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 
-*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+*   [OpenFlutter/flutter\_share\_me](https://github.com/OpenFlutter/flutter_share_me) - Flutter Plugin for sharing contents to social media.  You can use it share to Facebook , WhatsApp , Twitter And System Share UI. Support Url and Text.
 
-*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+*   [wojteklu/Watchdog](https://github.com/wojteklu/Watchdog) - Class for logging excessive blocking on the main thread
 
-*   [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
+*   [objcio/app-architecture](https://github.com/objcio/app-architecture) - Sample Code of the App Architecture Book
 
-*   [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ The Open Research Copilot. Build high-perf Portfolios, Lab Sites & Docs in Markdown + Jupyter. 100% Data Control. 🦫 数据科学家的开源 Copilot。一键部署 👇
+*   [JohnSundell/Files](https://github.com/JohnSundell/Files) - A nicer way to handle files & folders in Swift
 
-*   [fishyer/MyPKM](https://github.com/fishyer/MyPKM) -
+*   [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
 
-*   [yuxiaoy1/chatfairy](https://github.com/yuxiaoy1/chatfairy) - A minimal chat application built with no deps but Flask!
+*   [realm/RealmContent](https://github.com/realm/RealmContent) - Light Realm-powered content management system
 
-*   [onlyGuo/nginx-gui](https://github.com/onlyGuo/nginx-gui) - Nginx GUI Manager
+*   [cythb/TomatoThings](https://github.com/cythb/TomatoThings) -
 
-*   [x-dr/tts](https://github.com/x-dr/tts) - 微软azure文本转语音 音频下载
+*   [fancymax/12306ForMac](https://github.com/fancymax/12306ForMac) - An unofficial 12306 Client for Mac
 
-*   [bunkat/later](https://github.com/bunkat/later) - A javascript library for defining recurring schedules and calculating future (or past) occurrences for them.  Includes support for using English phrases and Cron schedules.  Works in Node and in the browser.
+*   [KrisYu/Water](https://github.com/KrisYu/Water) - Simple calculation to render cheap water effects.
 
-*   [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
+*   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 
-*   [souying/vercel-api-proxy](https://github.com/souying/vercel-api-proxy) - vercel反向代理。完全免费，万能代理，可代理全网一切接口，包括openai、github、google、Telegram、全面代理ai项目一键安装
+## MDX
 
-*   [wayne0332/utools-hashcode-plugin](https://github.com/wayne0332/utools-hashcode-plugin) -
+*   [mixpanel/docs](https://github.com/mixpanel/docs) - Mixpanel's Official Documentation
 
-*   [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
+*   [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
-*   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
+*   [yujinyan/blog](https://github.com/yujinyan/blog) - Personal blog by Yu Jinyan.
 
-*   [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
+## Jupyter Notebook
 
-*   [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+*   [MLNLP-World/LLMs-from-scratch-CN](https://github.com/MLNLP-World/LLMs-from-scratch-CN) - LLMs-from-scratch项目中文翻译
 
-*   [zshell-zhang/zshell-zhang.github.io](https://github.com/zshell-zhang/zshell-zhang.github.io) - 个人 github page 博客内容存储仓库
+*   [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 
-*   [marcorichetta/fastapi-vercel](https://github.com/marcorichetta/fastapi-vercel) - A FastAPI example app deployed on Vercel
+*   [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 
-*   [PureWriter/writer.drakeet.com](https://github.com/PureWriter/writer.drakeet.com) -
+*   [dibingfa/shanke-machine-learning](https://github.com/dibingfa/shanke-machine-learning) -
 
-*   [fishyer/demo-kotlin](https://github.com/fishyer/demo-kotlin) - Kotlin学习笔记
+*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 
-*   [fishyer/MyLogseq-Bak](https://github.com/fishyer/MyLogseq-Bak) -
+*   [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 
-*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 
-*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
-
-*   [zkwlx/DroidTelescope](https://github.com/zkwlx/DroidTelescope) - DroidTelescope（DT），Android端App性能监控框架
-
-*   [open-power-workgroup/Hospital](https://github.com/open-power-workgroup/Hospital) - OpenPower工作组收集汇总的医院开放数据
-
-*   [alibaba/alpha](https://github.com/alibaba/alpha) - Alpha是一个基于PERT图构建的Android异步启动框架，它简单，高效，功能完善。 在应用启动的时候，我们通常会有很多工作需要做，为了提高启动速度，我们会尽可能让这些工作并发进行。但这些工作之间可能存在前后依赖的关系，所以我们又需要想办法保证他们执行顺序的正确性。Alpha就是为此而设计的，使用者只需定义好自己的task，并描述它依赖的task，将它添加到Project中。框架会自动并发有序地执行这些task，并将执行的结果抛出来。
-
-*   [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
-
-*   [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io) - Jekyll Themes / GitHub Pages 博客模板 / A template repository for Jekyll based blog
-
-*   [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
-
-*   [iamjoel/front-end-note](https://github.com/iamjoel/front-end-note) - :memo: Web前端洞见。有深度的Web 前端内容。
+*   [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 
 ## Kotlin
 
@@ -4004,8 +4006,6 @@
 *   [greenrobot/greenDAO](https://github.com/greenrobot/greenDAO) - greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.
 
 *   [pardom-zz/ActiveAndroid](https://github.com/pardom-zz/ActiveAndroid) - Active record style SQLite persistence for Android
-
-*   [duzechao/OKHttpUtils](https://github.com/duzechao/OKHttpUtils) - 对OkHttp进行封装，网络请求失败自动查询本地缓存,上传文件等功能
 
 ## C
 
