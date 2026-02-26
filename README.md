@@ -13,8 +13,8 @@
 
 ## Table of Contents
 
-*   [HTML](#html)
 *   [TypeScript](#typescript)
+*   [HTML](#html)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Dart](#dart)
@@ -63,93 +63,9 @@
 *   [GCC Machine Description](#gcc-machine-description)
 *   [TeX](#tex)
 
-## HTML
-
-*   [knownsec/aipyapp](https://github.com/knownsec/aipyapp) - AI-Powered Python & Python-Powered AI (Python-Use)
-
-*   [rango886/FreeBili](https://github.com/rango886/FreeBili) - 自由哔站是一个高性能、使用方便的影视聚合搜索和播放工具
-
-*   [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar) - 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用
-
-*   [littlemagic8/littlemagic8.github.io](https://github.com/littlemagic8/littlemagic8.github.io) - BY Blog ->
-
-*   [rehiy/touch-js](https://github.com/rehiy/touch-js) - 面向移动端的手势类库
-
-*   [wushufen/wui](https://github.com/wushufen/wui) - 无依赖，支持vue和react的ui框架
-
-*   [lucasbordeau/obsidian-tiddlywiki](https://github.com/lucasbordeau/obsidian-tiddlywiki) - Import/export TiddlyWiki tiddler files with Obsidian
-
-*   [huangshiyu13/webtemplate](https://github.com/huangshiyu13/webtemplate) - 收集各种网站前端模板
-
-*   [luolin-ai/Enterprise-WeChat-GPTbot](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot) - 基于企微gpt知识库的bot机器人，能够自动回复企业微信中收到的消息。这个机器人能够处理私聊和群聊，还可以记住与用户的聊天内容，从而做出更加贴合上下文的回应。此外，您还可以设置白名单来控制机器人与哪些用户或群组交互。
-
-*   [phodal/toolbox](https://github.com/phodal/toolbox) - Phodal's Toolbox
-
-*   [fishyer/MyNote](https://github.com/fishyer/MyNote) - MyLogseq
-
-*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
-
-*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-
-*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-
-*   [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
-
-*   [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ The Open Research Copilot. Build high-perf Portfolios, Lab Sites & Docs in Markdown + Jupyter. 100% Data Control. 🦫 数据科学家的开源 Copilot。一键部署 👇
-
-*   [fishyer/MyPKM](https://github.com/fishyer/MyPKM) -
-
-*   [yuxiaoy1/chatfairy](https://github.com/yuxiaoy1/chatfairy) - A minimal chat application built with no deps but Flask!
-
-*   [onlyGuo/nginx-gui](https://github.com/onlyGuo/nginx-gui) - Nginx GUI Manager
-
-*   [x-dr/tts](https://github.com/x-dr/tts) - 微软azure文本转语音 音频下载
-
-*   [bunkat/later](https://github.com/bunkat/later) - A javascript library for defining recurring schedules and calculating future (or past) occurrences for them.  Includes support for using English phrases and Cron schedules.  Works in Node and in the browser.
-
-*   [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
-
-*   [souying/vercel-api-proxy](https://github.com/souying/vercel-api-proxy) - vercel反向代理。完全免费，万能代理，可代理全网一切接口，包括openai、github、google、Telegram、全面代理ai项目一键安装
-
-*   [wayne0332/utools-hashcode-plugin](https://github.com/wayne0332/utools-hashcode-plugin) -
-
-*   [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
-
-*   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
-
-*   [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
-
-*   [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-
-*   [zshell-zhang/zshell-zhang.github.io](https://github.com/zshell-zhang/zshell-zhang.github.io) - 个人 github page 博客内容存储仓库
-
-*   [marcorichetta/fastapi-vercel](https://github.com/marcorichetta/fastapi-vercel) - A FastAPI example app deployed on Vercel
-
-*   [PureWriter/writer.drakeet.com](https://github.com/PureWriter/writer.drakeet.com) -
-
-*   [fishyer/demo-kotlin](https://github.com/fishyer/demo-kotlin) - Kotlin学习笔记
-
-*   [fishyer/MyLogseq-Bak](https://github.com/fishyer/MyLogseq-Bak) -
-
-*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-
-*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
-
-*   [zkwlx/DroidTelescope](https://github.com/zkwlx/DroidTelescope) - DroidTelescope（DT），Android端App性能监控框架
-
-*   [open-power-workgroup/Hospital](https://github.com/open-power-workgroup/Hospital) - OpenPower工作组收集汇总的医院开放数据
-
-*   [alibaba/alpha](https://github.com/alibaba/alpha) - Alpha是一个基于PERT图构建的Android异步启动框架，它简单，高效，功能完善。 在应用启动的时候，我们通常会有很多工作需要做，为了提高启动速度，我们会尽可能让这些工作并发进行。但这些工作之间可能存在前后依赖的关系，所以我们又需要想办法保证他们执行顺序的正确性。Alpha就是为此而设计的，使用者只需定义好自己的task，并描述它依赖的task，将它添加到Project中。框架会自动并发有序地执行这些task，并将执行的结果抛出来。
-
-*   [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
-
-*   [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io) - Jekyll Themes / GitHub Pages 博客模板 / A template repository for Jekyll based blog
-
-*   [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
-
-*   [iamjoel/front-end-note](https://github.com/iamjoel/front-end-note) - :memo: Web前端洞见。有深度的Web 前端内容。
-
 ## TypeScript
+
+*   [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合服务
 
 *   [poco-ai/poco-agent](https://github.com/poco-ai/poco-agent) - A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, and a sandboxed runtime for improved safety. Under the hood, it is powered by a Claude Code–based agent.
 
@@ -662,6 +578,92 @@
 *   [jeneser/ionic-super-bar](https://github.com/jeneser/ionic-super-bar) - Transparent statusBar and awesome toolBar DEMO in ionic
 
 *   [phodal/growth-ionic](https://github.com/phodal/growth-ionic) - \[v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
+
+## HTML
+
+*   [knownsec/aipyapp](https://github.com/knownsec/aipyapp) - AI-Powered Python & Python-Powered AI (Python-Use)
+
+*   [rango886/FreeBili](https://github.com/rango886/FreeBili) - 自由哔站是一个高性能、使用方便的影视聚合搜索和播放工具
+
+*   [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar) - 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用
+
+*   [littlemagic8/littlemagic8.github.io](https://github.com/littlemagic8/littlemagic8.github.io) - BY Blog ->
+
+*   [rehiy/touch-js](https://github.com/rehiy/touch-js) - 面向移动端的手势类库
+
+*   [wushufen/wui](https://github.com/wushufen/wui) - 无依赖，支持vue和react的ui框架
+
+*   [lucasbordeau/obsidian-tiddlywiki](https://github.com/lucasbordeau/obsidian-tiddlywiki) - Import/export TiddlyWiki tiddler files with Obsidian
+
+*   [huangshiyu13/webtemplate](https://github.com/huangshiyu13/webtemplate) - 收集各种网站前端模板
+
+*   [luolin-ai/Enterprise-WeChat-GPTbot](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot) - 基于企微gpt知识库的bot机器人，能够自动回复企业微信中收到的消息。这个机器人能够处理私聊和群聊，还可以记住与用户的聊天内容，从而做出更加贴合上下文的回应。此外，您还可以设置白名单来控制机器人与哪些用户或群组交互。
+
+*   [phodal/toolbox](https://github.com/phodal/toolbox) - Phodal's Toolbox
+
+*   [fishyer/MyNote](https://github.com/fishyer/MyNote) - MyLogseq
+
+*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+
+*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
+*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+
+*   [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
+
+*   [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ The Open Research Copilot. Build high-perf Portfolios, Lab Sites & Docs in Markdown + Jupyter. 100% Data Control. 🦫 数据科学家的开源 Copilot。一键部署 👇
+
+*   [fishyer/MyPKM](https://github.com/fishyer/MyPKM) -
+
+*   [yuxiaoy1/chatfairy](https://github.com/yuxiaoy1/chatfairy) - A minimal chat application built with no deps but Flask!
+
+*   [onlyGuo/nginx-gui](https://github.com/onlyGuo/nginx-gui) - Nginx GUI Manager
+
+*   [x-dr/tts](https://github.com/x-dr/tts) - 微软azure文本转语音 音频下载
+
+*   [bunkat/later](https://github.com/bunkat/later) - A javascript library for defining recurring schedules and calculating future (or past) occurrences for them.  Includes support for using English phrases and Cron schedules.  Works in Node and in the browser.
+
+*   [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
+
+*   [souying/vercel-api-proxy](https://github.com/souying/vercel-api-proxy) - vercel反向代理。完全免费，万能代理，可代理全网一切接口，包括openai、github、google、Telegram、全面代理ai项目一键安装
+
+*   [wayne0332/utools-hashcode-plugin](https://github.com/wayne0332/utools-hashcode-plugin) -
+
+*   [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
+
+*   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
+
+*   [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
+
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
+*   [zshell-zhang/zshell-zhang.github.io](https://github.com/zshell-zhang/zshell-zhang.github.io) - 个人 github page 博客内容存储仓库
+
+*   [marcorichetta/fastapi-vercel](https://github.com/marcorichetta/fastapi-vercel) - A FastAPI example app deployed on Vercel
+
+*   [PureWriter/writer.drakeet.com](https://github.com/PureWriter/writer.drakeet.com) -
+
+*   [fishyer/demo-kotlin](https://github.com/fishyer/demo-kotlin) - Kotlin学习笔记
+
+*   [fishyer/MyLogseq-Bak](https://github.com/fishyer/MyLogseq-Bak) -
+
+*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+
+*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
+
+*   [zkwlx/DroidTelescope](https://github.com/zkwlx/DroidTelescope) - DroidTelescope（DT），Android端App性能监控框架
+
+*   [open-power-workgroup/Hospital](https://github.com/open-power-workgroup/Hospital) - OpenPower工作组收集汇总的医院开放数据
+
+*   [alibaba/alpha](https://github.com/alibaba/alpha) - Alpha是一个基于PERT图构建的Android异步启动框架，它简单，高效，功能完善。 在应用启动的时候，我们通常会有很多工作需要做，为了提高启动速度，我们会尽可能让这些工作并发进行。但这些工作之间可能存在前后依赖的关系，所以我们又需要想办法保证他们执行顺序的正确性。Alpha就是为此而设计的，使用者只需定义好自己的task，并描述它依赖的task，将它添加到Project中。框架会自动并发有序地执行这些task，并将执行的结果抛出来。
+
+*   [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
+
+*   [mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io) - Jekyll Themes / GitHub Pages 博客模板 / A template repository for Jekyll based blog
+
+*   [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
+
+*   [iamjoel/front-end-note](https://github.com/iamjoel/front-end-note) - :memo: Web前端洞见。有深度的Web 前端内容。
 
 ## Python
 
@@ -1588,8 +1590,6 @@
 *   [xirong/my-git](https://github.com/xirong/my-git) - Individual collecting material of learning git（有关 git 的学习资料）
 
 *   [Tim9Liu9/TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android) - 自己总结的Android开源项目及库
-
-*   [CharonChui/AndroidNote](https://github.com/CharonChui/AndroidNote) - Android study notes.
 
 ## Dart
 
