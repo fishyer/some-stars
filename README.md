@@ -1205,7 +1205,7 @@
 
 *   [xianyu110/clawbot](https://github.com/xianyu110/clawbot) - Clawdbot完整配置指南：从安装到Claude Code中转
 
-*   [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
+*   [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 
 *   [sunpix/claude-code-web](https://github.com/sunpix/claude-code-web) - A web-based interface for Claude Code CLI built with Nuxt 4, featuring real-time chat, project management, and comprehensive tool integration with mobile-first PWA design.
 
