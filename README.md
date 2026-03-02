@@ -677,7 +677,7 @@
 
 *   [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) -
 
-*   [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
+*   [emcie-co/parlant](https://github.com/emcie-co/parlant) - The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer interactions.
 
 *   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 
