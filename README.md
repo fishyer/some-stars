@@ -667,8 +667,6 @@
 
 *   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 
-*   [kimwang1978/collect-txt](https://github.com/kimwang1978/collect-txt) - 源 (自动整理)
-
 *   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 
 *   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -856,6 +854,8 @@
 *   [yinan-c/RSSbrew](https://github.com/yinan-c/RSSbrew) - Self-hosted, easy-to-deploy RSS tool - Aggregate, filter, digest and AI summarize articles in RSS feeds.
 
 *   [FlorianEagox/RSSpeak](https://github.com/FlorianEagox/RSSpeak) - Generate audio content from an RSS feed with TTS and voice cloning for my blog!
+
+*   [kimwang1978/collect-txt](https://github.com/kimwang1978/collect-txt) - 源 (自动整理)
 
 *   [yuzhouxingzou/audio\_trimmer\_baseon\_ass](https://github.com/yuzhouxingzou/audio_trimmer_baseon_ass) - 使用ass字幕文件为基础的音频切片程序
 
