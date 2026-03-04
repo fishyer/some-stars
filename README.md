@@ -65,6 +65,8 @@
 
 ## TypeScript
 
+*   [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
+
 *   [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
 
 *   [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合服务
@@ -103,7 +105,7 @@
 
 *   [zimya/zhihu\_obsidian](https://github.com/zimya/zhihu_obsidian) - Zhihu on Obsidian | 知乎 Obsidian 插件
 
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 
 *   [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 
@@ -4004,8 +4006,6 @@
 *   [hongyangAndroid/base-adapter-helper](https://github.com/hongyangAndroid/base-adapter-helper) - 扩展支持多种Item布局的情况
 
 *   [jianjianH/Order](https://github.com/jianjianH/Order) - 详细介绍Android中SQLite的使用
-
-*   [huangfangyi/FanXin](https://github.com/huangfangyi/FanXin) - IM服务器端+Api服务器+客户端(android+ios)全部开源的项目->https://github.com/YiChat
 
 ## C
 
