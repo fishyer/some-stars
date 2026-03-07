@@ -65,6 +65,8 @@
 
 ## TypeScript
 
+*   [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+
 *   [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 
 *   [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
@@ -4004,8 +4006,6 @@
 *   [tangqi92/MyGreenDAO](https://github.com/tangqi92/MyGreenDAO) - A simple demo of GreenDAO.
 
 *   [amulyakhare/TextDrawable](https://github.com/amulyakhare/TextDrawable) - This light-weight library provides images with letter/text like the Gmail app. It extends the Drawable class thus can be used with existing/custom/network ImageView classes. Also included is a fluent interface for creating drawables and a customizable ColorGenerator.
-
-*   [imlinhao/website-hello-world](https://github.com/imlinhao/website-hello-world) - Spring Personal Website
 
 ## C
 
