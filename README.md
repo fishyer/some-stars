@@ -97,6 +97,8 @@
 
 *   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
+*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
+
 *   [AndyMik90/Aperant](https://github.com/AndyMik90/Aperant) - Autonomous multi-session AI coding
 
 *   [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
@@ -108,8 +110,6 @@
 *   [nashaofu/shell360](https://github.com/nashaofu/shell360) - Shell360 is a cross-platform SSH and SFTP client.
 
 *   [zimya/zhihu\_obsidian](https://github.com/zimya/zhihu_obsidian) - Zhihu on Obsidian | 知乎 Obsidian 插件
-
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 
 *   [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 
@@ -591,6 +591,8 @@
 
 *   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
+
 *   [ronghuaxueleng/claude-code-config-manage-gui](https://github.com/ronghuaxueleng/claude-code-config-manage-gui) - Windows下的claude code配置可视化管理工具
 
 *   [Esubaalew/run](https://github.com/Esubaalew/run) - Universal multi-language runner and smart REPL written in Rust.
@@ -724,8 +726,6 @@
 *   [yued-fe/lulu](https://github.com/yued-fe/lulu) - 跨端跨框架的原生 UI 组件库，即插即用
 
 *   [ThinkingXuan/GithubActionLearning](https://github.com/ThinkingXuan/GithubActionLearning) - 🥨学习使用github的Action的使用https://thinkingxuan.github.io/GithubActionLearning/🥨
-
-*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 
 *   [alchaincyf/huasheng\_editor](https://github.com/alchaincyf/huasheng_editor) - 花生公众号排版器
 
