@@ -75,6 +75,8 @@
 
 *   [ThinkingXuan/GithubActionLearning](https://github.com/ThinkingXuan/GithubActionLearning) - 🥨学习使用github的Action的使用https://thinkingxuan.github.io/GithubActionLearning/🥨
 
+*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
+
 *   [alchaincyf/huasheng\_editor](https://github.com/alchaincyf/huasheng_editor) - 花生公众号排版器
 
 *   [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
@@ -496,8 +498,6 @@
 *   [henryhale/xterminal](https://github.com/henryhale/xterminal) - 🔳 Create web-based command line interfaces
 
 *   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-
-*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 
 *   [AndyMik90/Aperant](https://github.com/AndyMik90/Aperant) - Autonomous multi-session AI coding
 
