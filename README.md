@@ -141,7 +141,7 @@
 
 *   [chenpengyin11/NotionNext](https://github.com/chenpengyin11/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
 
-*   [kuizuo/js-deobfuscator](https://github.com/kuizuo/js-deobfuscator) - 让混淆不再成为逆向分析中的绊脚石。基于 Babel AST 的自动化 JS 反混淆工具，提供在线 Playground、命令行与可编程 API。
+*   [kuizuo/js-deobfuscator](https://github.com/kuizuo/js-deobfuscator) - An automated JavaScript deobfuscation tool based on Babel AST, with an online playground, CLI, and programmable API.
 
 *   [jojoin/TribeDB](https://github.com/jojoin/TribeDB) - Node.js 实现的 MySQL 分表分库中间件，用于海量数据的分布式集群储存管理和高并发访问。
 
