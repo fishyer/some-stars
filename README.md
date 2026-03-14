@@ -2285,8 +2285,6 @@
 
 *   [Demizo/Daily\_You](https://github.com/Demizo/Daily_You) - Every day is worth remembering...
 
-*   [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
-
 *   [nightmare-space/code\_lfa](https://github.com/nightmare-space/code_lfa) - Port VS Code to Android and support local operation
 
 *   [BFWXKJGS/AlistClient](https://github.com/BFWXKJGS/AlistClient) - AList Client for iOS and Android. / 基于 AList api 开发的 Android 和 iOS 客户端
@@ -2658,6 +2656,8 @@
 *   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
 *   [knighthat/Kreate](https://github.com/knighthat/Kreate) - A multilingual YouTube Music frontend for Android, prioritize performance
+
+*   [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 
 *   [anthonycr/Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) - A lightweight Android browser with modern navigation
 
