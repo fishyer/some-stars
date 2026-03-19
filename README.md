@@ -921,9 +921,9 @@
 
 *   [le0zh/blog](https://github.com/le0zh/blog) -
 
-*   [AlanCheen/Android-Resources](https://github.com/AlanCheen/Android-Resources) - 优秀的Android资源收集与整理
+*   [czn6/Android-Resources](https://github.com/czn6/Android-Resources) - 优秀的Android资源收集与整理
 
-*   [AlanCheen/ReadingNotes](https://github.com/AlanCheen/ReadingNotes) - 记录一些书籍的比较，阅读心得，在加上自己的看法
+*   [czn6/ReadingNotes](https://github.com/czn6/ReadingNotes) - 记录一些书籍的比较，阅读心得，在加上自己的看法
 
 *   [RTFSC-Android/RTFSC](https://github.com/RTFSC-Android/RTFSC) - Let's Read The Fucking Source Code
 
