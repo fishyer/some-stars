@@ -601,7 +601,7 @@
 
 *   [phith0n/py-wget](https://github.com/phith0n/py-wget) - small wget by python
 
-*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 
 *   [mmin18/LayoutCast](https://github.com/mmin18/LayoutCast) - Cast android code and resource changes to the running application through ADB.
 
