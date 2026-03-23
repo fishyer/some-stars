@@ -357,6 +357,8 @@
 
 *   [ihandmine/aioscpy](https://github.com/ihandmine/aioscpy) - An asyncio + aiolibs crawler  imitate scrapy framework
 
+*   [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
+
 *   [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 
 *   [BITCS-Information-Retrieval-2020/crawler-icanonlycrawl](https://github.com/BITCS-Information-Retrieval-2020/crawler-icanonlycrawl) - crawler-icanonlycrawl created by GitHub Classroom
@@ -2170,8 +2172,6 @@
 *   [souying/vercel-api-proxy](https://github.com/souying/vercel-api-proxy) - vercel反向代理。完全免费，万能代理，可代理全网一切接口，包括openai、github、google、Telegram、全面代理ai项目一键安装
 
 *   [wayne0332/utools-hashcode-plugin](https://github.com/wayne0332/utools-hashcode-plugin) -
-
-*   [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 
 *   [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 
