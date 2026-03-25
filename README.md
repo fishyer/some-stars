@@ -3369,8 +3369,6 @@
 
 *   [AlbieLiang/ArbitraryGen](https://github.com/AlbieLiang/ArbitraryGen) - A code generator
 
-*   [zhaohaihao/easy-cg](https://github.com/zhaohaihao/easy-cg) - 🔧代码生成器计划迭代中... 旧版本代码生成器访问移步：https://github.com/zhaohaihao/easy-cg/tree/v1.0.1
-
 *   [zzz40500/GsonFormat](https://github.com/zzz40500/GsonFormat) - 根据Gson库使用的要求,将JSONObject格式的String  解析成实体
 
 *   [XWC95/Atoms-mvp](https://github.com/XWC95/Atoms-mvp) - A component  architecture for android applications based on MVP
@@ -4004,6 +4002,8 @@
 *   [yezhidong/Memo](https://github.com/yezhidong/Memo) - 一款基于Google Material Design设计开发的Android密码管理客户端--怕死我的（PassWord）如果对你有帮助，欢迎多多的star
 
 *   [LuckyJayce/MVCHelper](https://github.com/LuckyJayce/MVCHelper) - 实现下拉刷新，滚动底部自动加载更多，分页加载，自动切换显示网络失败布局，暂无数据布局，支持任意view，支持切换主流下拉刷新框架，真正的android MVC架构,listview,RecyclerView,refresh,loadmore
+
+*   [hongyangAndroid/AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) - \[停止维护]Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。
 
 ## C
 
