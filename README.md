@@ -3419,8 +3419,6 @@
 
 *   [EvilBT/SherlockAdapter](https://github.com/EvilBT/SherlockAdapter) - 一个万能的封装了RecyclerView.Adapter的功能库。
 
-*   [OnlyYouMyLove/MVP](https://github.com/OnlyYouMyLove/MVP) - A demo teaches you how to write MVP architecture.
-
 *   [AlbieLiang/ArbitraryGen](https://github.com/AlbieLiang/ArbitraryGen) - A code generator
 
 *   [zzz40500/GsonFormat](https://github.com/zzz40500/GsonFormat) - 根据Gson库使用的要求,将JSONObject格式的String  解析成实体
@@ -4060,6 +4058,8 @@
 *   [hongyangAndroid/AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) - \[停止维护]Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。
 
 *   [bingoogolapple/BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android) - 多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位
+
+*   [GcsSloop/SUtil](https://github.com/GcsSloop/SUtil) - Sloop的工具箱
 
 ## C
 
