@@ -3033,7 +3033,7 @@
 
 *   [xiaojianglaile/Calendar](https://github.com/xiaojianglaile/Calendar) - Android日历 仿小米 华为 滴答清单 365日历（农历），周视图 月视图 平滑滚动 节假日 五六行周切换 week or month calendar
 
-*   [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
+*   [halo-dev/halo](https://github.com/halo-dev/halo) - Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。
 
 *   [donkingliang/GroupedRecyclerViewAdapter](https://github.com/donkingliang/GroupedRecyclerViewAdapter) - GroupedRecyclerViewAdapter可以很方便的实现RecyclerView的分组显示，并且每个组都可以包含组头、组尾和子项；可以方便实现多种Type类型的列表，可以实现如QQ联系人的列表一样的列表展开收起功能，还可以实现头部悬浮吸顶功能等。
 
