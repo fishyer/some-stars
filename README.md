@@ -13,8 +13,8 @@
 
 ## Table of Contents
 
-*   [PHP](#php)
 *   [TypeScript](#typescript)
+*   [PHP](#php)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
@@ -63,65 +63,9 @@
 *   [GCC Machine Description](#gcc-machine-description)
 *   [TeX](#tex)
 
-## PHP
-
-*   [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
-
-*   [eevleevs/workflowy-backup](https://github.com/eevleevs/workflowy-backup) -
-
-*   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP
-
-*   [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
-
-*   [liaocp666/Jasmine](https://github.com/liaocp666/Jasmine) - Jasmine，一款精致的Typecho博客主题
-
-*   [SiGool/Gzh2typecho](https://github.com/SiGool/Gzh2typecho) - 微信公众号对话发布typecho文章
-
-*   [Abner1995/OmniPlatform](https://github.com/Abner1995/OmniPlatform) - 提供一个统一的接口来处理不同平台（如微信、抖音、快手）的SDK集成。
-
-*   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-
-*   [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
-
-*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
-
-*   [diycp/web](https://github.com/diycp/web) - A step by step to the whole stack of engineers. self taught.
-
-*   [im286er/tp-admin-1](https://github.com/im286er/tp-admin-1) - 基于ThinkPHP5拿来即用高性能后台管理系统
-
-*   [top-think/think](https://github.com/top-think/think) - ThinkPHP Framework ——二十年匠心的高性能PHP框架
-
-*   [zoujingli/ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) - 基于 ThinkPHP6&8 的极简后台管理系统，内置注解权限、异步多任务、应用插件生态等，支持类 PaaS 更新公共模块和应用插件，插件可本地化定制开发。
-
-*   [m9rco/Think.Admin](https://github.com/m9rco/Think.Admin) - 基于 Thinkphp5 的后台管理系统
-
-*   [pigeonpig/kod](https://github.com/pigeonpig/kod) - 理论上能在Replit跑的可道云
-
-*   [xing61/zzz-api](https://github.com/xing61/zzz-api) - 优质稳定的OpenAI、Claude等的API接口-For企业和开发者。OpenAI的api proxy，支持ChatGPT的API调用，支持Anthropic claude的官方接口形式，支持Google gemini的官方接口形式，支持：gpt-5，sora。不需要openai Key, 不需要买openai的账号，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！智增增
-
-*   [jiangxianli/ProxyIpLib](https://github.com/jiangxianli/ProxyIpLib) - 全球免费代理IP库，高可用IP，精心筛选优质IP,2s必达
-
-*   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
-
-*   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
-
-*   [zyx0814/Pichome](https://github.com/zyx0814/Pichome) - 一款图片与媒体文件管理功能强大的开源网盘程序
-
-*   [st1ven/Dida365Api](https://github.com/st1ven/Dida365Api) - Web API for Dida365（滴答清单）
-
-*   [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目。
-
-*   [helloxz/yqdoc](https://github.com/helloxz/yqdoc) - 基于语雀API开发的文档系统
-
-*   [johansatge/workflowy-php](https://github.com/johansatge/workflowy-php) - 💡 Unofficial WorkFlowy API written in PHP.
-
-*   [jadec0der/alfred-ocr](https://github.com/jadec0der/alfred-ocr) -
-
-*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-
-*   [nemoTyrant/manong](https://github.com/nemoTyrant/manong) - 码农周刊整理
-
 ## TypeScript
+
+*   [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The coding agent built for the web. stagewise is a purpose-built browser for developers with a coding agent built right in.
 
 *   [josdejong/jsonrepair](https://github.com/josdejong/jsonrepair) - Repair invalid JSON documents
 
@@ -648,6 +592,64 @@
 *   [jeneser/ionic-super-bar](https://github.com/jeneser/ionic-super-bar) - Transparent statusBar and awesome toolBar DEMO in ionic
 
 *   [phodal/growth-ionic](https://github.com/phodal/growth-ionic) - \[v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
+
+## PHP
+
+*   [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
+
+*   [eevleevs/workflowy-backup](https://github.com/eevleevs/workflowy-backup) -
+
+*   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP
+
+*   [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
+
+*   [liaocp666/Jasmine](https://github.com/liaocp666/Jasmine) - Jasmine，一款精致的Typecho博客主题
+
+*   [SiGool/Gzh2typecho](https://github.com/SiGool/Gzh2typecho) - 微信公众号对话发布typecho文章
+
+*   [Abner1995/OmniPlatform](https://github.com/Abner1995/OmniPlatform) - 提供一个统一的接口来处理不同平台（如微信、抖音、快手）的SDK集成。
+
+*   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+
+*   [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
+
+*   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
+
+*   [diycp/web](https://github.com/diycp/web) - A step by step to the whole stack of engineers. self taught.
+
+*   [im286er/tp-admin-1](https://github.com/im286er/tp-admin-1) - 基于ThinkPHP5拿来即用高性能后台管理系统
+
+*   [top-think/think](https://github.com/top-think/think) - ThinkPHP Framework ——二十年匠心的高性能PHP框架
+
+*   [zoujingli/ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) - 基于 ThinkPHP6&8 的极简后台管理系统，内置注解权限、异步多任务、应用插件生态等，支持类 PaaS 更新公共模块和应用插件，插件可本地化定制开发。
+
+*   [m9rco/Think.Admin](https://github.com/m9rco/Think.Admin) - 基于 Thinkphp5 的后台管理系统
+
+*   [pigeonpig/kod](https://github.com/pigeonpig/kod) - 理论上能在Replit跑的可道云
+
+*   [xing61/zzz-api](https://github.com/xing61/zzz-api) - 优质稳定的OpenAI、Claude等的API接口-For企业和开发者。OpenAI的api proxy，支持ChatGPT的API调用，支持Anthropic claude的官方接口形式，支持Google gemini的官方接口形式，支持：gpt-5，sora。不需要openai Key, 不需要买openai的账号，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！智增增
+
+*   [jiangxianli/ProxyIpLib](https://github.com/jiangxianli/ProxyIpLib) - 全球免费代理IP库，高可用IP，精心筛选优质IP,2s必达
+
+*   [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
+
+*   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
+
+*   [zyx0814/Pichome](https://github.com/zyx0814/Pichome) - 一款图片与媒体文件管理功能强大的开源网盘程序
+
+*   [st1ven/Dida365Api](https://github.com/st1ven/Dida365Api) - Web API for Dida365（滴答清单）
+
+*   [guanguans/favorite-link](https://github.com/guanguans/favorite-link) - ❤️ 每天收集喜欢的开源项目。
+
+*   [helloxz/yqdoc](https://github.com/helloxz/yqdoc) - 基于语雀API开发的文档系统
+
+*   [johansatge/workflowy-php](https://github.com/johansatge/workflowy-php) - 💡 Unofficial WorkFlowy API written in PHP.
+
+*   [jadec0der/alfred-ocr](https://github.com/jadec0der/alfred-ocr) -
+
+*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+
+*   [nemoTyrant/manong](https://github.com/nemoTyrant/manong) - 码农周刊整理
 
 ## Python
 
@@ -4058,8 +4060,6 @@
 *   [hongyangAndroid/AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) - \[停止维护]Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。
 
 *   [bingoogolapple/BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android) - 多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位
-
-*   [GcsSloop/SUtil](https://github.com/GcsSloop/SUtil) - Sloop的工具箱
 
 ## C
 
