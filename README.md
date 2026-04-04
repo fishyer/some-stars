@@ -1915,7 +1915,7 @@
 
 *   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 
-*   [zyx0814/Pichome](https://github.com/zyx0814/Pichome) - 一款图片与媒体文件管理功能强大的开源网盘程序
+*   [zyx0814/FilePress](https://github.com/zyx0814/FilePress) - 一款全新的文件驱动型建站系统
 
 *   [st1ven/Dida365Api](https://github.com/st1ven/Dida365Api) - Web API for Dida365（滴答清单）
 
