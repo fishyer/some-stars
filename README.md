@@ -65,6 +65,8 @@
 
 ## Python
 
+*   [sentient-agi/EvoSkill](https://github.com/sentient-agi/EvoSkill) - EvoSkill — An open-source framework that automatically discovers and synthesizes reusable agent skills from failed trajectories to improve coding agent performance.
+
 *   [EvoScientist/EvoSkills](https://github.com/EvoScientist/EvoSkills) - 🧬 Extend EvoScientist with Installable Skill & Knowledge Packs
 
 *   [EvoScientist/EvoScientist](https://github.com/EvoScientist/EvoScientist) - 🔬 Harness Vibe Research with Self-evolving AI Scientists
@@ -4058,8 +4060,6 @@
 *   [hongyangAndroid/baseAdapter](https://github.com/hongyangAndroid/baseAdapter) - Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。
 
 *   [android-quick-dev/NonViewUtils](https://github.com/android-quick-dev/NonViewUtils) - 不涉及视图的工具类，逻辑类的集合
-
-*   [zhazhaxin/RestHttp](https://github.com/zhazhaxin/RestHttp) - Android简单易用的网络库，支持 Http，Https，Http 文件上传，图片加载，面向接口的 API 调用方式，轻量的设计
 
 ## C
 
