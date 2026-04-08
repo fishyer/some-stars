@@ -1357,6 +1357,8 @@
 
 *   [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 删库
 
+*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+
 *   [dongyubin/DockerHub](https://github.com/dongyubin/DockerHub) - 2026年4月更新，目前国内可用Docker镜像源汇总，DockerHub国内镜像加速列表，🚀DockerHub镜像加速器
 
 *   [Jackpopc/DevWeekly](https://github.com/Jackpopc/DevWeekly) - 每周五发布，精选优质开发者内容，包括开源项目、工具资源、技术文章等方面。
@@ -4058,8 +4060,6 @@
 *   [pengjianbo/MutiChannelPackup](https://github.com/pengjianbo/MutiChannelPackup) - Android多渠道打包，有网页版，Gradle版，Python版、BAT脚本、Jar版…
 
 *   [hongyangAndroid/baseAdapter](https://github.com/hongyangAndroid/baseAdapter) - Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。
-
-*   [android-quick-dev/NonViewUtils](https://github.com/android-quick-dev/NonViewUtils) - 不涉及视图的工具类，逻辑类的集合
 
 ## C
 
