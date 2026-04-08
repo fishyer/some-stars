@@ -65,6 +65,8 @@
 
 ## Python
 
+*   [cinience/alicloud-skills](https://github.com/cinience/alicloud-skills) - alibaba cloud skills，qwen ，wan and all skills
+
 *   [makediff/wucai-openclaw](https://github.com/makediff/wucai-openclaw) - 五彩 AI SKILL
 
 *   [djsudduth/keep-it-markdown](https://github.com/djsudduth/keep-it-markdown) - Export and convert Google Keep notes dynamically to markdown for Obsidian, Apple Notes, Logseq, Joplin and Notion using the unofficial Keep API. Also, import simple markdown notes back into Google Keep.
@@ -4058,8 +4060,6 @@
 *   [taoweiji/DBFlowExample](https://github.com/taoweiji/DBFlowExample) - DBFlow，综合了 ActiveAndroid, Schematic, Ollie,Sprinkles 等库的优点。同时不是基于反射，所以性能也是非常高，效率紧跟greenDAO其后。基于注解，使用apt技术，在编译过程中生成操作类，使用方式和ActiveAndroid高度相似，使用简单。
 
 *   [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
-
-*   [wasabeef/glide-transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library providing a variety of image transformations for Glide.
 
 ## C
 
