@@ -937,6 +937,8 @@
 
 *   [emilast/vscode-logfile-highlighter](https://github.com/emilast/vscode-logfile-highlighter) - A Visual Studio Code extension for color highlighting log files
 
+*   [tsejx/devops-guidebook](https://github.com/tsejx/devops-guidebook) - 📚 DevOps 知识图谱 关于Linux、服务器、数据库、部署等相关体系
+
 *   [twilio/twilio-node](https://github.com/twilio/twilio-node) - Node.js helper library
 
 *   [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
@@ -2116,8 +2118,6 @@
 *   [listen1/listen1\_chrome\_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
 
 *   [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange\_book: 根据 RSS 订阅最新前端技术文章并自动分类
-
-*   [tsejx/devops-guidebook](https://github.com/tsejx/devops-guidebook) - 📚 DevOps 知识图谱 关于Linux、服务器、数据库、部署等相关体系
 
 *   [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 
