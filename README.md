@@ -65,6 +65,8 @@
 
 ## TypeScript
 
+*   [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) -
+
 *   [21st-dev/21st-sdk](https://github.com/21st-dev/21st-sdk) -
 
 *   [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
@@ -1117,7 +1119,7 @@
 
 *   [debuggerx01/JSONFormat4Flutter](https://github.com/debuggerx01/JSONFormat4Flutter) - 受zzz40500/GsonFormat启发，将JSONObject格式的String解析成dart语言的实体类
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 
 *   [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 
@@ -4058,8 +4060,6 @@
 *   [android-cn/android-open-project-demo](https://github.com/android-cn/android-open-project-demo) - Demo of android open source project, 微信公众号:codekk, 网站:
 
 *   [cglib/cglib](https://github.com/cglib/cglib) - cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access.
-
-*   [pengjianbo/MutiChannelPackup](https://github.com/pengjianbo/MutiChannelPackup) - Android多渠道打包，有网页版，Gradle版，Python版、BAT脚本、Jar版…
 
 ## C
 
