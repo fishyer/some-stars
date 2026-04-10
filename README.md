@@ -1315,7 +1315,7 @@
 
 ## miscellaneous
 
-*   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
+*   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
 *   [liwanggui/macOS-tool](https://github.com/liwanggui/macOS-tool) - 开发效率提升：Mac生产力工具链推荐
 
