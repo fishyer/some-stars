@@ -2385,8 +2385,6 @@
 
 *   [Chevey339/kelivo](https://github.com/Chevey339/kelivo) - A Flutter LLM Chat Client. Support Mobile & Desktop.
 
-*   [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
-
 *   [ionicfirebaseapp/getwidget](https://github.com/ionicfirebaseapp/getwidget) - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
 
 *   [fluttersdk/wind](https://github.com/fluttersdk/wind) - A Flutter plugin designed with a utility-first approach, inspired by Tailwind CSS, for building responsive, modular, and efficient UI components.
@@ -4060,6 +4058,8 @@
 *   [android-cn/android-open-project-demo](https://github.com/android-cn/android-open-project-demo) - Demo of android open source project, 微信公众号:codekk, 网站:
 
 *   [cglib/cglib](https://github.com/cglib/cglib) - cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access.
+
+*   [pengjianbo/MutiChannelPackup](https://github.com/pengjianbo/MutiChannelPackup) - Android多渠道打包，有网页版，Gradle版，Python版、BAT脚本、Jar版…
 
 ## C
 
