@@ -3759,7 +3759,7 @@
 
 *   [greenrobot/EventBus](https://github.com/greenrobot/EventBus) - Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
 
-*   [ProgrammerAnthony/Pantheon](https://github.com/ProgrammerAnthony/Pantheon) - Pantheon is a microservice Service Registry Center  Not Released Now， Only For Study分布式微服务注册中心，使用了很多开源项目的架构思路 暂未发布,仅供学习
+*   [ProgrammerAnthony/Pantheon](https://github.com/ProgrammerAnthony/Pantheon) - Pantheon is a microservice Service Registry Center ，分布式微服务注册中心，使用了很多开源项目的架构思路
 
 *   [SamanLan/Peimissions](https://github.com/SamanLan/Peimissions) - Android6.0权限申请库
 
