@@ -619,7 +619,7 @@
 
 *   [djsudduth/keep-it-markdown](https://github.com/djsudduth/keep-it-markdown) - Export and convert Google Keep notes dynamically to markdown for Obsidian, Apple Notes, Logseq, Joplin and Notion using the unofficial Keep API. Also, import simple markdown notes back into Google Keep.
 
-*   [mangiucugna/json\_repair](https://github.com/mangiucugna/json_repair) - A python module to repair invalid JSON from LLMs
+*   [mangiucugna/json\_repair](https://github.com/mangiucugna/json_repair) - Repair malformed JSON from LLMs, APIs, logs, and user input in Python.
 
 *   [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
