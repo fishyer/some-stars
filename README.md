@@ -2563,6 +2563,8 @@
 
 *   [Chevey339/kelivo](https://github.com/Chevey339/kelivo) - A Flutter LLM Chat Client. Support Mobile & Desktop.
 
+*   [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
+
 *   [ionicfirebaseapp/getwidget](https://github.com/ionicfirebaseapp/getwidget) - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
 
 *   [fluttersdk/wind](https://github.com/fluttersdk/wind) - A Flutter plugin designed with a utility-first approach, inspired by Tailwind CSS, for building responsive, modular, and efficient UI components.
@@ -4124,8 +4126,6 @@
 *   [TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - 微信小助手
 
 *   [TKkk-iOSer/WeChatPlugin-iOS](https://github.com/TKkk-iOSer/WeChatPlugin-iOS) -
-
-*   [Aufree/trip-to-iOS](https://github.com/Aufree/trip-to-iOS) - A curated list of delightful iOS resources.
 
 ## C\#
 
