@@ -989,7 +989,7 @@
 
 *   [fishyer/my-obsidian](https://github.com/fishyer/my-obsidian) -
 
-*   [GalaxyXieyu/didatodolist-mcp](https://github.com/GalaxyXieyu/didatodolist-mcp) - 滴答清单的mcp服务
+*   [GalaxyXieyu/didatodolist-mcp](https://github.com/GalaxyXieyu/didatodolist-mcp) - Bring TickTick task and goal data into MCP workflows with official OAuth and Open API support.
 
 *   [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder) - 一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、RSS订阅，AI处理，多平台推送等功能。
 
