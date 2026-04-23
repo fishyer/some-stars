@@ -347,7 +347,7 @@
 
 *   [MarcinMoskala/ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Simple Android Library, that provides easy way to start the Activities with arguments.
 
-*   [7449/Album](https://github.com/7449/Album) - android 图片视频加载库，单选，多选，预览，自定义UI，相机，裁剪...等等 适配10-13
+*   [7449/album](https://github.com/7449/album) - android 图片视频加载库，单选，多选，预览，自定义UI，相机，裁剪...等等 适配10-13
 
 *   [esafirm/android-image-picker](https://github.com/esafirm/android-image-picker) - Image Picker for Android 🤖
 
