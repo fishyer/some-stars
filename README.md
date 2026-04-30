@@ -65,6 +65,8 @@
 
 ## Python
 
+*   [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
+
 *   [Guiwith/ModelVerse](https://github.com/Guiwith/ModelVerse) - ModelVerse是一个功能强大的大语言模型(LLM)一体化推训平台，致力于为AI开发者和研究者提供完整的模型生命周期管理解决方案。从模型管理到推理部署，从训练微调到性能评估，ModelVerse将复杂的AI工作流程简化为直观易用的一体化平台。
 
 *   [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
@@ -4060,8 +4062,6 @@
 *   [YancyYe/ImageSelector](https://github.com/YancyYe/ImageSelector) - 项目重构中，地址：https://github.com/YancyYe/GalleryPick
 
 *   [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
-
-*   [l123456789jy/Lazy](https://github.com/l123456789jy/Lazy) - The android tools           自己整理的常用的工具类
 
 ## C
 
