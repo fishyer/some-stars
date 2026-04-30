@@ -65,6 +65,8 @@
 
 ## TypeScript
 
+*   [phodal/clean-frontend](https://github.com/phodal/clean-frontend) - Clean Frontend Architecture：整洁前端架构
+
 *   [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript
 
 *   [vovaspace/brandi](https://github.com/vovaspace/brandi) - The dependency injection container powered by TypeScript.
@@ -1131,7 +1133,7 @@
 
 *   [nfe-w/aio-dynamic-push](https://github.com/nfe-w/aio-dynamic-push) - 一款整合多平台动态/直播开播提醒检测与推送的小工具， 目前支持：B站、微博、小红书、抖音、斗鱼、虎牙。
 
-*   [ma-pony/langchain-wechat](https://github.com/ma-pony/langchain-wechat) - 基于langchain + fastapi + itchat搭建的微信聊天机器人，灵感来自于chatgpt-on-wechat
+*   [ma-pony/langchain-wechat](https://github.com/ma-pony/langchain-wechat) - WeChat chatbot built on LangChain + FastAPI + itchat · 基于 LangChain + FastAPI + itchat 的微信聊天机器人，灵感来自 chatgpt-on-wechat
 
 *   [Superheroff/douyin\_uplod](https://github.com/Superheroff/douyin_uplod) - 抖音自动上传发布视频
 
@@ -4060,8 +4062,6 @@
 *   [D-clock/AndroidStudyCode](https://github.com/D-clock/AndroidStudyCode) - 关于Android的一些原理学习和代码实现
 
 *   [JakeWharton/hugo](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds.
-
-*   [imkarl/CharacterPickerView](https://github.com/imkarl/CharacterPickerView) - 可实现三级联动的选择器，高仿iOS的滚轮控件，字体大小自适应
 
 ## C
 
