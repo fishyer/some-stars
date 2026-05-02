@@ -65,6 +65,8 @@
 
 ## TypeScript
 
+*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
 *   [jeffijoe/awilix](https://github.com/jeffijoe/awilix) - Extremely powerful Inversion of Control (IoC) container for Node.JS
 
 *   [phodal/clean-frontend](https://github.com/phodal/clean-frontend) - Clean Frontend Architecture：整洁前端架构
@@ -4060,8 +4062,6 @@
 *   [Marswin/MarsDaemon](https://github.com/Marswin/MarsDaemon) - A lite library, you can make your project depend it easily, and your project will be UNDEAD (contains api from 9 to 23, lol).
 
 *   [litesuits/android-lite-async](https://github.com/litesuits/android-lite-async) - Crossbow(LiteAsync) is an ameliorative, enhanced AsyncTask for Android. LiteAsync provides SimpleTask, SafeTask, CachedTask, etc, for rapid development. More convenient is, it has a TaskExcutor that excutes ordered, cyclicbarrier, delayed and timer Task.
-
-*   [D-clock/AndroidStudyCode](https://github.com/D-clock/AndroidStudyCode) - 关于Android的一些原理学习和代码实现
 
 ## C
 
