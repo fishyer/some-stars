@@ -347,7 +347,7 @@
 
 *   [ZH1754629545/dida365-mcp-servers](https://github.com/ZH1754629545/dida365-mcp-servers) - 基于滴答官方文档生成的日程待办增删改查MCP服务
 
-*   [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
+*   [requestly/requestly](https://github.com/requestly/requestly) - Open-Source HTTP Interceptor & Mocking Tool
 
 *   [Hzao/PocketChest](https://github.com/Hzao/PocketChest) - Secure, serverless file and text sharing built on Cloudflare with large file support.
 
