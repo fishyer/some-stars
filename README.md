@@ -1251,7 +1251,7 @@
 
 *   [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) -
 
-*   [emcie-co/parlant](https://github.com/emcie-co/parlant) - The interaction control harness for customer-facing AI agents - optimized for building controlled, consistent, and predictable customer interactions with LLMs.
+*   [emcie-co/parlant](https://github.com/emcie-co/parlant) - Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
 
 *   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 
