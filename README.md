@@ -483,6 +483,8 @@
 
 *   [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 
+*   [leonmeka/sortql-cli](https://github.com/leonmeka/sortql-cli) - A file management automation tool with SQL-like syntax.
+
 *   [sunls24/nextai](https://github.com/sunls24/nextai) - 一个简单而优雅的 AI 聊天程序
 
 *   [kahosan/acgn-collection](https://github.com/kahosan/acgn-collection) - 使用 Bangumi API 的第三方便捷收藏夹
@@ -4060,8 +4062,6 @@
 *   [QGB/QJSU](https://github.com/QGB/QJSU) - Java's Simplified Utils
 
 *   [google/guava](https://github.com/google/guava) - Google core libraries for Java
-
-*   [Marswin/MarsDaemon](https://github.com/Marswin/MarsDaemon) - A lite library, you can make your project depend it easily, and your project will be UNDEAD (contains api from 9 to 23, lol).
 
 ## C
 
