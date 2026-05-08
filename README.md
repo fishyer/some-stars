@@ -853,7 +853,7 @@
 
 *   [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合服务
 
-*   [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) -
+*   [craft-ai-agents/craft-agents-oss](https://github.com/craft-ai-agents/craft-agents-oss) -
 
 *   [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) - Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.
 
