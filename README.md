@@ -65,6 +65,8 @@
 
 ## TypeScript
 
+*   [egoist/tipc](https://github.com/egoist/tipc) - End-to-end typesafe IPC for Electron
+
 *   [DeadWaveWave/opencove](https://github.com/DeadWaveWave/opencove) - Your infinite canvas workspace for agents, tasks, knowledge, and research. An infinite canvas for Claude Code, Codex, terminals, tasks, and notes.
 
 *   [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
@@ -4060,8 +4062,6 @@
 *   [nhaarman/ListViewAnimations](https://github.com/nhaarman/ListViewAnimations) - \[DEPRECATED] An Android library which allows developers to easily add animations to ListView items
 
 *   [wenhuaijun/EasyTagDragView](https://github.com/wenhuaijun/EasyTagDragView) - 仿网易新闻app下拉标签选择菜单，长按拖动排序，点击增删标签控件
-
-*   [android-cjj/Android-MaterialRefreshLayout](https://github.com/android-cjj/Android-MaterialRefreshLayout) - This is a drop-down control, it is more beautiful and powerful than SwipeRefreshLayout
 
 ## C
 
