@@ -65,6 +65,10 @@
 
 ## Python
 
+*   [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集
+
+*   [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
+
 *   [universal-tool-calling-protocol/code-mode](https://github.com/universal-tool-calling-protocol/code-mode) - 🔌 Plug-and-play library to enable agents to call MCP and UTCP tools via code execution.
 
 *   [Thysrael/Horizon](https://github.com/Thysrael/Horizon) - 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
@@ -99,7 +103,7 @@
 
 *   [chenhuawang-04/DocuFlow](https://github.com/chenhuawang-04/DocuFlow) - AI Powered Document Toolbox. Designed for codex/claude code
 
-*   [poco-ai/poco-claw](https://github.com/poco-ai/poco-claw) - A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, and a sandboxed runtime for improved safety. Under the hood, it is powered by a Claude Code–based agent.
+*   [poco-ai/poco-claw](https://github.com/poco-ai/poco-claw) - A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, a sandboxed runtime and channel-based team collaboration. Under the hood, it is powered by a Claude Code–based agent.
 
 *   [wecode-ai/Wegent](https://github.com/wecode-ai/Wegent) - An open-source AI-native operating system to define, organize, and run intelligent agent teams
 
@@ -2503,8 +2507,6 @@
 
 *   [mcxiaoke/RxDocs](https://github.com/mcxiaoke/RxDocs) - Rx和RxJava文档中文翻译项目
 
-*   [sinaweibosdk/weibo\_android\_sdk](https://github.com/sinaweibosdk/weibo_android_sdk) - 新浪微博 Android SDK
-
 ## Rust
 
 *   [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
@@ -4060,8 +4062,6 @@
 *   [Jude95/RollViewPager](https://github.com/Jude95/RollViewPager) - A ViewPager can auto play and loop
 
 *   [Skykai521/ECTranslation](https://github.com/Skykai521/ECTranslation) - Android Studio Plugin,Translate English to Chinese. Android Studio 翻译插件,可以将英文翻译为中文.
-
-*   [WuXiaolong/AndroidUtils](https://github.com/WuXiaolong/AndroidUtils) - Android常用工具类
 
 ## C
 
