@@ -65,6 +65,8 @@
 
 ## TypeScript
 
+*   [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
+
 *   [mikaelvesavuori/figmagic](https://github.com/mikaelvesavuori/figmagic) - Figmagic is the missing piece between DevOps and design: Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
 
 *   [dannote/figma-use](https://github.com/dannote/figma-use) - Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands.
@@ -3070,8 +3072,6 @@
 *   [spring-attic/spring-android](https://github.com/spring-attic/spring-android) - Support for Spring's RestTemplate within native Android applications
 
 *   [sunfusheng/In-depthStudy](https://github.com/sunfusheng/In-depthStudy) - Android 相关技术深入学习项目
-
-*   [litesuits/android-lite-orm](https://github.com/litesuits/android-lite-orm) - LiteOrm is a fast, small, powerful ORM framework for Android. LiteOrm makes you do CRUD operarions on SQLite database with a sigle line of code efficiently.
 
 ## Dart
 
