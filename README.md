@@ -42,11 +42,11 @@
 *   [Pug](#pug)
 *   [EJS](#ejs)
 *   [Perl](#perl)
-*   [Zig](#zig)
 *   [CSS](#css)
 *   [Elixir](#elixir)
 *   [Clojure](#clojure)
 *   [Lua](#lua)
+*   [Zig](#zig)
 *   [AppleScript](#applescript)
 *   [VHDL](#vhdl)
 *   [Markdown](#markdown)
@@ -676,6 +676,8 @@
 *   [fleek-network/lightning](https://github.com/fleek-network/lightning) - Fleek Network, a decentralized edge platform.
 
 *   [singcl/XmVideoPlayer](https://github.com/singcl/XmVideoPlayer) - 一款高颜值的支持播放和下载mp4, m3u8,flv,mpeg-dash等多种流媒体格式的桌面客户端 🔥。
+
+*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 *   [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
@@ -4395,12 +4397,6 @@
 
 *   [datacharmer/mysql-sandbox](https://github.com/datacharmer/mysql-sandbox) - Quick and painless install of one or more MySQL servers in the same host.
 
-## Zig
-
-*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-*   [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
-
 ## CSS
 
 *   [ddrsql/Test](https://github.com/ddrsql/Test) -
@@ -4442,6 +4438,10 @@
 ## Lua
 
 *   [yiweizhi-github/three\_kingdoms\_kill](https://github.com/yiweizhi-github/three_kingdoms_kill) -
+
+## Zig
+
+*   [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
 
 ## AppleScript
 
