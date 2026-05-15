@@ -1943,8 +1943,6 @@
 
 *   [hamibot/hamibot](https://github.com/hamibot/hamibot) - 安卓平台自动化工具，无需 root。
 
-*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
-
 *   [wangcheng/WebSearch](https://github.com/wangcheng/WebSearch) - Select words and Google them
 
 *   [fishyer/demo-flutter-container](https://github.com/fishyer/demo-flutter-container) - Flutter工程的宿主Android工程
@@ -3554,6 +3552,8 @@
 *   [Ryouissei/blog](https://github.com/Ryouissei/blog) -
 
 *   [ivothgle/Tampermonkey](https://github.com/ivothgle/Tampermonkey) -
+
+*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
 
 *   [rosulek/workflowy-clipper](https://github.com/rosulek/workflowy-clipper) - WorkFlowy clipper: Chrome extension
 
