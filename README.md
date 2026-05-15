@@ -115,7 +115,7 @@
 
 *   [numman-ali/zai-cli](https://github.com/numman-ali/zai-cli) - MCP-native command line interface for Z.AI capabilities: vision analysis, web search, web reader, and GitHub repo exploration.
 
-*   [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The coding agent built for the web. stagewise is a purpose-built browser for developers with a coding agent built right in.
+*   [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers.
 
 *   [josdejong/jsonrepair](https://github.com/josdejong/jsonrepair) - Repair invalid JSON documents
 
