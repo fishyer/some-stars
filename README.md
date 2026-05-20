@@ -103,8 +103,6 @@
 
 *   [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
 
-*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
-
 *   [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) -
 
 *   [21st-dev/21st-sdk](https://github.com/21st-dev/21st-sdk) -
@@ -868,6 +866,8 @@
 *   [Guiwith/ModelVerse](https://github.com/Guiwith/ModelVerse) - ModelVerse是一个功能强大的大语言模型(LLM)一体化推训平台，致力于为AI开发者和研究者提供完整的模型生命周期管理解决方案。从模型管理到推理部署，从训练微调到性能评估，ModelVerse将复杂的AI工作流程简化为直观易用的一体化平台。
 
 *   [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+
+*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 
 *   [sentient-agi/EvoSkill](https://github.com/sentient-agi/EvoSkill) - EvoSkill — An open-source framework that automatically discovers and synthesizes reusable agent skills from failed trajectories to improve coding agent performance.
 
