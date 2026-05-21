@@ -65,6 +65,10 @@
 
 ## TypeScript
 
+*   [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
+
+*   [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+
 *   [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
 
 *   [mikaelvesavuori/figmagic](https://github.com/mikaelvesavuori/figmagic) - Figmagic is the missing piece between DevOps and design: Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
@@ -3068,10 +3072,6 @@
 *   [D-clock/AndroidDaemonService](https://github.com/D-clock/AndroidDaemonService) - 合理优雅的进程保活方式
 
 *   [androidannotations/androidannotations](https://github.com/androidannotations/androidannotations) - Fast Android Development. Easy maintainance.
-
-*   [spring-attic/spring-android](https://github.com/spring-attic/spring-android) - Support for Spring's RestTemplate within native Android applications
-
-*   [sunfusheng/In-depthStudy](https://github.com/sunfusheng/In-depthStudy) - Android 相关技术深入学习项目
 
 ## Dart
 
