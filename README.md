@@ -65,6 +65,8 @@
 
 ## TypeScript
 
+*   [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
+
 *   [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 
 *   [Roam-Research/roam-tools](https://github.com/Roam-Research/roam-tools) - MCP and CLI for Roam Research
@@ -3524,8 +3526,6 @@
 *   [campusappcn/AndRouter](https://github.com/campusappcn/AndRouter) - A android router framework used to map url to activities or actions.
 
 *   [ikew0ng/SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout) - An Android library that help you to build app with swipe back gesture.
-
-*   [DIY-green/AndroidStudyDemo](https://github.com/DIY-green/AndroidStudyDemo) - AndroidStudyDemo 为Android学习项目，将学习Android的过程中的收获都汇集于此。要求执行严格的编码规范。接下来会在简书上为每个Module写对应的文章，并持续更新。
 
 ## Dart
 
