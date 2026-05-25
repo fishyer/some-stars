@@ -2697,7 +2697,7 @@
 
 *   [NikitaKozlov/Pury](https://github.com/NikitaKozlov/Pury) - Android library for measuring time between multiple independent events.
 
-*   [jzj1993/AndroidLint](https://github.com/jzj1993/AndroidLint) - Android自定义Lint开发示例工程
+*   [xiaomingio/AndroidLint](https://github.com/xiaomingio/AndroidLint) - Android自定义Lint开发示例工程
 
 *   [AndroidAdvanceWithGeektime/Chapter07](https://github.com/AndroidAdvanceWithGeektime/Chapter07) - Sample for Add Systrace Tag
 
@@ -2955,7 +2955,7 @@
 
 *   [jgilfelt/SystemBarTint](https://github.com/jgilfelt/SystemBarTint) - \[DEPRECATED] Apply background tinting to the Android system UI when using KitKat translucent modes
 
-*   [jzj1993/GsonStudy](https://github.com/jzj1993/GsonStudy) - Gson TypeAdapter使用技巧几例：数据免判空、解析后校验、预处理
+*   [xiaomingio/GsonStudy](https://github.com/xiaomingio/GsonStudy) - Gson TypeAdapter使用技巧几例：数据免判空、解析后校验、预处理
 
 *   [yhaolpz/FloatWindow](https://github.com/yhaolpz/FloatWindow) - Andorid 任意界面悬浮窗，实现悬浮窗如此简单
 
