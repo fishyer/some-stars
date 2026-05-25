@@ -1889,7 +1889,7 @@
 
 *   [sethyuan/orca-note](https://github.com/sethyuan/orca-note) - A note taking application that is good both for outlining and long-form writing.
 
-*   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+*   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 
 *   [liwanggui/macOS-tool](https://github.com/liwanggui/macOS-tool) - 开发效率提升：Mac生产力工具链推荐
 
