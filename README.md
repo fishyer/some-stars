@@ -1371,6 +1371,8 @@
 
 *   [chenhuawang-04/DocuFlow](https://github.com/chenhuawang-04/DocuFlow) - AI Powered Document Toolbox. Designed for codex/claude code
 
+*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+
 *   [poco-ai/poco-claw](https://github.com/poco-ai/poco-claw) - A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, a sandboxed runtime and channel-based team collaboration. Under the hood, it is powered by a Claude Code–based agent.
 
 *   [wecode-ai/Wegent](https://github.com/wecode-ai/Wegent) - An open-source AI-native operating system to define, organize, and run intelligent agent teams
@@ -3814,8 +3816,6 @@
 *   [peterskoett/self-improving-agent](https://github.com/peterskoett/self-improving-agent) -
 
 *   [coderabbitai/git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner) - Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree creation, configuration copying, dependency installation, and workspace setup for efficient parallel development.
-
-*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 *   [rlancemartin/claude-diary](https://github.com/rlancemartin/claude-diary) - A simple memory system for claude code
 
