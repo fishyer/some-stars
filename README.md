@@ -2375,7 +2375,7 @@
 
 *   [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android
 
-*   [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+*   [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 
 *   [easychen/serverchan-demo](https://github.com/easychen/serverchan-demo) - Server酱多语言调用实例
 
