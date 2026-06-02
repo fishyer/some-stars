@@ -71,8 +71,6 @@
 
 *   [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide) - A guide on how to use the Figma MCP server
 
-*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
-
 *   [gnaeus/react-ioc](https://github.com/gnaeus/react-ioc) - Hierarchical Dependency Injection with new React 16 Context API
 
 *   [eze-is/web-access](https://github.com/eze-is/web-access) - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
@@ -544,6 +542,8 @@
 *   [shobhit99/claude-watch](https://github.com/shobhit99/claude-watch) - Control your claude code from your apple watch
 
 *   [ggbond268/MacTools](https://github.com/ggbond268/MacTools) - 免费、开源的原生 macOS 菜单栏工具集合。
+
+*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 
 *   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 
