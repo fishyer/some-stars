@@ -1893,6 +1893,8 @@
 
 *   [mmin18/LayoutCast](https://github.com/mmin18/LayoutCast) - Cast android code and resource changes to the running application through ADB.
 
+*   [xirong/my-git](https://github.com/xirong/my-git) - A practical Git & GitHub handbook for modern engineering teams and AI-native development workflows. |  现代工程团队与 AI 编程时代的 Git / GitHub 实战手册
+
 ## miscellaneous
 
 *   [sethyuan/orca-note](https://github.com/sethyuan/orca-note) - A note taking application that is good both for outlining and long-form writing.
@@ -2296,8 +2298,6 @@
 *   [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 
 *   [happydog-intj/Awesome-RxJava](https://github.com/happydog-intj/Awesome-RxJava) - RxJava resources
-
-*   [xirong/my-git](https://github.com/xirong/my-git) - A practical Git & GitHub handbook for modern engineering teams and AI-native development workflows. |  现代工程团队与 AI 编程时代的 Git / GitHub 实战手册
 
 *   [Tim9Liu9/TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android) - 自己总结的Android开源项目及库
 
