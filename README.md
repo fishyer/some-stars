@@ -677,6 +677,8 @@
 
 *   [ZYF93/easy-model](https://github.com/ZYF93/easy-model) - 一个react的状态管理库
 
+*   [wxhou/openspec-playwright](https://github.com/wxhou/openspec-playwright) - OpenSpec + Playwright Test Agents integration for automated E2E verification
+
 *   [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
 
 *   [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) -
@@ -3754,8 +3756,6 @@
 *   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## HTML
-
-*   [wxhou/openspec-playwright](https://github.com/wxhou/openspec-playwright) - OpenSpec + Playwright Test Agents integration for automated E2E verification
 
 *   [fishyer/my-project](https://github.com/fishyer/my-project) -
 
