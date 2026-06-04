@@ -581,7 +581,7 @@
 
 *   [shobhit99/claude-watch](https://github.com/shobhit99/claude-watch) - Control your claude code from your apple watch
 
-*   [ggbond268/MacTools](https://github.com/ggbond268/MacTools) - 🔥🔥🔥 免费开源的 macOS 原生菜单栏工具集合。
+*   [ggbond268/MacTools](https://github.com/ggbond268/MacTools) - 免费开源的 macOS 原生菜单栏工具集合。
 
 *   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 
