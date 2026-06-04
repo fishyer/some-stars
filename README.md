@@ -2275,7 +2275,7 @@
 
 *   [aopi1125/MyBooks](https://github.com/aopi1125/MyBooks) - books-tech、PPT、or something
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
 
 *   [jayboxyz/websites-and-tools](https://github.com/jayboxyz/websites-and-tools) - :beginner:  分类收藏一些网站、工具和软件，记录一些关于 windows/macOS/linux 系统的使用技巧和软件操作。
 
