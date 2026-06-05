@@ -65,6 +65,8 @@
 
 ## HTML
 
+*   [netflix-hezu/netflix-hezu.github.io](https://github.com/netflix-hezu/netflix-hezu.github.io) - Netflix奈飞合租网站推荐，整理Netflix账号类型、合租价格、最新优惠等发车信息，提供Youtube、Spotify、Disney+等流媒体账号的解锁服务，比较可靠的合租平台有：1.蜜糖商店MetShop · 2.奈飞小铺 · 3.奈飞小镇 · 4.奈飞Pro · 5.爱合租 · 6.Netflixstation
+
 *   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 
 *   [fishyer/my-project](https://github.com/fishyer/my-project) -
@@ -675,7 +677,7 @@
 
 *   [shobhit99/claude-watch](https://github.com/shobhit99/claude-watch) - Control your claude code from your apple watch
 
-*   [ggbond268/MacTools](https://github.com/ggbond268/MacTools) - 免费开源的 macOS 原生菜单栏工具集合。
+*   [ggbond268/MacTools](https://github.com/ggbond268/MacTools) - A free and open-source collection of native macOS menu bar tools. 免费开源的 macOS 原生菜单栏工具集合。
 
 *   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 
@@ -3658,8 +3660,6 @@
 *   [pardom-zz/ActiveAndroid](https://github.com/pardom-zz/ActiveAndroid) - Active record style SQLite persistence for Android
 
 *   [duzechao/OKHttpUtils](https://github.com/duzechao/OKHttpUtils) - 对OkHttp进行封装，网络请求失败自动查询本地缓存,上传文件等功能
-
-*   [kymjs/RxVolley](https://github.com/kymjs/RxVolley) - RxVolley = Volley + RxJava + OkHttp
 
 ## Dart
 
