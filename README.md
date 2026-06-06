@@ -65,6 +65,8 @@
 
 ## Python
 
+*   [Mandar-Sharma/Skill-LM](https://github.com/Mandar-Sharma/Skill-LM) - This is the repository hosting the pre-trained models, training and evaluation codebase, and datasets for the ACL 2023 submission 'Learning Non-linguistic Skills without Sacrificing Linguistic Proficiency'
+
 *   [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 
 *   [knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli) - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen
@@ -3658,8 +3660,6 @@
 *   [hongyangAndroid/base-adapter-helper](https://github.com/hongyangAndroid/base-adapter-helper) - 扩展支持多种Item布局的情况
 
 *   [jianjianH/Order](https://github.com/jianjianH/Order) - 详细介绍Android中SQLite的使用
-
-*   [huangfangyi/FanXin](https://github.com/huangfangyi/FanXin) - IM服务器端+Api服务器+客户端(android+ios)全部开源的项目->https://github.com/YiChat
 
 ## Dart
 
