@@ -3727,7 +3727,7 @@
 
 *   [boeledi/Streams-Block-Reactive-Programming-in-Flutter](https://github.com/boeledi/Streams-Block-Reactive-Programming-in-Flutter) - Sample application to illustrate the notions of Streams, BLoC and Reactive Programming in Flutter
 
-*   [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
+*   [flutter-team-archive/plugins](https://github.com/flutter-team-archive/plugins) - Plugins for Flutter maintained by the Flutter team
 
 *   [xuelongqy/flutter\_easy\_refresh](https://github.com/xuelongqy/flutter_easy_refresh) - A flutter widget that provides pull-down refresh and pull-up load.
 
