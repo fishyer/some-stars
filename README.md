@@ -75,8 +75,6 @@
 
 *   [liwanggui/macOS-tool](https://github.com/liwanggui/macOS-tool) - 开发效率提升：Mac生产力工具链推荐
 
-*   [prisma/skills](https://github.com/prisma/skills) -
-
 *   [doraemonkeys/claude-code-debug-mode](https://github.com/doraemonkeys/claude-code-debug-mode) - Cursor-style Debug Mode skill for coding agents. Hypothesis-driven debugging with runtime log instrumentation and human-in-the-loop verification.
 
 *   [jiweiyeah/Skills-Manager](https://github.com/jiweiyeah/Skills-Manager) - A high-performance desktop application for managing skills across multiple AI coding assistants. Seamlessly organize, sync, and share skills for Claude Code、Codex、Opencode and other AI tools. Built with Tauri 2.0, React 19, and Rust.
@@ -1256,6 +1254,8 @@
 *   [eze-is/web-access](https://github.com/eze-is/web-access) - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
 
 *   [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
+
+*   [prisma/skills](https://github.com/prisma/skills) -
 
 *   [lihuss/AnswerExporter](https://github.com/lihuss/AnswerExporter) - Export all answers or articles of specific zhihu user.
 
