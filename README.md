@@ -773,7 +773,7 @@
 
 *   [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (fork)
 
-*   [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
+*   [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 
 *   [xianyu110/awesome-chatgpt-project](https://github.com/xianyu110/awesome-chatgpt-project) - 1.chatGPT注册  2.chatGPT成品项目整理  3.高效使用chatGPT的小技巧   ↓演示网站
 
