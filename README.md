@@ -151,6 +151,8 @@
 
 *   [RAIT-09/obsidian-agent-client](https://github.com/RAIT-09/obsidian-agent-client) - Bring AI agents into Obsidian via Agent Client Protocol (ACP), such as Claude Code, Codex and Gemini CLI.
 
+*   [jiweiyeah/Skills-Manager](https://github.com/jiweiyeah/Skills-Manager) - A high-performance desktop application for managing skills across multiple AI coding assistants. Seamlessly organize, sync, and share skills for Claude Code、Codex、Opencode and other AI tools. Built with Tauri 2.0, React 19, and Rust.
+
 *   [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 
 *   [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
@@ -660,8 +662,6 @@
 *   [liwanggui/macOS-tool](https://github.com/liwanggui/macOS-tool) - 开发效率提升：Mac生产力工具链推荐
 
 *   [doraemonkeys/claude-code-debug-mode](https://github.com/doraemonkeys/claude-code-debug-mode) - Cursor-style Debug Mode skill for coding agents. Hypothesis-driven debugging with runtime log instrumentation and human-in-the-loop verification.
-
-*   [jiweiyeah/Skills-Manager](https://github.com/jiweiyeah/Skills-Manager) - A high-performance desktop application for managing skills across multiple AI coding assistants. Seamlessly organize, sync, and share skills for Claude Code、Codex、Opencode and other AI tools. Built with Tauri 2.0, React 19, and Rust.
 
 *   [fishyer/MyOpenClaw](https://github.com/fishyer/MyOpenClaw) -
 
@@ -1331,7 +1331,7 @@
 
 *   [Batman0506/wx-wchaty-robot](https://github.com/Batman0506/wx-wchaty-robot) - 一个可以转发消息的微信机器人，可以自定义转发的群，也可以二开做关键字校验，node.js服务
 
-*   [father-bot/chatgpt\_telegram\_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
+*   [father-bot/chatgpt\_telegram\_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT & Claude Python-based, using OpenAI's API.
 
 *   [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 
