@@ -465,8 +465,6 @@
 
 *   [meetqy/rao-pics](https://github.com/meetqy/rao-pics) - :electron: 帮助你远程访问 Eagle 的素材库。
 
-*   [jsmorabito/obsidian-commander](https://github.com/jsmorabito/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
-
 *   [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor, open-source Web rich text editor 开源 Web 富文本编辑器
 
 *   [SebastianMC/obsidian-custom-sort](https://github.com/SebastianMC/obsidian-custom-sort) - Take full control over the order and sorting of folders and notes in File Explorer in Obsidian
@@ -1589,7 +1587,7 @@
 
 *   [debuggerx01/JSONFormat4Flutter](https://github.com/debuggerx01/JSONFormat4Flutter) - 受zzz40500/GsonFormat启发，将JSONObject格式的String解析成dart语言的实体类
 
-*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
+*   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 
 *   [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 
@@ -4408,6 +4406,8 @@
 *   [billie66/TLCL](https://github.com/billie66/TLCL) - 《快乐的 Linux 命令行》
 
 *   [cyddgh/obsidian-chinese-help](https://github.com/cyddgh/obsidian-chinese-help) - 本文档是本人关于obsidian软件使用的心得汇总，用于obsidian群（QQ群号：774176839）的分享。
+
+*   [jsmorabito/obsidian-commander](https://github.com/jsmorabito/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
 
 *   [liyinchigithub/xpath2css](https://github.com/liyinchigithub/xpath2css) - Xpath与CSS Selector 转换工具
 
