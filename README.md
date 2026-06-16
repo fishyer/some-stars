@@ -65,6 +65,8 @@
 
 ## TypeScript
 
+*   [Emanuele-web04/synara](https://github.com/Emanuele-web04/synara) - The best place to build with your AI sub
+
 *   [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness.
 
 *   [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
@@ -3658,8 +3660,6 @@
 *   [sho5nn/ZDepthShadow](https://github.com/sho5nn/ZDepthShadow) - Android - draw z-depth shadow of MaterialDesign
 
 *   [Trinea/android-demo](https://github.com/Trinea/android-demo) - Android common lib demo, include ImageCache, HttpCache, DropDownListView, DownloadManager, install apk silent and so on, you can find description
-
-*   [hongyangAndroid/base-adapter-helper](https://github.com/hongyangAndroid/base-adapter-helper) - 扩展支持多种Item布局的情况
 
 ## Dart
 
