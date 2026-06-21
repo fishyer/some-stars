@@ -117,7 +117,7 @@
 
 *   [wecode-ai/Wegent](https://github.com/wecode-ai/Wegent) - An open-source AI-native operating system to define, organize, and run intelligent agent teams
 
-*   [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - File System as Memory, Memory Shapes the Agent
+*   [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - From workspace to agent memory
 
 *   [dailydaniel/logseq-mcp](https://github.com/dailydaniel/logseq-mcp) - simple logseq mcp server
 
