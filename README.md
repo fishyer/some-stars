@@ -1183,7 +1183,7 @@
 
 *   [wxhou/openspec-playwright](https://github.com/wxhou/openspec-playwright) - OpenSpec + Playwright Test Agents integration for automated E2E verification
 
-*   [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
+*   [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 17 platforms
 
 *   [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) -
 
