@@ -13,22 +13,22 @@
 
 ## Table of Contents
 
-*   [Ruby](#ruby)
+*   [C++](#c)
 *   [TypeScript](#typescript)
+*   [Ruby](#ruby)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Rust](#rust)
-*   [C](#c)
+*   [C](#c-1)
 *   [Swift](#swift)
 *   [Go](#go)
 *   [Java](#java)
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
 *   [PHP](#php)
-*   [C++](#c-1)
 *   [Dockerfile](#dockerfile)
 *   [Vue](#vue)
 *   [MDX](#mdx)
@@ -63,15 +63,57 @@
 *   [GCC Machine Description](#gcc-machine-description)
 *   [TeX](#tex)
 
-## Ruby
+## C++
 
-*   [kyohei8/inoreader-api](https://github.com/kyohei8/inoreader-api) - a simple api client for InoReader
+*   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 
-*   [lacinoire/workflowy-tg-bot](https://github.com/lacinoire/workflowy-tg-bot) - A Telegram bot to add stuff to Workflowy
+*   [carlomigueldy/stacked-starter-template](https://github.com/carlomigueldy/stacked-starter-template) - A Flutter starter template using stacked architecture.
 
-*   [cesarferreira/dryrun](https://github.com/cesarferreira/dryrun) - ☁️ Try the demo project of any Android Library
+*   [Zalafina/QKeyMapper](https://github.com/Zalafina/QKeyMapper) - \[按键映射工具] QKeyMapper，Qt开发Win10\&Win11可用，不修改注册表、不需重新启动系统，可立即生效和停止。支持游戏手柄映射到键鼠，手柄摇杆控制鼠标移动，键鼠映射到虚拟游戏手柄，鼠标控制虚拟手柄移动摇杆等功能。
+
+*   [ZJamss/PVZ\_Cheating](https://github.com/ZJamss/PVZ_Cheating) - 植物大战僵尸(杂交版可用)修改器，外挂 A cheater for Plants vs. Zoombies (including hybrid edition)
+
+*   [iampawan/ChatGPT-Flutter-AIChatBot](https://github.com/iampawan/ChatGPT-Flutter-AIChatBot) - A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language model.
+
+*   [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
+
+*   [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+
+*   [pujfei/eleeye](https://github.com/pujfei/eleeye) - A famous Chinese Chess Engine: Elephant Eye.
+
+*   [Tencent/mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component  developed by WeChat.
+
+*   [Level/leveldown](https://github.com/Level/leveldown) - Superseded by classic-level. Pure C++ Node.js LevelDB binding. An abstract-leveldown compliant store.
+
+*   [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
+
+*   [AndroidAdvanceWithGeektime/JVMTI\_Sample](https://github.com/AndroidAdvanceWithGeektime/JVMTI_Sample) - JVMTI Sample
+
+*   [zjw-swun/JVMTI\_Demo](https://github.com/zjw-swun/JVMTI_Demo) - android p jvmti/android studio apply change
+
+*   [asLody/whale](https://github.com/asLody/whale) - Hook Framework for Android/IOS/Linux/MacOS
+
+*   [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+
+*   [google/flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Experimental plugins for Flutter for Desktop
+
+*   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+
+*   [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
+
+*   [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.
+
+*   [HuTianQi/SmartOpenCV](https://github.com/HuTianQi/SmartOpenCV) - :fire: :fire: :fire: SmartOpenCV是一个OpenCV在Android端的增强库，解决了OpenCV Android SDK在图像预览方面存在的诸多问题，且无需修改OpenCV SDK源码，与OpenCV的SDK解耦
+
+*   [ice1000/algo4j](https://github.com/ice1000/algo4j) - :horse\_racing: An algorithm library using java native interface
+
+*   [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
+
+*   [alibaba/AndFix](https://github.com/alibaba/AndFix) - AndFix is a library that offer hot-fix for Android App.
 
 ## TypeScript
+
+*   [yarin-zhang/AI-Gist](https://github.com/yarin-zhang/AI-Gist) - ✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。
 
 *   [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
 
@@ -658,6 +700,14 @@
 *   [jeneser/ionic-super-bar](https://github.com/jeneser/ionic-super-bar) - Transparent statusBar and awesome toolBar DEMO in ionic
 
 *   [phodal/growth-ionic](https://github.com/phodal/growth-ionic) - \[v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
+
+## Ruby
+
+*   [kyohei8/inoreader-api](https://github.com/kyohei8/inoreader-api) - a simple api client for InoReader
+
+*   [lacinoire/workflowy-tg-bot](https://github.com/lacinoire/workflowy-tg-bot) - A Telegram bot to add stuff to Workflowy
+
+*   [cesarferreira/dryrun](https://github.com/cesarferreira/dryrun) - ☁️ Try the demo project of any Android Library
 
 ## miscellaneous
 
@@ -3731,10 +3781,6 @@
 
 *   [Yalantis/StarWars.Android](https://github.com/Yalantis/StarWars.Android) - This component implements transition animation to crumble view into tiny pieces.
 
-*   [litesuits/android-lite-http](https://github.com/litesuits/android-lite-http) - LiteHttp is a simple, intelligent and flexible HTTP framework for Android. With LiteHttp you can make HTTP request with only one line of code! It could convert a java model to the parameter and rander the response JSON as a java model intelligently.
-
-*   [macouen/lunzi](https://github.com/macouen/lunzi) - 常用整理，轮子收集
-
 ## Dart
 
 *   [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync) - Mobile Git client for syncing a repository between remote and a local directory
@@ -4150,52 +4196,6 @@
 *   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 
 *   [nemoTyrant/manong](https://github.com/nemoTyrant/manong) - 码农周刊整理
-
-## C++
-
-*   [carlomigueldy/stacked-starter-template](https://github.com/carlomigueldy/stacked-starter-template) - A Flutter starter template using stacked architecture.
-
-*   [Zalafina/QKeyMapper](https://github.com/Zalafina/QKeyMapper) - \[按键映射工具] QKeyMapper，Qt开发Win10\&Win11可用，不修改注册表、不需重新启动系统，可立即生效和停止。支持游戏手柄映射到键鼠，手柄摇杆控制鼠标移动，键鼠映射到虚拟游戏手柄，鼠标控制虚拟手柄移动摇杆等功能。
-
-*   [ZJamss/PVZ\_Cheating](https://github.com/ZJamss/PVZ_Cheating) - 植物大战僵尸(杂交版可用)修改器，外挂 A cheater for Plants vs. Zoombies (including hybrid edition)
-
-*   [iampawan/ChatGPT-Flutter-AIChatBot](https://github.com/iampawan/ChatGPT-Flutter-AIChatBot) - A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language model.
-
-*   [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
-
-*   [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-
-*   [pujfei/eleeye](https://github.com/pujfei/eleeye) - A famous Chinese Chess Engine: Elephant Eye.
-
-*   [Tencent/mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component  developed by WeChat.
-
-*   [Level/leveldown](https://github.com/Level/leveldown) - Superseded by classic-level. Pure C++ Node.js LevelDB binding. An abstract-leveldown compliant store.
-
-*   [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
-
-*   [AndroidAdvanceWithGeektime/JVMTI\_Sample](https://github.com/AndroidAdvanceWithGeektime/JVMTI_Sample) - JVMTI Sample
-
-*   [zjw-swun/JVMTI\_Demo](https://github.com/zjw-swun/JVMTI_Demo) - android p jvmti/android studio apply change
-
-*   [asLody/whale](https://github.com/asLody/whale) - Hook Framework for Android/IOS/Linux/MacOS
-
-*   [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-
-*   [google/flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Experimental plugins for Flutter for Desktop
-
-*   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-
-*   [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
-
-*   [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.
-
-*   [HuTianQi/SmartOpenCV](https://github.com/HuTianQi/SmartOpenCV) - :fire: :fire: :fire: SmartOpenCV是一个OpenCV在Android端的增强库，解决了OpenCV Android SDK在图像预览方面存在的诸多问题，且无需修改OpenCV SDK源码，与OpenCV的SDK解耦
-
-*   [ice1000/algo4j](https://github.com/ice1000/algo4j) - :horse\_racing: An algorithm library using java native interface
-
-*   [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
-
-*   [alibaba/AndFix](https://github.com/alibaba/AndFix) - AndFix is a library that offer hot-fix for Android App.
 
 ## Dockerfile
 
