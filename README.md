@@ -897,6 +897,8 @@
 
 *   [aopi1125/MyBooks](https://github.com/aopi1125/MyBooks) - books-tech、PPT、or something
 
+*   [hectorqin/reader](https://github.com/hectorqin/reader) -
+
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
 
 *   [jayboxyz/websites-and-tools](https://github.com/jayboxyz/websites-and-tools) - :beginner:  分类收藏一些网站、工具和软件，记录一些关于 windows/macOS/linux 系统的使用技巧和软件操作。
@@ -3984,8 +3986,6 @@
 *   [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
 
 *   [hi-dhl/KtPractice](https://github.com/hi-dhl/KtPractice) - 这个仓库用于实践和测试 Kotlin 、 Java 性能 和 新语法相关的代码案例，正在陆续添加新的案例。欢迎 star
-
-*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
 
 *   [Quyunshuo/AndroidBaseFrameMVVM](https://github.com/Quyunshuo/AndroidBaseFrameMVVM) - 基于 Jetpack + Kotlin 的 Android 组件化 MVVM 框架
 
