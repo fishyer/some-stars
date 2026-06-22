@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Ruby](#ruby)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
@@ -34,7 +35,6 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Objective-C](#objective-c)
 *   [C#](#c-2)
-*   [Ruby](#ruby)
 *   [Go Template](#go-template)
 *   [Roff](#roff)
 *   [Svelte](#svelte)
@@ -62,6 +62,14 @@
 *   [RAML](#raml)
 *   [GCC Machine Description](#gcc-machine-description)
 *   [TeX](#tex)
+
+## Ruby
+
+*   [kyohei8/inoreader-api](https://github.com/kyohei8/inoreader-api) - a simple api client for InoReader
+
+*   [lacinoire/workflowy-tg-bot](https://github.com/lacinoire/workflowy-tg-bot) - A Telegram bot to add stuff to Workflowy
+
+*   [cesarferreira/dryrun](https://github.com/cesarferreira/dryrun) - ☁️ Try the demo project of any Android Library
 
 ## TypeScript
 
@@ -3727,8 +3735,6 @@
 
 *   [macouen/lunzi](https://github.com/macouen/lunzi) - 常用整理，轮子收集
 
-*   [jczmdeveloper/XCDanmuView](https://github.com/jczmdeveloper/XCDanmuView) - Android弹幕效果View-支持左右两个方向
-
 ## Dart
 
 *   [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync) - Mobile Git client for syncing a repository between remote and a local directory
@@ -4352,12 +4358,6 @@
 *   [atemerev/skynet](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark
 
 *   [huaisha1224/StardewValleyMODManager](https://github.com/huaisha1224/StardewValleyMODManager) - 中文版星露谷物语MOD安装器,An installer for StardewValley mods for Chinese
-
-## Ruby
-
-*   [lacinoire/workflowy-tg-bot](https://github.com/lacinoire/workflowy-tg-bot) - A Telegram bot to add stuff to Workflowy
-
-*   [cesarferreira/dryrun](https://github.com/cesarferreira/dryrun) - ☁️ Try the demo project of any Android Library
 
 ## Go Template
 
