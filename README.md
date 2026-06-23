@@ -137,8 +137,6 @@
 
 *   [21st-dev/21st-sdk](https://github.com/21st-dev/21st-sdk) -
 
-*   [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
-
 *   [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 
 *   [numman-ali/zai-cli](https://github.com/numman-ali/zai-cli) - MCP-native command line interface for Z.AI capabilities: vision analysis, web search, web reader, and GitHub repo exploration.
@@ -894,6 +892,8 @@
 *   [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide) - A guide on how to use the Figma MCP server
 
 *   [gnaeus/react-ioc](https://github.com/gnaeus/react-ioc) - Hierarchical Dependency Injection with new React 16 Context API
+
+*   [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 
 *   [eze-is/web-access](https://github.com/eze-is/web-access) - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
 
