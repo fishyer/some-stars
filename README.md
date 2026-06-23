@@ -663,7 +663,7 @@
 
 *   [ggbond268/MacTools](https://github.com/ggbond268/MacTools) - A free and open-source collection of native macOS menu bar tools. 免费开源的 macOS 原生菜单栏工具集合。
 
-*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications. Built for AI coding agents and programmability.
+*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 
 *   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 
