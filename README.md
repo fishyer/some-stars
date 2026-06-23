@@ -13,9 +13,9 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Swift](#swift)
 *   [C++](#c)
-*   [TypeScript](#typescript)
 *   [Ruby](#ruby)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
@@ -63,109 +63,11 @@
 *   [GCC Machine Description](#gcc-machine-description)
 *   [TeX](#tex)
 
-## Swift
-
-*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain Text Editor for macOS
-
-*   [shobhit99/claude-watch](https://github.com/shobhit99/claude-watch) - Control your claude code from your apple watch
-
-*   [ggbond268/MacTools](https://github.com/ggbond268/MacTools) - A free and open-source collection of native macOS menu bar tools. 免费开源的 macOS 原生菜单栏工具集合。
-
-*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications. Built for AI coding agents and programmability.
-
-*   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
-
-*   [PRNDcompany/StatusBarStyling](https://github.com/PRNDcompany/StatusBarStyling) - StatusBarStyling is an iOS library that makes it easy to style the status bar on SwiftUI views.
-
-*   [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) - Universal API for request permission and get its statuses.
-
-*   [bin64/Clash-Dash](https://github.com/bin64/Clash-Dash) - 原生 SwiftUI 开发的 OpenClash/Nikki(MihomoTProxy) 管理工具
-
-*   [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
-
-*   [even-cheng/ECSigner](https://github.com/even-cheng/ECSigner) - iOS签名Mac客户端，iPhone客户端，网页签名，一键签名，网络地址直签，多文件同步签，自动区分企业签名和个人证书，一键Assets.car生成、解压导出和替换,自动注册设备并更新下载签名证书和签名文件进行签名，支持动态库注入。支持最新iOS15，并向下兼容。
-
-*   [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
-
-*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
-
-*   [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.
-
-*   [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
-
-*   [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
-
-*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
-
-*   [OpenFlutter/flutter\_share\_me](https://github.com/OpenFlutter/flutter_share_me) - Flutter Plugin for sharing contents to social media.  You can use it share to Facebook , WhatsApp , Twitter And System Share UI. Support Url and Text.
-
-*   [wojteklu/Watchdog](https://github.com/wojteklu/Watchdog) - Class for logging excessive blocking on the main thread
-
-*   [objcio/app-architecture](https://github.com/objcio/app-architecture) - Sample Code of the App Architecture Book
-
-*   [JohnSundell/Files](https://github.com/JohnSundell/Files) - A nicer way to handle files & folders in Swift
-
-*   [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
-
-*   [realm/RealmContent](https://github.com/realm/RealmContent) - Light Realm-powered content management system
-
-*   [cythb/TomatoThings](https://github.com/cythb/TomatoThings) -
-
-*   [fancymax/12306ForMac](https://github.com/fancymax/12306ForMac) - An unofficial 12306 Client for Mac
-
-*   [KrisYu/Water](https://github.com/KrisYu/Water) - Simple calculation to render cheap water effects.
-
-*   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
-
-## C++
-
-*   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
-
-*   [carlomigueldy/stacked-starter-template](https://github.com/carlomigueldy/stacked-starter-template) - A Flutter starter template using stacked architecture.
-
-*   [Zalafina/QKeyMapper](https://github.com/Zalafina/QKeyMapper) - \[按键映射工具] QKeyMapper，Qt开发Win10\&Win11可用，不修改注册表、不需重新启动系统，可立即生效和停止。支持游戏手柄映射到键鼠，手柄摇杆控制鼠标移动，键鼠映射到虚拟游戏手柄，鼠标控制虚拟手柄移动摇杆等功能。
-
-*   [ZJamss/PVZ\_Cheating](https://github.com/ZJamss/PVZ_Cheating) - 植物大战僵尸(杂交版可用)修改器，外挂 A cheater for Plants vs. Zoombies (including hybrid edition)
-
-*   [iampawan/ChatGPT-Flutter-AIChatBot](https://github.com/iampawan/ChatGPT-Flutter-AIChatBot) - A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language model.
-
-*   [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
-
-*   [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-
-*   [pujfei/eleeye](https://github.com/pujfei/eleeye) - A famous Chinese Chess Engine: Elephant Eye.
-
-*   [Tencent/mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component  developed by WeChat.
-
-*   [Level/leveldown](https://github.com/Level/leveldown) - Superseded by classic-level. Pure C++ Node.js LevelDB binding. An abstract-leveldown compliant store.
-
-*   [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
-
-*   [AndroidAdvanceWithGeektime/JVMTI\_Sample](https://github.com/AndroidAdvanceWithGeektime/JVMTI_Sample) - JVMTI Sample
-
-*   [zjw-swun/JVMTI\_Demo](https://github.com/zjw-swun/JVMTI_Demo) - android p jvmti/android studio apply change
-
-*   [asLody/whale](https://github.com/asLody/whale) - Hook Framework for Android/IOS/Linux/MacOS
-
-*   [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-
-*   [google/flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Experimental plugins for Flutter for Desktop
-
-*   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-
-*   [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
-
-*   [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.
-
-*   [HuTianQi/SmartOpenCV](https://github.com/HuTianQi/SmartOpenCV) - :fire: :fire: :fire: SmartOpenCV是一个OpenCV在Android端的增强库，解决了OpenCV Android SDK在图像预览方面存在的诸多问题，且无需修改OpenCV SDK源码，与OpenCV的SDK解耦
-
-*   [ice1000/algo4j](https://github.com/ice1000/algo4j) - :horse\_racing: An algorithm library using java native interface
-
-*   [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
-
-*   [alibaba/AndFix](https://github.com/alibaba/AndFix) - AndFix is a library that offer hot-fix for Android App.
-
 ## TypeScript
+
+*   [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+
+*   [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 
 *   [yarin-zhang/AI-Gist](https://github.com/yarin-zhang/AI-Gist) - ✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。
 
@@ -753,6 +655,108 @@
 
 *   [phodal/growth-ionic](https://github.com/phodal/growth-ionic) - \[v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker
 
+## Swift
+
+*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain Text Editor for macOS
+
+*   [shobhit99/claude-watch](https://github.com/shobhit99/claude-watch) - Control your claude code from your apple watch
+
+*   [ggbond268/MacTools](https://github.com/ggbond268/MacTools) - A free and open-source collection of native macOS menu bar tools. 免费开源的 macOS 原生菜单栏工具集合。
+
+*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications. Built for AI coding agents and programmability.
+
+*   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
+
+*   [PRNDcompany/StatusBarStyling](https://github.com/PRNDcompany/StatusBarStyling) - StatusBarStyling is an iOS library that makes it easy to style the status bar on SwiftUI views.
+
+*   [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) - Universal API for request permission and get its statuses.
+
+*   [bin64/Clash-Dash](https://github.com/bin64/Clash-Dash) - 原生 SwiftUI 开发的 OpenClash/Nikki(MihomoTProxy) 管理工具
+
+*   [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
+
+*   [even-cheng/ECSigner](https://github.com/even-cheng/ECSigner) - iOS签名Mac客户端，iPhone客户端，网页签名，一键签名，网络地址直签，多文件同步签，自动区分企业签名和个人证书，一键Assets.car生成、解压导出和替换,自动注册设备并更新下载签名证书和签名文件进行签名，支持动态库注入。支持最新iOS15，并向下兼容。
+
+*   [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
+
+*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+
+*   [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.
+
+*   [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
+
+*   [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
+
+*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+
+*   [OpenFlutter/flutter\_share\_me](https://github.com/OpenFlutter/flutter_share_me) - Flutter Plugin for sharing contents to social media.  You can use it share to Facebook , WhatsApp , Twitter And System Share UI. Support Url and Text.
+
+*   [wojteklu/Watchdog](https://github.com/wojteklu/Watchdog) - Class for logging excessive blocking on the main thread
+
+*   [objcio/app-architecture](https://github.com/objcio/app-architecture) - Sample Code of the App Architecture Book
+
+*   [JohnSundell/Files](https://github.com/JohnSundell/Files) - A nicer way to handle files & folders in Swift
+
+*   [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
+
+*   [realm/RealmContent](https://github.com/realm/RealmContent) - Light Realm-powered content management system
+
+*   [cythb/TomatoThings](https://github.com/cythb/TomatoThings) -
+
+*   [fancymax/12306ForMac](https://github.com/fancymax/12306ForMac) - An unofficial 12306 Client for Mac
+
+*   [KrisYu/Water](https://github.com/KrisYu/Water) - Simple calculation to render cheap water effects.
+
+*   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
+
+## C++
+
+*   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
+
+*   [carlomigueldy/stacked-starter-template](https://github.com/carlomigueldy/stacked-starter-template) - A Flutter starter template using stacked architecture.
+
+*   [Zalafina/QKeyMapper](https://github.com/Zalafina/QKeyMapper) - \[按键映射工具] QKeyMapper，Qt开发Win10\&Win11可用，不修改注册表、不需重新启动系统，可立即生效和停止。支持游戏手柄映射到键鼠，手柄摇杆控制鼠标移动，键鼠映射到虚拟游戏手柄，鼠标控制虚拟手柄移动摇杆等功能。
+
+*   [ZJamss/PVZ\_Cheating](https://github.com/ZJamss/PVZ_Cheating) - 植物大战僵尸(杂交版可用)修改器，外挂 A cheater for Plants vs. Zoombies (including hybrid edition)
+
+*   [iampawan/ChatGPT-Flutter-AIChatBot](https://github.com/iampawan/ChatGPT-Flutter-AIChatBot) - A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language model.
+
+*   [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
+
+*   [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+
+*   [pujfei/eleeye](https://github.com/pujfei/eleeye) - A famous Chinese Chess Engine: Elephant Eye.
+
+*   [Tencent/mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component  developed by WeChat.
+
+*   [Level/leveldown](https://github.com/Level/leveldown) - Superseded by classic-level. Pure C++ Node.js LevelDB binding. An abstract-leveldown compliant store.
+
+*   [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
+
+*   [AndroidAdvanceWithGeektime/JVMTI\_Sample](https://github.com/AndroidAdvanceWithGeektime/JVMTI_Sample) - JVMTI Sample
+
+*   [zjw-swun/JVMTI\_Demo](https://github.com/zjw-swun/JVMTI_Demo) - android p jvmti/android studio apply change
+
+*   [asLody/whale](https://github.com/asLody/whale) - Hook Framework for Android/IOS/Linux/MacOS
+
+*   [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+
+*   [google/flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Experimental plugins for Flutter for Desktop
+
+*   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+
+*   [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
+
+*   [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.
+
+*   [HuTianQi/SmartOpenCV](https://github.com/HuTianQi/SmartOpenCV) - :fire: :fire: :fire: SmartOpenCV是一个OpenCV在Android端的增强库，解决了OpenCV Android SDK在图像预览方面存在的诸多问题，且无需修改OpenCV SDK源码，与OpenCV的SDK解耦
+
+*   [ice1000/algo4j](https://github.com/ice1000/algo4j) - :horse\_racing: An algorithm library using java native interface
+
+*   [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
+
+*   [alibaba/AndFix](https://github.com/alibaba/AndFix) - AndFix is a library that offer hot-fix for Android App.
+
 ## Ruby
 
 *   [kyohei8/inoreader-api](https://github.com/kyohei8/inoreader-api) - a simple api client for InoReader
@@ -1168,8 +1172,6 @@
 *   [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 
 *   [happydog-intj/Awesome-RxJava](https://github.com/happydog-intj/Awesome-RxJava) - RxJava resources
-
-*   [Tim9Liu9/TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android) - 自己总结的Android开源项目及库
 
 ## Shell
 
@@ -3778,8 +3780,6 @@
 *   [jingle1267/android-utils](https://github.com/jingle1267/android-utils) - It contains most of the Android utility classes.
 
 *   [wenchaojiang/AndroidSwipeableCardStack](https://github.com/wenchaojiang/AndroidSwipeableCardStack) - A tinder like swipeable card stack component
-
-*   [Yalantis/StarWars.Android](https://github.com/Yalantis/StarWars.Android) - This component implements transition animation to crumble view into tiny pieces.
 
 ## Dart
 
