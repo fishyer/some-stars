@@ -4281,7 +4281,7 @@
 
 ## MDX
 
-*   [mixpanel/docs](https://github.com/mixpanel/docs) - Mixpanel's Official Documentation
+*   [mixpanel/docs-legacy](https://github.com/mixpanel/docs-legacy) - Mixpanel's Official Documentation
 
 *   [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
